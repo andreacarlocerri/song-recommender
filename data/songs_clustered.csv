@@ -1,0 +1,1208 @@
+isrc,deezer_id,song,artist,genre,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,cluster,cluster_name
+USSM12004898,1086622472,"3 Gymnopédies: No. 1, Lent et douloureux",KHATIA BUNIATISHVILI,classical,0.468,0.00183,-32.776,0.0584,0.995,0.951,0.0852,0.145,75.792,4,Quiet & instrumental
+GBAYC9100019,3097275,"Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",Mstislav Rostropovich,classical,0.359,0.111,-23.939,0.0778,0.978,0.825,0.121,0.658,91.468,4,Quiet & instrumental
+GBAYC1702567,430251032,Saint-Saëns / Transcr. Vidal: Le carnaval des animaux: XIII. Le cygne,Gautier Capuçon,classical,0.213,0.0329,-28.228,0.0451,0.972,0.926,0.0978,0.0366,84.819,4,Quiet & instrumental
+FRZ149013040,396891112,"Bagatelle ""A Elise"", WoO 59",Brigitte Engerer,classical,0.213,0.011,-36.453,0.0398,0.993,0.891,0.0574,0.182,141.725,4,Quiet & instrumental
+GBAYC6600267,69089334,"Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 ""Moonlight"": I. Adagio sostenuto",Daniel Barenboim,classical,0.165,0.003,-42.654,0.0424,0.994,0.913,0.15,0.15,61.201,4,Quiet & instrumental
+USSM19100598,70151230,"Sonata No. 12 in A Major for Piano, K. 331/300i/III.  (Rondo) Alla Turca.  Allegretto",Murray Perahia,classical,0.404,0.185,-19.238,0.0375,0.984,0.913,0.109,0.563,137.635,4,Quiet & instrumental
+GBAYC9702776,3199692,Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon (Orchestral Version),Sir Neville Marriner,classical,0.128,0.158,-16.121,0.0352,0.747,0.921,0.1,0.1,84.338,4,Quiet & instrumental
+USSM11407586,99692844,"Peer Gynt Suite No. 1, Op. 46: I. Morning Mood",Leonard Bernstein,classical,0.198,0.0512,-21.068,0.04,0.961,0.914,0.161,0.0353,100.814,4,Quiet & instrumental
+DEN961801790,646298592,"The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846 : J.S. Bach: The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",Lang Lang,classical,0.235,0.125,-25.418,0.0449,0.989,0.896,0.101,0.208,134.096,4,Quiet & instrumental
+DEF056201641,4152544,"Symphony No. 5 in C Minor, Op. 67 : Beethoven: Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",Berliner Philharmoniker,classical,0.275,0.326,-14.79,0.043,0.912,0.92,0.082,0.119,98.722,4,Quiet & instrumental
+USSM11103277,71724742,"Liebestraum No. 3 in A-Flat Major, S. 541 / 3",Lang Lang,classical,0.279,0.0292,-26.804,0.0406,0.987,0.902,0.104,0.0338,136.732,4,Quiet & instrumental
+DEF058201661,65602166,"Eine kleine Nachtmusik, K. 525 : Mozart: Eine kleine Nachtmusik, K. 525: I. Allegro",Wiener Philharmoniker,classical,0.528,0.172,-17.104,0.0465,0.924,0.935,0.0652,0.406,134.156,4,Quiet & instrumental
+GBAYC2201170,1854043707,"Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 ""Summer"": III. Presto",Renaud Capuçon,classical,0.261,0.562,-13.73,0.0413,0.805,0.873,0.107,0.657,52.057,6,Instrumental grooves
+DEF058300600,4152845,"Orchestral Suite No. 3 in D Major, BWV 1068 : J.S. Bach: Orchestral Suite No. 3 in D Major, BWV 1068: II. Air ""on the G String""",David Bell,classical,0.168,0.0698,-27.22,0.0471,0.924,0.934,0.126,0.047,112.654,4,Quiet & instrumental
+DEF056201661,65442086,"Symphony No. 7 in A Major, Op. 92 : Beethoven: Symphony No. 7 in A Major, Op. 92: II. Allegretto",Berliner Philharmoniker,classical,0.119,0.0351,-25.679,0.0411,0.814,0.823,0.0607,0.0385,71.408,4,Quiet & instrumental
+CA5KV1610005,134026176,"Saint-Saëns: Danse Macabre, Op. 40, R.171",Orchestre symphonique de Montréal,classical,0.371,0.131,-23.899,0.0422,0.898,0.925,0.0847,0.0656,106.872,4,Quiet & instrumental
+GBBBA0541240,63067707,"Schubert: Ave Maria, D. 839",Renée Fleming,classical,0.125,0.0738,-20.346,0.0476,0.994,0.733,0.0921,0.0525,171.13,4,Quiet & instrumental
+GBAYC0203220,3096478,"Bizet: Carmen, WD 31, Act 1: Habanera. ""L'amour est un oiseau rebelle"" (Carmen, Chœur)",Michel Plasson,classical,0.364,0.0592,-21.757,0.057,0.978,0.0,0.0823,0.185,123.789,1,Soft & acoustic
+HKI199332006,2772462301,Lohengrin: Prelude,Slovak Philharmonic Orchestra,classical,0.0821,0.0659,-22.252,0.0402,0.783,0.945,0.0867,0.0285,84.138,4,Quiet & instrumental
+GBF079142401,68247806,L'Orfeo - Prologo : Monteverdi: L'Orfeo - Prologo: Toccata,New London Consort,classical,0.619,0.342,-11.429,0.0349,0.466,0.0902,0.152,0.373,67.006,1,Soft & acoustic
+GBF079411430,2156110,"Rêverie, L. 68 : Debussy: Rêverie, CD 76",Jean-Yves Thibaudet,classical,0.236,0.0152,-28.783,0.043,0.994,0.918,0.0867,0.0609,67.12,4,Quiet & instrumental
+GBAYC0902894,5150588,Barber: Adagio for Strings,Sir Simon Rattle,classical,0.0658,0.0735,-24.133,0.0537,0.974,0.861,0.28,0.0306,74.292,4,Quiet & instrumental
+NLA507802439,2952685,"Symphony No. 25 in G Minor, K. 183 : Mozart: Symphony No. 25 in G Minor, K. 183: I. Allegro con brio",Academy Of St Martin In The Fields,classical,0.33,0.238,-13.764,0.0383,0.987,0.896,0.0849,0.366,159.974,4,Quiet & instrumental
+GBF077130101,1095525,"Rigoletto, Act III : Verdi: Rigoletto, Act III: La donna è mobile",Luciano Pavarotti,classical,0.369,0.141,-16.16,0.0401,0.967,9.15e-06,0.0967,0.379,132.444,1,Soft & acoustic
+DEF058001370,4152530,"J. Strauss II: An der schönen blauen Donau, Waltz, Op. 314 (Recorded 1980)",Berliner Philharmoniker,classical,0.233,0.0252,-24.824,0.0346,0.975,0.601,0.143,0.0936,94.736,4,Quiet & instrumental
+GBF071202862,65623955,"Piano Concerto No. 2 in C Minor, Op. 18 : Rachmaninoff: Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto",Valentina Lisitsa,classical,0.194,0.0545,-24.877,0.0366,0.983,0.945,0.0551,0.0385,140.966,4,Quiet & instrumental
+DEA809515000,823708,"Tchaikovsky: 1812 Overture in E-Flat Major, Op. 49",Daniel Barenboim,classical,0.173,0.182,-18.848,0.0437,0.886,0.894,0.224,0.0781,70.831,4,Quiet & instrumental
+GBF077440601,6984618,"Enigma Variations, Op. 36 : Elgar: Enigma Variations, Op. 36: Theme. Andante",Chicago Symphony Orchestra,classical,0.169,0.048,-29.281,0.0436,0.852,0.0709,0.657,0.035,113.787,4,Quiet & instrumental
+USSM11101258,71796470,"Violin Sonata in A major, FWV 8: IV. Allegretto poco mosso",Joshua Bell,classical,0.25,0.135,-18.615,0.0488,0.958,0.0349,0.0477,0.179,94.404,1,Soft & acoustic
+GBF076641403,65770800,"Songs from ""Friday Afternoons"", Op. 7 : Britten: Songs from ""Friday Afternoons"", Op. 7: Songs From Friday Afternoons, Op. 7: ""Cuckoo!""","Choir of Downside School, Purley",classical,0.263,0.0253,-25.515,0.0395,0.993,0.000558,0.0604,0.115,88.337,4,Quiet & instrumental
+GBEKZ0500009,3011581,Massenet: Méditation from Thaïs,Nicola Benedetti,classical,0.114,0.0701,-23.417,0.0445,0.87,0.431,0.0916,0.0371,89.33,4,Quiet & instrumental
+NLA509110816,65584327,"3 Chansons, M. 69 : Ravel: 3 Chansons, M. 69: No. 2, Trois beaux oiseaux du Paradis",Nicola Jenkin,classical,0.207,0.0177,-35.508,0.05,0.983,0.00155,0.0697,0.0385,128.524,4,Quiet & instrumental
+FRZ131101070,429649492,"Lieder aus Franz Schubert's Schwanengesang, S. 560: No. 7, Ständchen",Lise de la Salle,classical,0.341,0.0142,-28.293,0.0388,0.993,0.921,0.113,0.0384,76.382,4,Quiet & instrumental
+DEN961830305,549264892,"Organ Sonata No. 4, BWV 528 : J.S. Bach: Organ Sonata No. 4, BWV 528: II. Andante [Adagio] (Transcr. by August Stradal)",Vikingur Olafsson,classical,0.384,0.0414,-23.019,0.0378,0.992,0.897,0.0684,0.0621,71.257,4,Quiet & instrumental
+HKI190438407,2771502881,Act II: Polovtsian Dances - Ulyetay na kril yahk vyetra (Fly away on the wings of the wind) (version,Alexander Porfir'yevich Borodin,classical,0.296,0.247,-14.943,0.0384,0.921,0.484,0.115,0.0851,110.492,4,Quiet & instrumental
+FRZ141315050,396720892,String Quartet No. 1 'Kreutzer Sonata' : I. Adagio. Con moto,Jerusalem Quartet,classical,0.194,0.101,-21.772,0.048,0.931,0.714,0.221,0.074,91.74,4,Quiet & instrumental
+DEF059204137,6986912,"The Firebird, K10, 1919 Suite : Stravinsky: The Firebird, K10, 1919 Suite: VI. Finale",Orchestre de l’Opéra national de Paris,classical,0.106,0.219,-17.078,0.0345,0.732,0.7,0.0657,0.0514,87.629,4,Quiet & instrumental
+GBAYC0702110,3358029,Khachaturian: Spartacus Suite No. 2: I. Adagio of Spartacus and Phrygia,London Symphony Orchestra,classical,0.164,0.106,-21.742,0.0393,0.806,0.787,0.105,0.0334,104.853,4,Quiet & instrumental
+FRZ208400505,5273962,"Chopin: Waltz No. 7 in C-Sharp Minor, Op. 64 No. 2",Maria João Pires,classical,0.302,0.0354,-30.166,0.0383,0.991,0.861,0.102,0.111,133.371,4,Quiet & instrumental
+GBAYC1503749,117224292,"Ravel: Pavane pour une infante défunte, M. 19",Bertrand Chamayou,classical,0.492,0.0176,-26.911,0.0635,0.994,0.927,0.0985,0.0889,126.345,4,Quiet & instrumental
+DEN961600691,143174968,"Concerto in E Major ""La primavera"", Op. 8, No. 1, RV 269 : Vivaldi: Concerto in E Major ""La primavera"", Op. 8, No. 1, RV 269: I. Allegro",Daniel Hope,classical,0.499,0.139,-18.943,0.0416,0.894,0.932,0.179,0.274,109.892,4,Quiet & instrumental
+DEF056901930,4159284,"Schubert: Die Forelle, D. 550",Dietrich Fischer-Dieskau,classical,0.515,0.123,-19.392,0.0375,0.984,0.00451,0.0868,0.562,87.652,1,Soft & acoustic
+DEF058300620,4152538,"Orfeo ed Euridice, Wq. 30, Act II : Gluck: Orfeo ed Euridice, Wq. 30, Act II: Dance of the Blessed Spirits. Andante - Melody - Da capo",Karlheinz Zöller,classical,0.159,0.0634,-27.514,0.0555,0.971,0.93,0.0811,0.0929,63.121,4,Quiet & instrumental
+US65R0807053,2139943,Étude for Piano No. 2 (1994),Philip Glass,classical,0.262,0.16,-19.66,0.0355,0.992,0.882,0.106,0.0353,73.733,4,Quiet & instrumental
+FR7MS1741008,144032750,De Falla: L'Amour Sorcier 07-Danse rituelle du feu,Orchestre national d'île-de-France,classical,0.298,0.0709,-20.848,0.0378,0.886,0.265,0.0888,0.156,139.646,4,Quiet & instrumental
+DEE861600032,120304926,"String Sextet in D Minor, Op. 70, ""Souvenir de Florence"": I. Allegro con spirito",Jan Vogler,classical,0.352,0.235,-16.235,0.0398,0.894,0.675,0.396,0.329,109.16,4,Quiet & instrumental
+GBAYC8803400,3358159,"Elgar: Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",Jacqueline du Pré,classical,0.104,0.0725,-25.197,0.0432,0.944,0.151,0.115,0.044,87.295,4,Quiet & instrumental
+GBAYC1900913,853450822,"Beethoven: Piano Sonata No. 8 in C Minor, Op. 13, ""Pathétique"": III. Rondo (Allegro)",Fazıl Say,classical,0.334,0.127,-23.441,0.0375,0.991,0.916,0.201,0.229,98.731,4,Quiet & instrumental
+GBAYC2101598,1466659462,"Schubert: Moments musicaux, Op. 94, D. 780: No. 3 in F Minor",Alexandre Tharaud,classical,0.55,0.0339,-27.483,0.0405,0.996,0.933,0.0873,0.386,91.385,4,Quiet & instrumental
+QZK6G2253096,1937877357,Idea 10,Gibran Alcocer,classical,0.339,0.242,-20.446,0.0383,0.978,0.871,0.104,0.711,87.053,4,Quiet & instrumental
+FR9W12313131,2969746341,Poesía,Sofiane Pamart,classical,0.362,0.158,-21.467,0.0429,0.978,0.956,0.112,0.14,66.723,4,Quiet & instrumental
+QM3DF2264905,2381508365,Idea 15,Gibran Alcocer,classical,0.299,0.184,-22.955,0.0378,0.983,0.861,0.11,0.274,179.173,4,Quiet & instrumental
+GBBBA1800103,543154902,saman,Ólafur Arnalds,classical,0.583,0.0238,-32.244,0.0369,0.994,0.847,0.103,0.426,108.74,4,Quiet & instrumental
+GBARL1100319,10686127,Smooth Operator (2011 Remastered),Sade,jazz,0.688,0.684,-5.181,0.032,0.0757,0.000832,0.0441,0.96,119.193,5,Upbeat & happy
+USAR19700058,1043640,Forever in Love,Kenny G,jazz,0.366,0.326,-14.175,0.0303,0.401,0.09,0.148,0.121,81.344,1,Soft & acoustic
+USRE17500005,5621085,Popsicle Toes,Michael Franks,jazz,0.81,0.396,-15.91,0.0393,0.426,0.0136,0.0996,0.44,126.052,1,Soft & acoustic
+USEE19901161,3085255,In the Name of Love,"Grover Washington, Jr.",jazz,0.731,0.338,-12.499,0.0523,0.764,0.898,0.293,0.525,92.516,6,Instrumental grooves
+USGR19700251,549330482,"Morning Dance (Live In Lakeville, PA / 1997)",Spyro Gyra,jazz,0.57,0.561,-9.439,0.0332,0.674,0.842,0.692,0.572,100.277,3,Live recordings
+USGR10110440,1093380,"Get Up, Stand Up",Lee Ritenour,jazz,0.696,0.484,-10.38,0.032,0.744,0.912,0.0879,0.598,91.244,6,Instrumental grooves
+US7SF1856580,1348604822,As Long As We're Both Together,Michael Franks,jazz,0.852,0.349,-14.936,0.0403,0.596,0.0114,0.106,0.74,117.958,5,Upbeat & happy
+USMC17553583,7339592,Body Pulse,John Klemmer,jazz,0.506,0.391,-10.979,0.0384,0.605,0.0434,0.108,0.646,144.927,1,Soft & acoustic
+GBBBM8302006,15617262,Your Love Is King,Sade,jazz,0.741,0.421,-6.789,0.0303,0.577,7.19e-05,0.0374,0.595,134.621,5,Upbeat & happy
+USAM16874791,1115573,Face It Boy It's Over,George Benson,jazz,0.726,0.22,-14.904,0.0354,0.883,0.692,0.131,0.497,91.983,6,Instrumental grooves
+USWB19901315,1444376962,Metropolis,Boney James,jazz,0.64,0.59,-10.949,0.0356,0.439,0.404,0.0295,0.788,89.978,5,Upbeat & happy
+TCADG1740520,3844005831,Hero Town (feat. Michael Bland),Vulfpeck,jazz,0.801,0.658,-9.954,0.06,0.0025,0.801,0.0754,0.897,79.191,6,Instrumental grooves
+USPR36500069,2537485,Goin' Out Of My Head,Wes Montgomery,jazz,0.775,0.53,-9.698,0.0292,0.758,0.157,0.137,0.826,119.73,5,Upbeat & happy
+USWB10201610,710681,Breezin',George Benson,jazz,0.652,0.752,-9.521,0.0472,0.476,0.863,0.0766,0.964,80.97,6,Instrumental grooves
+USAT20200800,3607755,Giving You the Best That I Got (Single Version),Anita Baker,jazz,0.637,0.542,-8.173,0.0357,0.765,0.0,0.302,0.38,105.324,1,Soft & acoustic
+USWB10102291,5617762,Straight to the Heart,David Sanborn,jazz,0.605,0.497,-11.516,0.051,0.438,0.0063,0.159,0.522,134.219,1,Soft & acoustic
+USUMG9900628,548727132,Feels So Good (Single Version),Chuck Mangione,jazz,0.608,0.504,-12.431,0.0432,0.344,0.0171,0.113,0.602,104.801,5,Upbeat & happy
+USMC18314297,349512731,Mr. Cool,The Crusaders,jazz,0.671,0.457,-12.276,0.0371,0.254,0.835,0.114,0.83,100.04,6,Instrumental grooves
+USKO10501565,531413901,Angela (Theme from 'Taxi'),Bob James,jazz,0.671,0.295,-16.67,0.0385,0.685,0.758,0.11,0.643,139.378,6,Instrumental grooves
+USPR39507397,1175750,Thieves In The Temple,Herbie Hancock,jazz,0.794,0.454,-13.811,0.0315,0.0338,0.832,0.0702,0.964,121.104,6,Instrumental grooves
+USAM17600176,2284979,"Europa (Earth's Cry, Heaven's Smile)",Gato Barbieri,jazz,0.26,0.27,-12.936,0.0311,0.714,0.852,0.0788,0.294,129.28,4,Quiet & instrumental
+USPR36600088,538661882,OGD (Road Song) (Album Version),Jimmy Smith,jazz,0.594,0.399,-16.981,0.043,0.949,0.854,0.114,0.772,157.745,6,Instrumental grooves
+USRC10301823,566104,One On One,Daryl Hall & John Oates,jazz,0.75,0.36,-12.791,0.0271,0.845,0.26,0.138,0.811,95.61,1,Soft & acoustic
+USSM11507136,125512036,Maiysha (So Long) (feat. Erykah Badu),Miles Davis,jazz,0.699,0.476,-10.659,0.032,0.0305,0.0458,0.0821,0.461,118.779,5,Upbeat & happy
+USGR19700246,992176792,Shaker Song,Spyro Gyra,jazz,0.402,0.674,-10.329,0.0365,0.507,0.53,0.754,0.494,141.205,3,Live recordings
+NLH211800071,565668622,Bud,BRUUT!,jazz,0.253,0.316,-11.662,0.0314,0.887,0.0755,0.109,0.0515,97.089,1,Soft & acoustic
+USAR18600119,1131495,Champagne,Kenny G,jazz,0.665,0.731,-11.864,0.0304,0.0406,0.879,0.056,0.704,105.423,6,Instrumental grooves
+USAT20706602,365119831,Street Scene: Love on a Rainy Afternoon,Arif Mardin,jazz,0.334,0.403,-9.731,0.0314,0.473,0.0546,0.119,0.0494,61.939,1,Soft & acoustic
+USAR19200201,1076263,Even If My Heart Would Break,Kenny G,jazz,0.515,0.452,-12.089,0.0565,0.0402,0.0,0.045,0.321,157.748,0,Loud & fast
+US89R0512369,127803263,One Mint Julep,Gene Ludwig,jazz,0.476,0.49,-10.268,0.0329,0.797,0.0472,0.311,0.484,131.346,1,Soft & acoustic
+USWB19903072,664209,Portia,Miles Davis,jazz,0.593,0.523,-8.772,0.0388,0.0429,0.234,0.155,0.458,74.656,5,Upbeat & happy
+USSM18000432,15527208,Spiraling Prism,Herbie Hancock,jazz,0.444,0.424,-13.923,0.0286,0.394,0.784,0.14,0.383,149.854,6,Instrumental grooves
+GBAAA9400709,3256877,Cloudburst Flight (1995 Remaster),Tangerine Dream,jazz,0.378,0.56,-10.777,0.0363,0.077,0.778,0.0696,0.0477,138.051,6,Instrumental grooves
+USPRA0200013,138629721,Rural Renewal,The Crusaders,jazz,0.787,0.624,-6.59,0.0335,0.289,0.702,0.0446,0.775,116.564,6,Instrumental grooves
+USUM71904989,665426182,Billy Jack,Philip Bailey,jazz,0.732,0.553,-12.326,0.0682,0.194,0.238,0.142,0.64,106.011,5,Upbeat & happy
+USGR10400028,6199542,4 On The Floor,Gerald Albright,jazz,0.637,0.624,-8.478,0.108,0.356,0.887,0.226,0.575,201.881,6,Instrumental grooves
+USGR19700162,876960,Peel Me A Grape (Album Version),Diana Krall,jazz,0.54,0.0874,-15.428,0.112,0.927,0.000122,0.146,0.161,88.924,1,Soft & acoustic
+USUM71407021,81365336,Human Nature,Andreas Varady,jazz,0.572,0.392,-12.535,0.0292,0.96,0.749,0.327,0.496,85.987,6,Instrumental grooves
+GBF089601324,2133815417,A Shade Of Blue,Incognito,jazz,0.676,0.34,-14.164,0.0323,0.503,0.133,0.113,0.685,82.009,1,Soft & acoustic
+USIE19800032,1093386,Ooh-Yeah,Lee Ritenour,jazz,0.709,0.454,-10.94,0.0326,0.624,0.745,0.152,0.46,87.869,6,Instrumental grooves
+USUM70807854,60722654,Always Remember (Album Version),Brian Culbertson,jazz,0.74,0.768,-6.662,0.0327,0.0332,0.321,0.177,0.906,118.0,5,Upbeat & happy
+USGR10111081,2262721,On The Beach,Jeff Golub,jazz,0.815,0.617,-7.367,0.0433,0.205,0.711,0.082,0.861,122.019,6,Instrumental grooves
+USPRA0200004,137687743,X Marks the Spot (Marie Laveau),Joe Sample,jazz,0.826,0.527,-11.922,0.0476,0.144,0.836,0.131,0.793,106.771,6,Instrumental grooves
+USPR39800022,1582072,A Go Go,John Scofield,jazz,0.68,0.416,-13.262,0.0461,0.495,0.859,0.0801,0.509,104.983,6,Instrumental grooves
+USGR10110711,2248645,Crush,Richard Elliot,jazz,0.789,0.695,-7.692,0.0579,0.224,0.754,0.06,0.931,103.989,6,Instrumental grooves
+USPR39609433,2524509,Katherine,Jeff Lorber,jazz,0.645,0.641,-12.018,0.028,0.364,0.893,0.0901,0.671,92.152,6,Instrumental grooves
+USGR18700040,2181636,Kei's Song,David Benoit,jazz,0.307,0.293,-16.631,0.0303,0.636,0.0144,0.185,0.27,144.901,1,Soft & acoustic
+USGR10401495,2235281,Tin Tin Deo,David Sanborn,jazz,0.762,0.712,-7.096,0.0337,0.157,0.847,0.164,0.725,119.951,6,Instrumental grooves
+USGR19905175,143181946,Talk The Talk,Kombo,jazz,0.819,0.552,-9.459,0.0399,0.358,0.943,0.082,0.886,119.619,6,Instrumental grooves
+USRE10700351,680648,Me and Mrs. Jones,Michael Bublé,jazz,0.36,0.381,-8.666,0.0488,0.59,5.15e-05,0.0846,0.346,198.228,0,Loud & fast
+USRC17100681,1046377,Here Comes the Sun,Nina Simone,jazz,0.449,0.332,-15.337,0.0493,0.637,0.00749,0.0785,0.395,116.679,1,Soft & acoustic
+USGR10300080,1095679,I'll Stay,The RH Factor,jazz,0.649,0.27,-13.629,0.0647,0.613,0.291,0.124,0.23,129.756,1,Soft & acoustic
+USUM71701094,355699101,No Moon At All,Diana Krall,jazz,0.632,0.17,-15.12,0.0456,0.889,0.0478,0.0691,0.237,140.934,1,Soft & acoustic
+DEA891700182,143246746,Too Late,Youn Sun Nah,jazz,0.587,0.159,-16.622,0.0381,0.784,0.0242,0.112,0.186,106.685,1,Soft & acoustic
+FRX282185961,1449409182,Lockdown Drive,Jazzbois,jazz,0.415,0.637,-7.948,0.114,0.708,0.828,0.121,0.548,87.605,6,Instrumental grooves
+USRH10723029,71483067,Fly Me To The Moon (2008 Remastered),Frank Sinatra,jazz,0.67,0.364,-10.157,0.0563,0.543,0.0,0.054,0.444,119.364,1,Soft & acoustic
+BRPGD7400001,1168138,Águas De Março,Elis Regina,jazz,0.683,0.517,-11.86,0.23,0.7,1.22e-05,0.109,0.673,144.129,2,Danceable & wordy
+GBUM72402684,2816467212,Tattoo,Jeff Goldblum & the Mildred Snitzer Orchestra,jazz,0.789,0.549,-8.142,0.0301,0.785,0.000461,0.169,0.774,130.005,5,Upbeat & happy
+GBUM72003812,1110672892,If You Love Me,Melody Gardot,jazz,0.235,0.213,-14.154,0.0358,0.869,0.0938,0.1,0.134,181.897,1,Soft & acoustic
+FR9IN1900140,849696322,Minor Swing,Thomas Dutronc,jazz,0.743,0.673,-9.125,0.0386,0.804,0.789,0.105,0.811,101.719,6,Instrumental grooves
+GBKRR2000902,2076057987,Lovely Day,Stacey Kent,jazz,0.659,0.153,-16.986,0.0317,0.907,0.0057,0.0861,0.329,83.99,1,Soft & acoustic
+FRP8H2000640,1082303472,All Around the Wall,Ibrahim Maalouf,jazz,0.734,0.152,-15.156,0.107,0.988,0.881,0.124,0.501,80.096,6,Instrumental grooves
+USSM15800959,585559,"On Green Dolphin Street (feat. John Coltrane, Cannonball Adderley & Bill Evans)",Miles Davis,jazz,0.445,0.304,-12.261,0.0437,0.742,0.00068,0.175,0.362,76.74,1,Soft & acoustic
+USUM72201489,1751418407,Spring Can Really Hang You Up The Most (Demo),Norah Jones,jazz,0.544,0.0313,-17.972,0.0501,0.975,0.000302,0.0981,0.213,102.738,1,Soft & acoustic
+GBUM72107277,1721714997,Plus Fort Que Nous,Melody Gardot,jazz,0.45,0.053,-27.358,0.0373,0.965,0.183,0.11,0.131,101.552,4,Quiet & instrumental
+US9331517111,770431522,Green Dolphin Street,Joey Alexander,jazz,0.317,0.101,-22.345,0.0383,0.99,0.931,0.102,0.109,84.375,4,Quiet & instrumental
+FR9W11922998,782133022,Henri's Lament,Brad Mehldau,jazz,0.505,0.291,-17.082,0.0303,0.899,0.895,0.0921,0.35,80.13,4,Quiet & instrumental
+GBKRR1300515,1084590372,Meditation (Bonus Track),Stacey Kent,jazz,0.76,0.158,-18.594,0.0386,0.953,0.117,0.103,0.332,119.974,1,Soft & acoustic
+DEA621801489,589628312,Radio Mediteran,Omer Klein Trio,jazz,0.581,0.556,-13.483,0.0429,0.184,0.577,0.088,0.533,130.042,6,Instrumental grooves
+USA952003600,1144351922,Tsiaro Tsara,Omar Sosa,jazz,0.662,0.74,-14.146,0.13,0.85,0.734,0.12,0.105,100.341,6,Instrumental grooves
+FR9W11916393,779675432,I Don't Feel No Home,Christophe Panzani,jazz,0.513,0.0356,-18.806,0.0434,0.994,0.331,0.108,0.171,122.877,4,Quiet & instrumental
+FRUM72101329,1476760442,Parfum,Béesau,jazz,0.745,0.439,-8.103,0.0456,0.352,0.0481,0.103,0.658,90.003,5,Upbeat & happy
+USPR36470160,529936281,Chilly Winds Don't Blow (Live In New York/1964),Nina Simone,jazz,0.592,0.272,-12.486,0.0381,0.886,0.000135,0.0914,0.54,100.53,1,Soft & acoustic
+DER412100233,1499049312,If You Give Them More,Andrea Motis,jazz,0.332,0.262,-12.561,0.028,0.936,0.106,0.189,0.292,140.865,1,Soft & acoustic
+USPR36660047,117304046,I'm Getting Sentimental Over You,Bill Evans,jazz,0.495,0.162,-22.121,0.0482,0.974,0.933,0.102,0.483,91.885,4,Quiet & instrumental
+USMMX0430903,3067389,Gloomy Sunday,Branford Marsalis,jazz,0.421,0.0978,-16.397,0.05,0.908,0.336,0.225,0.192,79.292,4,Quiet & instrumental
+GX4PX2100002,1492665332,Weather The Storm,Meg Bird,jazz,0.51,0.145,-13.55,0.0341,0.64,4.55e-05,0.107,0.137,127.856,1,Soft & acoustic
+USQX92103497,1507871032,"Ich steh an deiner Krippen hier, BWV 469",Till Brönner,jazz,0.307,0.0441,-17.372,0.0385,0.929,0.0278,0.113,0.187,109.254,1,Soft & acoustic
+FRPBM1502900,121042098,Chrysalide,Julien Alour Quintet,jazz,0.464,0.407,-8.616,0.0274,0.927,0.877,0.158,0.165,117.054,6,Instrumental grooves
+USSM19919192,13175206,Night And Day,Frank Sinatra,jazz,0.214,0.162,-15.826,0.0313,0.908,2.07e-06,0.276,0.127,93.239,1,Soft & acoustic
+US29B0955440,1578526432,Winter,Brian Blade,jazz,0.426,0.423,-15.392,0.0309,0.907,0.907,0.102,0.413,134.191,6,Instrumental grooves
+USQX91701443,381527981,I Can't Stand the Rain,Dee Dee Bridgewater,jazz,0.631,0.616,-6.109,0.0947,0.357,0.00373,0.0528,0.948,79.875,5,Upbeat & happy
+USF096125560,2233501,Cocktails For Two,Coleman Hawkins,jazz,0.586,0.0947,-16.431,0.0546,0.902,0.126,0.256,0.41,125.662,1,Soft & acoustic
+CAE330500034,1762783477,I Can See Clearly Now (Album Version),Denzal Sinclaire,jazz,0.446,0.0992,-17.184,0.0324,0.979,0.00618,0.1,0.114,110.373,1,Soft & acoustic
+FR9W11710867,451447542,Why Are You Falling Down,Rémi Panossian,jazz,0.354,0.0712,-20.692,0.0357,0.984,0.933,0.11,0.0654,69.838,4,Quiet & instrumental
+NODAA1200115,3515533331,T.E.O.T.W.A.W.K.I,Petter Wettre,jazz,0.511,0.0365,-16.11,0.0457,0.96,0.462,0.154,0.182,121.096,4,Quiet & instrumental
+DEB331548909,426519352,Find The Way,Aaron Parks,jazz,0.291,0.111,-24.601,0.0375,0.883,0.871,0.141,0.15,82.787,4,Quiet & instrumental
+DER412100225,1498928112,I Didn´t Tell Them Why,Andrea Motis,jazz,0.567,0.501,-10.146,0.0676,0.839,0.0603,0.0315,0.756,104.186,1,Soft & acoustic
+DEA540804694,65374100,They Can't Take That Away From Me,Anita O'day,jazz,0.662,0.246,-11.093,0.0833,0.958,0.0,0.111,0.38,124.911,1,Soft & acoustic
+USC4R1301617,2126754287,Unforgettable,George Benson,jazz,0.686,0.34,-12.655,0.0298,0.77,0.00131,0.118,0.462,112.065,1,Soft & acoustic
+US25T0611183,2727377651,"Long, Long Ago",Groundation,reggae,0.773,0.517,-7.218,0.0817,0.0043,1.6e-05,0.094,0.707,130.976,5,Upbeat & happy
+GBBZV8202799,6697440,Ganja Smuggling,Eek-A-Mouse,reggae,0.78,0.427,-8.371,0.126,0.128,1.75e-05,0.0697,0.526,71.665,5,Upbeat & happy
+USIR27700014,528347401,Waiting In Vain,Bob Marley & The Wailers,reggae,0.767,0.46,-11.489,0.332,0.028,2.09e-05,0.0633,0.803,78.802,2,Danceable & wordy
+GBBZV0551471,2031418027,World A Reggae Music,Anthony B,reggae,0.842,0.578,-7.03,0.329,0.0396,0.0,0.159,0.789,82.896,2,Danceable & wordy
+USIR27700012,528347381,Exodus,Bob Marley & The Wailers,reggae,0.865,0.746,-8.58,0.0487,0.0327,0.004,0.141,0.96,132.844,5,Upbeat & happy
+GB01A7800021,3496865,The Same Song (Edit),Israel Vibration,reggae,0.924,0.546,-6.583,0.233,0.141,0.00136,0.0361,0.685,123.33,2,Danceable & wordy
+FR5U10600673,11622585,World A Music,Ini Kamoze,reggae,0.874,0.491,-7.737,0.121,0.00954,0.00629,0.0484,0.364,74.099,5,Upbeat & happy
+GBAAN7790002,528347431,One Love / People Get Ready,Bob Marley & The Wailers,reggae,0.67,0.67,-5.88,0.217,0.111,0.0,0.079,0.936,76.989,2,Danceable & wordy
+USIR28300012,2237450,Rastaman Live Up,Bob Marley & The Wailers,reggae,0.904,0.33,-11.117,0.123,0.185,0.0244,0.0471,0.701,130.692,5,Upbeat & happy
+GBEZT0800022,88717111,Rastafari Anthem,Alborosie,reggae,0.758,0.643,-6.107,0.392,0.0353,0.0,0.134,0.568,76.757,2,Danceable & wordy
+GBAPA9600030,1123828,Below The Bassline,Ernest Ranglin,reggae,0.909,0.248,-15.701,0.0948,0.297,0.662,0.111,0.622,133.274,6,Instrumental grooves
+GBAPA9700079,1123876,Swing Easy,The Skatalites,reggae,0.573,0.488,-10.892,0.164,0.109,0.0642,0.185,0.88,173.822,2,Danceable & wordy
+USSM17600556,834287,Legalize It,Peter Tosh,reggae,0.71,0.589,-11.933,0.167,0.068,4.38e-06,0.176,0.65,144.601,2,Danceable & wordy
+USIR27800259,2293791,Is This Love,Bob Marley & The Wailers,reggae,0.775,0.559,-8.377,0.088,0.108,0.0,0.0945,0.804,122.238,5,Upbeat & happy
+USPR39505263,1167885,Murderer,Buju Banton,reggae,0.806,0.553,-7.453,0.227,0.159,6.06e-06,0.107,0.696,137.949,2,Danceable & wordy
+USIR29700082,905715,One Step Forward (Single Version),Max Romeo,reggae,0.932,0.473,-9.448,0.0549,0.04,0.000419,0.0439,0.675,130.616,5,Upbeat & happy
+FRYNY9800050,2575055,Sweet reggae,Rasta Bigoud,reggae,0.747,0.613,-9.69,0.0671,0.0912,0.00195,0.0807,0.948,140.66,5,Upbeat & happy
+GBAAA7600115,378788651,Jah Works,The Gladiators,reggae,0.666,0.438,-12.494,0.336,0.0579,1.4e-05,0.207,0.808,144.054,2,Danceable & wordy
+USIR27900002,2502150,Zimbabwe,Bob Marley & The Wailers,reggae,0.932,0.611,-8.278,0.0853,0.0901,0.00156,0.0467,0.77,125.238,5,Upbeat & happy
+CIA018600208,2432265755,Jerusalem,Alpha Blondy,reggae,0.717,0.446,-5.747,0.0666,0.426,5.45e-05,0.106,0.693,131.07,5,Upbeat & happy
+USSM17600565,834282,"Get Up, Stand Up",Peter Tosh,reggae,0.899,0.574,-9.946,0.0788,0.00118,0.000345,0.0567,0.913,138.956,5,Upbeat & happy
+USIR27900007,2502155,One Drop,Bob Marley & The Wailers,reggae,0.898,0.48,-7.352,0.223,0.108,2.29e-05,0.202,0.819,121.222,2,Danceable & wordy
+USIR27600022,905711,Chase The Devil,Max Romeo,reggae,0.825,0.62,-6.083,0.211,0.183,0.0,0.0822,0.744,150.243,2,Danceable & wordy
+USA2P0804885,3269246371,Bam Bam,Sister Nancy,reggae,0.722,0.605,-6.07,0.153,0.825,0.0178,0.248,0.709,165.998,5,Upbeat & happy
+USA560558824,1356471352,Black Woman,Judy Mowatt,reggae,0.82,0.423,-13.393,0.352,0.141,0.147,0.118,0.873,121.806,2,Danceable & wordy
+GBAAN7590001,1583147,Lively Up Yourself,Bob Marley & The Wailers,reggae,0.843,0.431,-12.012,0.331,0.204,0.00132,0.0546,0.881,128.697,2,Danceable & wordy
+GB01A0200026,3099567,Reggae Mylitis (2002 Remaster),Peter Tosh,reggae,0.824,0.543,-7.183,0.077,0.107,0.0916,0.0857,0.85,72.694,5,Upbeat & happy
+GBBZV8201352,6713140,Big Ship,Freddie Mcgregor,reggae,0.799,0.296,-12.693,0.171,0.00669,0.000451,0.203,0.661,141.068,2,Danceable & wordy
+EGA130004594,45578081,Satta a Masagana,The Abyssinians,reggae,0.681,0.51,-11.525,0.243,0.23,0.0,0.0726,0.853,148.582,2,Danceable & wordy
+USA560559909,1357030662,Harambe,Rita Marley,reggae,0.867,0.596,-9.193,0.0969,0.173,7.97e-06,0.113,0.954,138.349,5,Upbeat & happy
+GB01A0200137,3406249,Hail H.I.M (2002 Remastered Version),Burning Spear,reggae,0.775,0.652,-7.881,0.0583,0.149,0.18,0.0458,0.671,137.866,5,Upbeat & happy
+USUM70721466,623712582,Chase Dem (Main),Stephen Marley,reggae,0.857,0.555,-6.523,0.144,0.0332,0.0,0.156,0.936,131.032,5,Upbeat & happy
+US4CL0310017,10705155,The Great Gig In The Sky,Easy Star All-Stars,reggae,0.783,0.736,-5.781,0.0365,0.365,0.877,0.0902,0.675,126.415,6,Instrumental grooves
+JMB7K1800001,501519852,Unity We Need,Richie Spice,reggae,0.807,0.778,-5.295,0.159,0.0128,0.0,0.0653,0.84,77.935,5,Upbeat & happy
+USAT20110480,3922216,"You Don't Love Me (No, No, No) (Extended Mix)",Dawn Penn,reggae,0.811,0.428,-10.728,0.221,0.0122,0.317,0.344,0.654,80.962,2,Danceable & wordy
+GBAAA0200199,3088017,Since I Threw The Comb Away (2002 Digital Remastered),Twinkle Brothers,reggae,0.781,0.55,-9.923,0.158,0.0216,2.31e-05,0.061,0.891,121.44,5,Upbeat & happy
+USUM70502752,1575382,Pimpa's Paradise (Album Version),Damian Marley,reggae,0.564,0.836,-6.052,0.401,0.307,0.0,0.491,0.571,121.147,2,Danceable & wordy
+GBAJE0402061,3785934312,Last War (Jah Jah Children Arise),Zap Pow,reggae,0.61,0.804,-7.842,0.0834,0.025,1.12e-05,0.277,0.807,154.935,0,Loud & fast
+QM2PV1794244,375358841,Gimmie Mi Gun,Dr. Alimantado,reggae,0.699,0.526,-10.454,0.371,0.0513,5.81e-06,0.737,0.492,132.985,2,Danceable & wordy
+USVPR9605490,3671092,Ring The Alarm,Tenor Saw,reggae,0.707,0.51,-8.675,0.301,0.186,0.0,0.0848,0.689,170.637,2,Danceable & wordy
+FR5R00900466,16189833,Natty Dread,Israel Vibration,reggae,0.916,0.666,-6.183,0.185,0.0225,0.0,0.0826,0.756,136.02,2,Danceable & wordy
+QZ2L61800097,710632412,Never Be Another You (Reggae Remix),El Michels Affair,reggae,0.807,0.409,-9.812,0.285,0.239,0.00194,0.0887,0.695,84.975,2,Danceable & wordy
+FR5U18200188,11562334,Inner City Blues,Sly Dunbar,reggae,0.72,0.478,-9.909,0.11,0.158,0.0561,0.127,0.59,87.392,5,Upbeat & happy
+GBBBY0300024,2234298,Pass The Dutchie,Musical Youth,reggae,0.726,0.749,-4.696,0.0408,0.404,0.0,0.299,0.964,150.439,5,Upbeat & happy
+DEK560517190,3571212,Africans,Nneka,reggae,0.668,0.651,-3.686,0.284,0.173,0.0,0.0566,0.772,151.58,2,Danceable & wordy
+USVPR2100052,1511780122,Flesh Of My Skin,Keith Hudson,reggae,0.604,0.476,-10.959,0.0395,0.741,0.0,0.105,0.721,129.631,1,Soft & acoustic
+USVE30500115,4552391,Stone Love,Pepper,reggae,0.837,0.478,-5.861,0.0627,0.0571,0.00129,0.0569,0.81,78.746,5,Upbeat & happy
+GBAPA7800011,755377012,Sound Check,Steel Pulse,reggae,0.862,0.292,-16.917,0.328,0.117,0.0,0.0667,0.762,135.129,2,Danceable & wordy
+GBCLQ0700006,73526740,Milk and Honey,Prince Fatty,reggae,0.809,0.607,-7.661,0.213,0.0768,0.102,0.0739,0.639,77.899,2,Danceable & wordy
+GB01A0200010,3091917,Mystic Man (2002 Remaster),Peter Tosh,reggae,0.782,0.65,-6.341,0.0395,0.0255,0.0,0.5,0.707,136.347,3,Live recordings
+QMKTL1500001,104875648,More Than Memories,Jr Thomas & The Volcanos,reggae,0.811,0.415,-8.072,0.069,0.301,2.1e-05,0.105,0.714,78.422,5,Upbeat & happy
+GBAAA0100995,441422042,Couvre-là,UB40,reggae,0.779,0.629,-8.361,0.0899,0.44,3.7e-06,0.177,0.965,135.916,5,Upbeat & happy
+USIR27700008,12441368,Natural Mystic,Bob Marley & The Wailers,reggae,0.876,0.282,-12.618,0.319,0.0503,4.59e-05,0.0741,0.801,130.958,2,Danceable & wordy
+USVPR9705090,43816951,Hills And Valleys,Buju Banton,reggae,0.673,0.64,-5.548,0.103,0.488,0.0,0.0985,0.754,72.109,5,Upbeat & happy
+QMKTL1500007,104875658,Embraceable,Jr Thomas & The Volcanos,reggae,0.615,0.747,-4.878,0.0296,0.0295,1.24e-06,0.109,0.93,82.232,5,Upbeat & happy
+GBQXA1010486,15788955,OK Fred,Errol Dunkley,reggae,0.737,0.581,-8.962,0.0639,0.471,0.164,0.271,0.93,92.472,5,Upbeat & happy
+USA2P2357888,2553122652,Hog and Goat,Don Carlos,reggae,0.684,0.396,-12.897,0.124,0.111,0.000285,0.335,0.912,74.174,5,Upbeat & happy
+GBEZT0800026,88717119,Police,Alborosie,reggae,0.782,0.728,-5.04,0.177,0.137,0.0,0.345,0.771,140.927,2,Danceable & wordy
+GBAPA7700002,1162415,1865 (96º In The Shade),Third World,reggae,0.918,0.393,-16.088,0.15,0.0314,0.000153,0.0269,0.803,131.84,2,Danceable & wordy
+US2391900163,663309592,Chant Down Babylon,Yabby You,reggae,0.844,0.463,-10.632,0.0543,0.17,0.0,0.313,0.716,140.112,5,Upbeat & happy
+CAM460402760,2586275,Could You Be Loved (Reggae),Reggae Beat,reggae,0.821,0.649,-10.963,0.0582,0.297,0.107,0.119,0.86,105.729,5,Upbeat & happy
+USVPR1800342,713082552,Mash You Down,Cornell Campbell,reggae,0.719,0.743,-7.747,0.0911,0.0577,0.00289,0.0942,0.919,80.482,5,Upbeat & happy
+USEE19901169,672770,Chant a Psalm,Steel Pulse,reggae,0.859,0.668,-7.23,0.0463,0.026,7.28e-06,0.298,0.958,111.493,5,Upbeat & happy
+GBAAA9000270,3125402,Dreadlocks The Time Is Now (1990 Digital Remaster),The Gladiators,reggae,0.826,0.476,-15.109,0.167,0.000199,1.43e-05,0.0683,0.843,138.269,2,Danceable & wordy
+USIR28300004,2237439,Buffalo Soldier,Bob Marley & The Wailers,reggae,0.93,0.462,-8.643,0.277,0.128,9.99e-06,0.175,0.777,124.067,2,Danceable & wordy
+GBAAA0100159,3088659,The International Herb (2001 Digital Remaster),Culture,reggae,0.821,0.54,-8.208,0.233,0.31,0.0,0.234,0.859,127.642,2,Danceable & wordy
+USVPR0916297,5413921,Fisherman Style,Captain Sinbad,reggae,0.82,0.702,-4.639,0.226,0.172,0.000149,0.0876,0.696,72.765,2,Danceable & wordy
+QM4TX1561458,779448562,I'd Rather Go Blind,The Frightnrs,reggae,0.68,0.574,-8.14,0.0848,0.405,0.00489,0.138,0.964,144.147,5,Upbeat & happy
+US29V0529401,30920511,Blood Money,10 Ft. Ganja Plant,reggae,0.789,0.793,-6.629,0.107,0.0217,0.826,0.112,0.743,149.368,6,Instrumental grooves
+GBAJE7200604,3786116542,Ain't No Sunshine,Ken Boothe,reggae,0.643,0.648,-8.923,0.127,0.43,2.43e-06,0.302,0.872,152.086,5,Upbeat & happy
+GBUM70706267,71238378,You're Wondering Now,Amy Winehouse,reggae,0.789,0.443,-9.044,0.261,0.0805,0.0,0.439,0.932,134.088,2,Danceable & wordy
+GB01A0200043,3091918,Bush Doctor (2002 Remaster),Peter Tosh,reggae,0.762,0.569,-7.863,0.0544,0.0143,1.45e-05,0.0793,0.789,136.462,5,Upbeat & happy
+US2391472514,1798981857,I'm Still In Love,Alton Ellis,reggae,0.75,0.411,-12.469,0.0392,0.154,0.000135,0.119,0.803,83.46,5,Upbeat & happy
+GBQRF0702527,74587921,Message to Rudy,The Specials,reggae,0.904,0.457,-7.098,0.0623,0.177,0.000381,0.0927,0.967,102.966,5,Upbeat & happy
+CH7811111177,2601690812,Praise Jah In The Moonlight,YG Marley,reggae,0.66,0.727,-4.028,0.0441,0.128,1.31e-05,0.524,0.418,125.023,3,Live recordings
+GBBZV8301272,6713032,Stop That Train,Clint Eastwood,reggae,0.649,0.74,-8.758,0.255,0.00818,1.22e-06,0.258,0.61,173.264,2,Danceable & wordy
+FRS949900090,3095881,Qué palique,Sergent Garcia,reggae,0.728,0.452,-10.203,0.292,0.0855,0.0,0.268,0.791,140.54,2,Danceable & wordy
+USSM10702126,2166355,Sensimillia (feat. Roache),Collie Buddz,reggae,0.852,0.819,-4.999,0.257,0.133,0.0,0.278,0.635,89.969,2,Danceable & wordy
+USEE19901173,672786,Worth His Weight in Gold,Steel Pulse,reggae,0.738,0.654,-8.032,0.0956,0.014,0.000198,0.0361,0.899,156.153,5,Upbeat & happy
+GBAPA7800006,1559878,Handsworth Revolution,Steel Pulse,reggae,0.923,0.555,-10.152,0.0753,0.024,1.71e-06,0.0589,0.818,118.031,5,Upbeat & happy
+QZCE61894168,496428752,So Mi So,Wande Coal,reggae,0.754,0.523,-13.454,0.0481,0.00614,0.000145,0.268,0.404,105.057,5,Upbeat & happy
+USVPR9806283,403535212,Black Roses,Barrington Levy,reggae,0.75,0.607,-5.952,0.0782,0.0606,3.64e-06,0.0352,0.889,84.889,5,Upbeat & happy
+GBAYE0200090,3091925,Johnny B. Goode (2002 Remaster),Peter Tosh,reggae,0.749,0.849,-5.761,0.0544,0.0299,0.000168,0.115,0.959,145.169,5,Upbeat & happy
+FRZ019800790,2295367,Pierpoljak,Pierpoljak,reggae,0.819,0.664,-7.605,0.0435,0.0368,1.09e-05,0.0606,0.933,147.519,5,Upbeat & happy
+JMA271200094,16820827,Time,Don Carlos,reggae,0.77,0.304,-8.988,0.15,0.0216,0.0,0.0503,0.683,155.442,2,Danceable & wordy
+USMO18082595,533296432,Master Blaster (Jammin') (Single Version),Stevie Wonder,reggae,0.844,0.564,-9.176,0.0493,0.0559,2.91e-05,0.245,0.971,130.977,5,Upbeat & happy
+GBAPA7600039,2172271,Can't Stand The Pressure,Aswad,reggae,0.806,0.267,-15.253,0.178,0.374,0.0,0.0375,0.713,129.484,2,Danceable & wordy
+USIR27300009,549246592,Pressure Drop,Toots & The Maytals,reggae,0.669,0.541,-11.288,0.034,0.557,0.0,0.07,0.981,147.477,5,Upbeat & happy
+GBAAM0201085,1177867,So Lonely (Remastered 2003),The Police,reggae,0.541,0.571,-8.308,0.16,0.0123,1.55e-06,0.0933,0.73,77.335,5,Upbeat & happy
+FRZ010401680,2238623,Tonton d'America,Tiken Jah Fakoly,reggae,0.885,0.453,-8.092,0.128,0.248,1.56e-05,0.0571,0.723,134.1,5,Upbeat & happy
+GBAJE7400201,3786381492,"Everything I Own (7"" Mix)",Ken Boothe,reggae,0.725,0.474,-7.73,0.0543,0.0252,0.0,0.116,0.574,75.869,5,Upbeat & happy
+GBARL9700412,554671,Torn,Natalie Imbruglia,rock,0.56,0.897,-5.333,0.0325,0.0626,4.54e-05,0.421,0.624,96.3,3,Live recordings
+USC4R1605373,136334560,Losing My Religion,R.E.M.,rock,0.666,0.855,-5.051,0.0295,0.179,1.2e-06,0.0987,0.803,125.639,5,Upbeat & happy
+GBUM71106457,14343282,One,U2,rock,0.392,0.534,-8.793,0.0369,0.245,0.00104,0.155,0.325,181.305,0,Loud & fast
+USEE19900312,122377140,Kiss Me,Sixpence None the Richer,rock,0.526,0.749,-6.964,0.0283,0.023,1.62e-06,0.0692,0.421,99.983,0,Loud & fast
+USSM10008431,849698,Teenage Dirtbag,Wheatus,rock,0.625,0.85,-3.904,0.0495,0.346,0.000233,0.174,0.633,94.661,5,Upbeat & happy
+USIR10000287,925653,Mr. Jones,Counting Crows,rock,0.571,0.81,-6.535,0.0375,0.15,4.88e-06,0.156,0.714,141.693,0,Loud & fast
+GBBQY9700008,985703802,Stand By Me,Oasis,rock,0.214,0.828,-2.66,0.0383,0.0142,1.61e-06,0.161,0.388,169.876,0,Loud & fast
+USIR10000430,1105723,Cryin',Aerosmith,rock,0.445,0.858,-3.673,0.0327,0.0002,0.0108,0.367,0.489,105.88,0,Loud & fast
+GBUM71601816,398569412,Bitter Sweet Symphony (Remastered 2016),The Verve,rock,0.356,0.917,-6.006,0.0479,0.0335,0.0,0.406,0.518,171.176,0,Loud & fast
+USAR19900870,2654285,Thank You,Dido,rock,0.725,0.583,-9.942,0.0427,0.3,0.000238,0.0665,0.762,79.984,5,Upbeat & happy
+GBAKW9800044,35571,Save Tonight,Eagle-Eye Cherry,rock,0.552,0.674,-9.02,0.0343,6.62e-05,0.000201,0.126,0.626,119.554,5,Upbeat & happy
+USAM19604339,882410,If It Makes You Happy,Sheryl Crow,rock,0.544,0.691,-7.056,0.028,0.0409,0.000164,0.108,0.312,95.451,0,Loud & fast
+USSM19000350,1066624,Two Princes,Spin Doctors,rock,0.547,0.939,-8.259,0.0616,0.00222,0.0,0.0442,0.829,103.48,5,Upbeat & happy
+USSM19700099,532673,To the Moon & Back,Savage Garden,rock,0.598,0.755,-7.364,0.0347,0.0216,1.15e-05,0.0993,0.345,104.113,0,Loud & fast
+USWB19901548,121921372,Everybody Hurts,R.E.M.,rock,0.481,0.383,-8.02,0.0244,0.622,0.0265,0.12,0.177,94.272,1,Soft & acoustic
+USCA29900775,3103097,Goodnight Moon,Shivaree,rock,0.743,0.678,-7.772,0.0313,0.283,0.000158,0.068,0.809,112.911,5,Upbeat & happy
+GBAYE9200048,3130430,Ordinary World,Duran Duran,rock,0.473,0.652,-10.171,0.0305,0.0132,1.13e-05,0.14,0.401,140.117,0,Loud & fast
+USEE10412479,685881,I'll Be There for You (Theme from Friends) (Single Version),The Rembrandts,rock,0.164,0.919,-5.834,0.149,0.0707,2.25e-06,0.158,0.662,190.182,0,Loud & fast
+USGF19141504,1169677,Don't Cry (Original),Guns N' Roses,rock,0.453,0.618,-7.63,0.0335,0.00187,0.00232,0.102,0.198,124.641,0,Loud & fast
+USAT29400050,675582,Cornflake Girl,Tori Amos,rock,0.631,0.638,-8.958,0.0274,0.4,0.000516,0.216,0.813,133.732,5,Upbeat & happy
+USSM19303834,15590617,Streets of Philadelphia (Single Edit),Bruce Springsteen,rock,0.739,0.244,-15.685,0.032,0.355,0.142,0.0887,0.474,93.709,1,Soft & acoustic
+USSM19801545,624823,I Don't Want To Miss A Thing,Aerosmith,rock,0.39,0.649,-5.163,0.0345,0.172,0.0,0.216,0.144,121.161,0,Loud & fast
+GBF089400173,910912,"Love Is All Around (From ""Four Weddings And A Funeral"")",Wet Wet Wet,rock,0.445,0.744,-5.222,0.0326,0.242,0.0,0.135,0.494,168.273,0,Loud & fast
+USSM19805227,625227,Life's A Bitch (Album Version),Shooter,rock,0.61,0.941,-5.474,0.0579,0.0433,9.28e-05,0.238,0.659,102.011,5,Upbeat & happy
+USPR39500200,2463249,One Of Us,Joan Osborne,rock,0.223,0.557,-5.133,0.0332,0.0233,1e-06,0.149,0.335,175.926,0,Loud & fast
+USAM19090005,906621,More Than Words,Extreme,rock,0.626,0.242,-8.658,0.0269,0.43,1.09e-06,0.119,0.228,91.259,1,Soft & acoustic
+USIR19600462,2193499,One Headlight,The Wallflowers,rock,0.702,0.547,-8.983,0.0278,0.000601,0.00608,0.0518,0.739,107.523,5,Upbeat & happy
+USIR19500279,24246391,Don't Speak,No Doubt,rock,0.508,0.752,-5.439,0.0343,0.251,2.1e-05,0.142,0.554,76.07,5,Upbeat & happy
+GBAHT9403736,3590282,I'll Stand by You,Pretenders,rock,0.438,0.606,-6.549,0.0305,0.302,4.46e-06,0.0755,0.266,133.824,0,Loud & fast
+USRZ51010979,84382469,'74-'75,The Connells,rock,0.529,0.586,-9.165,0.025,0.189,0.00289,0.0649,0.422,143.982,0,Loud & fast
+CAA359300084,7035316,Mmm Mmm Mmm Mmm,Crash Test Dummies,rock,0.58,0.575,-7.72,0.0231,0.25,1.83e-05,0.0813,0.37,92.934,5,Upbeat & happy
+USGF19141510,1169683,November Rain,Guns N' Roses,rock,0.294,0.64,-9.316,0.0291,0.016,0.22,0.112,0.226,79.79,0,Loud & fast
+GBARL9600018,994557,Ready to Go,Republica,rock,0.553,0.954,-4.671,0.0537,0.00027,0.149,0.188,0.233,130.045,0,Loud & fast
+USIR29400440,980118,Ode To My Family,The Cranberries,rock,0.365,0.517,-6.635,0.0243,0.0622,0.0,0.265,0.0777,93.862,0,Loud & fast
+CAE159100001,3182179,Life Is A Highway,Tom Cochrane,rock,0.677,0.9,-5.266,0.0457,0.0807,2.18e-06,0.317,0.857,103.045,5,Upbeat & happy
+USIR19500177,7293,Breakfast At Tiffany's,Deep Blue Something,rock,0.617,0.82,-5.905,0.0296,0.134,0.0,0.0961,0.497,110.367,5,Upbeat & happy
+USMC19135647,37927,Learning To Fly,Tom Petty and the Heartbreakers,rock,0.654,0.805,-9.313,0.0296,0.144,0.000153,0.265,0.939,116.749,5,Upbeat & happy
+USMC19858327,2441438,You Get What You Give,New Radicals,rock,0.618,0.932,-3.514,0.0321,0.17,0.0,0.11,0.747,113.978,5,Upbeat & happy
+GBAQT8800001,929150,There She Goes,The La's,rock,0.581,0.88,-4.39,0.0289,0.00105,2.74e-05,0.168,0.945,122.89,5,Upbeat & happy
+USGF19031001,906596,The Shoop Shoop Song (It's In His Kiss),Cher,rock,0.671,0.735,-6.171,0.0284,0.368,0.0,0.231,0.883,117.043,5,Upbeat & happy
+USAT20902980,4288270,Every Morning,Sugar Ray,rock,0.833,0.679,-4.496,0.0365,0.0834,0.00258,0.0769,0.975,109.917,5,Upbeat & happy
+USEM39600079,3239961,Sex & Candy,Marcy Playground,rock,0.581,0.593,-7.887,0.0279,0.265,0.0,0.127,0.65,161.425,0,Loud & fast
+USAM19190012,1182159,(Everything I Do) I Do It For You,Bryan Adams,rock,0.533,0.36,-12.633,0.0282,0.0805,9.57e-06,0.0631,0.299,131.23,1,Soft & acoustic
+USRE19700545,678489,Good Riddance (Time of Your Life),Green Day,rock,0.475,0.432,-7.844,0.0302,0.183,0.0,0.161,0.648,94.605,5,Upbeat & happy
+SEBKB9629380,910474,Lovefool (Radio Edit),The Cardigans,rock,0.645,0.686,-4.645,0.028,0.0304,1.66e-06,0.143,0.941,111.793,5,Upbeat & happy
+USIR29300080,980110,Dreams,The Cranberries,rock,0.533,0.865,-6.37,0.0492,0.000959,0.000612,0.539,0.353,128.572,3,Live recordings
+USSM19200235,1057312,Runaway Train (2022 Remaster),Soul Asylum,rock,0.605,0.764,-5.833,0.0395,0.00588,1.24e-06,0.109,0.487,117.293,5,Upbeat & happy
+GBF089190020,20481921,Nothing Else Matters,Metallica,rock,0.553,0.362,-11.218,0.0263,0.0458,6.01e-06,0.075,0.158,142.352,1,Soft & acoustic
+USAM19201246,882418,Hey Jealousy,Gin Blossoms,rock,0.471,0.797,-8.407,0.0389,0.000179,6.49e-06,0.299,0.497,152.903,0,Loud & fast
+USVI29100003,3129592,It Ain't Over 'Til It's Over,Lenny Kravitz,rock,0.663,0.748,-5.83,0.0462,0.277,0.003,0.312,0.926,159.719,5,Upbeat & happy
+USMC18928464,2303729,Love Is A Long Road,Tom Petty,rock,0.64,0.622,-10.851,0.0316,0.0303,7.63e-05,0.0866,0.496,116.334,5,Upbeat & happy
+USFI86900055,883640,Bad Moon Rising (Remastered 1985),Creedence Clearwater Revival,rock,0.621,0.85,-4.203,0.0311,0.0221,1.52e-06,0.0581,0.923,89.497,5,Upbeat & happy
+USA176810010,5094211,Sympathy For The Devil,The Rolling Stones,rock,0.568,0.677,-10.954,0.262,0.582,0.0,0.044,0.609,114.494,2,Danceable & wordy
+USMC17446153,35420,Sweet Home Alabama,Lynyrd Skynyrd,rock,0.614,0.724,-7.521,0.0247,0.217,0.000256,0.146,0.902,97.863,5,Upbeat & happy
+GBARL0300021,401526032,Lonesome Highway,Rory Gallagher,rock,0.471,0.617,-10.32,0.0312,0.0342,0.0367,0.352,0.323,73.815,0,Loud & fast
+USRE12100164,2312656875,Boxcar,Neil Young,rock,0.363,0.37,-13.712,0.127,0.0441,0.0182,0.158,0.774,162.67,0,Loud & fast
+USVI20700278,3121463,The Passenger,Iggy Pop,rock,0.487,0.935,-3.544,0.053,0.0398,5.53e-06,0.57,0.735,134.831,3,Live recordings
+USWB10400050,63480990,Go Your Own Way (2004 Remaster),Fleetwood Mac,rock,0.583,0.947,-5.12,0.0378,0.0185,0.00109,0.0679,0.803,135.448,5,Upbeat & happy
+USWB19901800,727758,Lonely People,America,rock,0.548,0.473,-9.294,0.0262,0.261,3.83e-05,0.0658,0.559,79.379,5,Upbeat & happy
+USRC17201948,1187155,Walk On the Wild Side,Lou Reed,rock,0.562,0.299,-17.368,0.103,0.644,5e-05,0.101,0.419,104.341,1,Soft & acoustic
+USEE19900375,670804,Roadhouse Blues,The Doors,rock,0.623,0.633,-8.212,0.0304,0.336,4.6e-05,0.147,0.895,121.119,5,Upbeat & happy
+USMC16846563,4281984,Born To Be Wild,Steppenwolf,rock,0.468,0.81,-8.33,0.0724,0.00169,0.0314,0.567,0.464,145.589,3,Live recordings
+USVT10600052,1238177942,"Steady, As She Goes",The Raconteurs,rock,0.525,0.578,-4.563,0.12,0.0132,0.00916,0.108,0.537,123.696,0,Loud & fast
+USGF18714809,518457332,Sweet Child O' Mine,Guns N' Roses,rock,0.436,0.947,-4.759,0.049,0.0876,0.073,0.113,0.637,125.132,0,Loud & fast
+AUAP07900028,92719900,Highway to Hell,AC/DC,rock,0.575,0.915,-4.845,0.132,0.0572,0.00248,0.123,0.465,115.768,0,Loud & fast
+GBDXG1200002,60840053,Highway Star (Remastered 2012),Deep Purple,rock,0.307,0.909,-7.08,0.0574,0.135,0.0336,0.125,0.443,173.674,0,Loud & fast
+USSM10014901,3063196,One,Johnny Cash,rock,0.521,0.437,-10.107,0.0274,0.706,0.00318,0.128,0.428,93.703,1,Soft & acoustic
+USAM19400003,2162533,Fell On Black Days,Soundgarden,rock,0.574,0.739,-5.745,0.0271,0.00152,0.000328,0.141,0.514,101.069,5,Upbeat & happy
+USSM12201035,1708412227,Bronco,Orville Peck,rock,0.315,0.964,-3.912,0.111,0.00959,0.0438,0.108,0.241,164.613,0,Loud & fast
+US6XF2200436,2194033397,Fast Car,Luke Combs,rock,0.712,0.603,-5.52,0.0262,0.186,0.0,0.115,0.67,97.994,5,Upbeat & happy
+USRE12000046,993116432,White Line,Neil Young,rock,0.482,0.146,-19.409,0.0395,0.702,1.04e-06,0.0911,0.535,157.544,1,Soft & acoustic
+USEP41718371,447698162,Ol' 55,Tom Waits,rock,0.492,0.44,-11.461,0.0327,0.806,0.00107,0.165,0.336,110.954,1,Soft & acoustic
+USUG12106439,1618355312,The Dark,Eddie Vedder,rock,0.433,0.961,-3.137,0.0879,0.00123,0.0,0.0797,0.476,149.925,0,Loud & fast
+USNO12300238,2635995072,Hawkmoon,Hurray for the Riff Raff,rock,0.536,0.703,-7.478,0.0331,0.121,0.00169,0.115,0.552,131.97,0,Loud & fast
+USEE19900383,670823,Queen of the Highway,The Doors,rock,0.661,0.595,-9.582,0.037,0.605,0.000667,0.0888,0.697,125.095,5,Upbeat & happy
+AUUM71200495,60765509,Elephant,Tame Impala,rock,0.598,0.553,-6.742,0.0397,0.562,0.157,0.257,0.533,123.075,5,Upbeat & happy
+GBUM71505892,116348614,Day Tripper (Remastered 2015),The Beatles,rock,0.665,0.782,-8.438,0.0307,0.12,4.19e-06,0.125,0.731,137.453,5,Upbeat & happy
+USSM11002255,6599476,Graceland,Paul Simon,rock,0.732,0.705,-9.271,0.0349,0.626,0.00068,0.0813,0.848,117.925,5,Upbeat & happy
+GB5KW2204119,3775823302,Pagan Run,Yusuf / Cat Stevens,rock,0.663,0.757,-5.692,0.0306,0.037,0.00857,0.169,0.78,101.03,5,Upbeat & happy
+UKWX82100744,2435113595,North Wind,The Coral,rock,0.471,0.87,-4.941,0.0302,0.139,0.00479,0.127,0.701,82.557,5,Upbeat & happy
+GBUM72103035,1509470962,Getting Started,Sam Fender,rock,0.46,0.898,-4.514,0.0807,0.0187,0.00114,0.219,0.543,161.005,0,Loud & fast
+QM24S2103526,1425684982,Can't Let You Leave,LP,rock,0.601,0.746,-6.81,0.046,0.0927,6.84e-05,0.0698,0.586,154.975,0,Loud & fast
+USSM12101687,1390913412,Last Train Home,John Mayer,rock,0.591,0.831,-6.612,0.0355,0.235,0.00142,0.0571,0.678,93.007,5,Upbeat & happy
+USSM18100116,625643,Don't Stop Believin',Journey,rock,0.49,0.723,-9.699,0.0408,0.242,0.0,0.371,0.485,119.022,0,Loud & fast
+GBAJE7000084,3788156062,Planet Caravan,Black Sabbath,rock,0.442,0.121,-22.399,0.0366,0.925,0.899,0.088,0.383,90.079,4,Quiet & instrumental
+USMTD2000684,1090110432,Speed of the Sound of Loneliness,Kurt Vile,rock,0.588,0.75,-7.819,0.0261,0.248,0.385,0.0971,0.961,154.205,5,Upbeat & happy
+USRW30200005,4311600,Times Like These,Foo Fighters,rock,0.376,0.908,-3.793,0.0879,1.4e-05,1.4e-05,0.241,0.266,144.581,0,Loud & fast
+GB3AD1900112,1352242682,Natural Blues (Reprise Version),Moby,rock,0.508,0.722,-6.763,0.033,0.00728,0.00106,0.142,0.277,113.995,0,Loud & fast
+QMHBS2300002,2309589395,King of Oklahoma,Jason Isbell and the 400 Unit,rock,0.532,0.64,-6.809,0.0283,0.000748,0.00804,0.374,0.373,117.912,0,Loud & fast
+USUM72308676,2368216925,Dial Drunk,Noah Kahan,rock,0.669,0.606,-7.193,0.0292,0.124,0.0,0.112,0.69,112.108,5,Upbeat & happy
+GBCDP9800101,2629611232,Woke Up This Morning,Alabama 3,rock,0.626,0.808,-7.428,0.0598,0.0808,1.78e-05,0.935,0.43,89.406,3,Live recordings
+USWB10201688,725929,By the Way,Red Hot Chili Peppers,rock,0.452,0.976,-4.349,0.117,0.016,0.00631,0.0985,0.178,123.035,0,Loud & fast
+USAT21300956,88003853,Black Dog (Remaster),Led Zeppelin,rock,0.437,0.864,-7.842,0.0904,0.396,0.0314,0.242,0.749,81.394,5,Upbeat & happy
+QM4TW2344737,2125579767,Sho Been Worse,Tyler Bryant & the Shakedown,rock,0.435,0.86,-5.708,0.0739,0.00591,0.0,0.142,0.612,203.027,0,Loud & fast
+QM7YK2200177,2356442365,Highway Lady,The Record Company,rock,0.579,0.667,-5.324,0.0335,0.113,0.00728,0.122,0.489,83.331,5,Upbeat & happy
+US9ZA2200005,3654427242,Southern Comfort,Larkin Poe,rock,0.477,0.634,-4.782,0.0296,0.108,0.000307,0.107,0.264,145.789,0,Loud & fast
+FR9Z62100932,1763400137,Roadtrip,Iamalex,hip hop,0.674,0.605,-8.104,0.0502,0.183,0.857,0.0673,0.333,145.874,6,Instrumental grooves
+FR9Z62300018,2021622967,Blow,mvnitou,hip hop,0.526,0.512,-10.426,0.338,0.355,0.909,0.122,0.394,198.719,2,Danceable & wordy
+FR9Z62100489,1533646822,Swaying,Alys Good,hip hop,0.313,0.449,-9.322,0.06,0.839,0.913,0.109,0.297,84.943,6,Instrumental grooves
+FRIDO2113356,1554199532,Lemons,midnight alpha.,hip hop,0.673,0.315,-13.001,0.227,0.62,0.626,0.077,0.304,85.066,6,Instrumental grooves
+FR9Z62000434,1097750722,Do the Right Thing,Shuko,hip hop,0.815,0.738,-7.469,0.0453,0.213,0.864,0.29,0.633,91.024,6,Instrumental grooves
+FR7PC2100024,1545869132,Larmes de croco,Tcheep,hip hop,0.537,0.365,-7.444,0.0394,0.956,0.921,0.0999,0.285,84.835,6,Instrumental grooves
+FR9Z62100458,1548869532,Caroline,Fin,hip hop,0.639,0.568,-12.552,0.0867,0.000949,0.857,0.0571,0.0398,174.002,6,Instrumental grooves
+GBSMU9441663,1413613242,Steven Universe,Lofi Fruits Music,hip hop,0.567,0.454,-10.842,0.0422,0.545,0.892,0.0933,0.15,75.01,6,Instrumental grooves
+QZ6CJ2100033,1202301542,Black Horizons,Narrow Shoulders,hip hop,0.676,0.746,-9.841,0.181,0.349,0.521,0.121,0.374,119.738,6,Instrumental grooves
+FRIDO2012433,1199800032,Uncertainty,Noa Erni,hip hop,0.523,0.277,-12.499,0.091,0.471,0.914,0.111,0.352,86.725,6,Instrumental grooves
+FR9Z62300042,2057879017,gonzo,Wun two,hip hop,0.778,0.288,-16.206,0.0672,0.23,0.961,0.0677,0.519,37.005,6,Instrumental grooves
+QZFZ42053507,887663942,Dreaming,SwuM,hip hop,0.566,0.384,-8.27,0.0258,0.846,0.927,0.106,0.0636,115.983,6,Instrumental grooves
+USUYG1353823,1216231412,Water Bed,The Alchemist,hip hop,0.497,0.37,-13.535,0.0984,0.101,0.873,0.12,0.282,172.103,6,Instrumental grooves
+FR96X2170592,1383980102,Late Night Chill,LofiCentral,hip hop,0.868,0.105,-20.943,0.0668,0.805,0.955,0.0986,0.53,140.027,6,Instrumental grooves
+USEAX2100062,1432929912,Asteroidbelt,The Deli,hip hop,0.818,0.286,-9.801,0.293,0.412,0.823,0.0878,0.298,87.977,2,Danceable & wordy
+FR9Z62100013,1257439882,Complicated,Not Yourself,hip hop,0.397,0.425,-12.292,0.031,0.6,0.954,0.122,0.264,170.369,6,Instrumental grooves
+FR9Z62000436,1097800632,Play the Shadows,Sweatson Klank,hip hop,0.729,0.725,-6.723,0.0834,0.108,0.896,0.248,0.685,80.526,6,Instrumental grooves
+USEAX2100068,1432929972,Nocturnal,The Deli,hip hop,0.738,0.432,-11.051,0.764,0.479,0.0247,0.128,0.713,86.823,2,Danceable & wordy
+QZJDZ2100017,1173933122,Keep Waiting,Arlos,hip hop,0.577,0.486,-8.957,0.103,0.288,0.776,0.2,0.0678,139.983,6,Instrumental grooves
+QZJDZ2100019,1173933142,Eclipse,Arlos,hip hop,0.613,0.377,-5.441,0.0382,0.28,0.885,0.137,0.0613,82.025,6,Instrumental grooves
+FRIDO2110394,1247472062,Aqua,Vooo,hip hop,0.606,0.407,-10.421,0.135,0.204,0.127,0.106,0.444,88.924,5,Upbeat & happy
+FR9Z62300160,2149425297,Still Love H.e.r,Flo Badabum,hip hop,0.828,0.458,-10.846,0.0382,0.207,0.482,0.115,0.723,89.992,6,Instrumental grooves
+DEGC62002349,1753954447,Noia,Koralle,hip hop,0.729,0.579,-12.095,0.136,0.258,0.864,0.44,0.553,77.997,6,Instrumental grooves
+GBBPW1900074,683863182,FF4,Flying Lotus,hip hop,0.607,0.184,-7.69,0.0681,0.43,0.937,0.117,0.486,81.244,6,Instrumental grooves
+FR9Z62100047,1275825622,Blue Nite (Epilogue),Simon F.R.E.S.H.,hip hop,0.638,0.207,-16.267,0.222,0.746,0.11,0.107,0.144,145.853,1,Soft & acoustic
+FR9Z62300068,2101132257,new kicks,DESKTOP JUNK,hip hop,0.737,0.0982,-9.599,0.248,0.24,0.604,0.0738,0.437,87.826,2,Danceable & wordy
+FR9Z62000441,1097757262,Absence,Jinsang,hip hop,0.744,0.448,-9.514,0.0763,0.409,0.846,0.113,0.499,90.712,6,Instrumental grooves
+FR9Z62300235,2233992217,Drifting Smoke,Kalaido,hip hop,0.62,0.379,-12.49,0.154,0.83,0.857,0.155,0.637,77.067,6,Instrumental grooves
+FR9Z62000435,1103271262,City Lounge,Saib,hip hop,0.807,0.576,-10.158,0.296,0.0419,0.931,0.116,0.771,169.999,2,Danceable & wordy
+FR9Z62100110,1340954902,Dune,Alys Good,hip hop,0.708,0.304,-8.746,0.0474,0.691,0.739,0.112,0.186,85.035,6,Instrumental grooves
+FR9Z62300213,2252918517,Lado,Konteks,hip hop,0.76,0.338,-11.016,0.229,0.879,0.934,0.0812,0.669,87.035,6,Instrumental grooves
+FR0Z42000540,1045511612,Moon Dance,Blanka,hip hop,0.841,0.502,-10.331,0.494,0.801,0.00727,0.116,0.438,103.029,2,Danceable & wordy
+USUYG1312546,992621332,First Responders,Terrace Martin,hip hop,0.645,0.816,-6.613,0.142,0.144,0.461,0.105,0.542,95.49,5,Upbeat & happy
+USA2P2038671,1121351142,Hopprock,Madlib,hip hop,0.671,0.656,-13.354,0.133,0.119,0.184,0.047,0.532,172.137,0,Loud & fast
+US3DF2288299,1862273987,Bossa Du Soir,Ouska,hip hop,0.738,0.175,-12.733,0.0439,0.866,0.728,0.112,0.444,88.98,6,Instrumental grooves
+GBSMU9171391,1436699122,River Flows in You,Lofi Fruits Music,hip hop,0.485,0.255,-13.619,0.0426,0.838,0.927,0.11,0.157,139.661,4,Quiet & instrumental
+DEQ121644244,3711015502,Untold,Jinsang,hip hop,0.704,0.208,-15.061,0.199,0.727,0.844,0.113,0.507,83.301,6,Instrumental grooves
+FRIDO2012206,1133718092,Gold Seal,Berus,hip hop,0.868,0.622,-9.723,0.0898,0.101,0.859,0.0572,0.614,97.019,6,Instrumental grooves
+USUYG1301684,902169832,Almond Butter,Terrace Martin,hip hop,0.756,0.889,-5.271,0.035,0.0477,0.232,0.0484,0.747,83.002,5,Upbeat & happy
+FR9Z62500054,3217198341,soan,Flughand,hip hop,0.803,0.339,-8.135,0.387,0.894,0.913,0.101,0.772,147.986,2,Danceable & wordy
+GBSMU9126236,1438730802,Clair de Lune,Lofi Fruits Music,hip hop,0.668,0.249,-17.941,0.0351,0.831,0.934,0.113,0.107,120.015,4,Quiet & instrumental
+DEQ021805341,1753889287,Errday 99,J. Rawls,hip hop,0.575,0.405,-10.677,0.0452,0.247,0.751,0.159,0.18,86.983,6,Instrumental grooves
+US25X1902302,757937782,Shells,Teebs,hip hop,0.559,0.638,-11.282,0.0699,0.0184,0.615,0.102,0.367,192.303,0,Loud & fast
+GBSMU8342849,1372670602,Do I Wanna Know?,Lofi Fruits Music,hip hop,0.758,0.37,-12.076,0.0362,0.952,0.961,0.229,0.374,89.975,6,Instrumental grooves
+DEAF70900348,5622648,Feel The Void,Fat Jon,hip hop,0.593,0.228,-15.824,0.0682,0.312,0.83,0.152,0.647,176.037,6,Instrumental grooves
+GBSMU9171513,1438345392,Shower,Lofi Fruits Music,hip hop,0.616,0.283,-12.826,0.0281,0.949,0.937,0.124,0.188,119.963,6,Instrumental grooves
+UKDBV2000006,935268372,The Real,Tom Misch,hip hop,0.51,0.456,-12.643,0.0485,0.282,0.0979,0.164,0.283,96.279,1,Soft & acoustic
+GBSMU8447611,1438790432,Get You the Moon,Lofi Fruits Music,hip hop,0.635,0.211,-13.272,0.0423,0.576,0.861,0.101,0.136,110.006,6,Instrumental grooves
+US3DF2010760,1088662912,Great Green Earth (feat. Mike Casey),Lofi Coffee,hip hop,0.512,0.444,-9.776,0.0871,0.507,0.00436,0.361,0.323,77.326,1,Soft & acoustic
+QM42K1772535,412423872,last time,Idealism,hip hop,0.386,0.115,-22.698,0.0488,0.813,0.862,0.126,0.0975,82.369,4,Quiet & instrumental
+GBSMU8447766,1438345022,Lovely,Lofi Fruits Music,hip hop,0.596,0.242,-15.896,0.0619,0.873,0.957,0.0951,0.166,115.009,4,Quiet & instrumental
+TCAFA2007441,4029420301,Sylvan,Kupla,hip hop,0.706,0.197,-11.267,0.0868,0.555,0.241,0.142,0.21,84.01,1,Soft & acoustic
+JPZ921615540,1581621312,81 Autumn,Uyama Hiroto,hip hop,0.622,0.706,-3.705,0.0874,0.517,0.856,0.312,0.538,172.078,6,Instrumental grooves
+US5NR2126802,1172535142,The Chosen One,DJ Muggs,hip hop,0.652,0.517,-6.879,0.0481,0.162,0.869,0.376,0.176,127.029,6,Instrumental grooves
+IEBAE1100069,65579468,Ms. Ho,Onra,hip hop,0.574,0.542,-7.773,0.138,0.0227,0.868,0.288,0.383,82.427,6,Instrumental grooves
+GBKQU1886846,962711052,illusions,Idealism,hip hop,0.618,0.272,-14.249,0.0458,0.489,0.882,0.111,0.197,161.975,6,Instrumental grooves
+JPZ921615539,1581624922,Minano Pride,Uyama Hiroto,hip hop,0.568,0.477,-5.609,0.0665,0.303,0.365,0.107,0.556,77.72,5,Upbeat & happy
+US25X1082766,70171584,Places,Shlohmo,hip hop,0.355,0.48,-8.265,0.117,0.395,0.843,0.398,0.229,84.556,6,Instrumental grooves
+FR9Z62300237,2268614877,Mist Over a Pond,Kalaido,hip hop,0.671,0.439,-9.706,0.107,0.551,0.834,0.401,0.349,77.567,6,Instrumental grooves
+JPH491605055,2791780162,The Final View,Nujabes,hip hop,0.597,0.834,-3.978,0.0716,0.00866,0.527,0.185,0.59,89.135,5,Upbeat & happy
+FR9Z62100246,1382828022,Barely,Keeper,hip hop,0.658,0.346,-18.444,0.0601,0.894,0.945,0.0651,0.148,80.016,4,Quiet & instrumental
+FR9Z62101170,2006793927,Radish Style,URCHN,hip hop,0.729,0.61,-7.654,0.0614,0.695,0.903,0.106,0.0791,89.016,6,Instrumental grooves
+FR9Z62101119,1959294767,The Mustard Guitar,Wildog,hip hop,0.804,0.427,-6.822,0.178,0.891,0.905,0.126,0.453,78.029,6,Instrumental grooves
+FR9Z62101194,2054540397,Matcha Pond,Saib,hip hop,0.709,0.567,-5.717,0.055,0.218,0.383,0.143,0.264,85.01,5,Upbeat & happy
+JPH492201083,2791791592,Spiritual State,Nujabes,hip hop,0.691,0.332,-12.082,0.0293,0.469,0.656,0.317,0.426,100.025,6,Instrumental grooves
+USANG2210670,1928542467,Summer Haze,Ødyssee,hip hop,0.521,0.643,-9.607,0.073,0.336,0.889,0.968,0.495,90.098,3,Live recordings
+QM3DF2206448,2271586877,Strawberry,Mozzie,hip hop,0.784,0.238,-11.998,0.0801,0.55,0.622,0.158,0.172,80.049,6,Instrumental grooves
+GBSMU7109735,809904242,Morning Feelin,e'rror,hip hop,0.866,0.256,-12.299,0.265,0.23,0.901,0.109,0.711,93.828,2,Danceable & wordy
+GB5P51700275,426256312,Pathwave,Lunice,hip hop,0.67,0.849,-5.302,0.207,0.0636,0.735,0.0733,0.303,191.984,0,Loud & fast
+DEQ121644250,3711015562,Affection,Jinsang,hip hop,0.698,0.193,-15.01,0.0902,0.915,0.937,0.0882,0.608,84.028,6,Instrumental grooves
+FR9Z62100025,1246251042,When He Calls,Hannah V,hip hop,0.654,0.532,-9.096,0.0783,0.0203,0.917,0.11,0.229,85.004,6,Instrumental grooves
+TCJPH1829849,520265062,Midnight to Dawn,Cloud NI9E,hip hop,0.763,0.631,-8.886,0.0484,0.103,0.804,0.375,0.608,94.97,6,Instrumental grooves
+SEBGA2000677,1014795432,sunflower,owlh,hip hop,0.675,0.609,-8.461,0.0377,0.457,0.663,0.0922,0.235,163.031,6,Instrumental grooves
+SEBGA2200792,1718844547,Jealous,LAV8,hip hop,0.708,0.281,-16.025,0.122,0.569,0.892,0.116,0.641,150.01,6,Instrumental grooves
+SEBGA2200803,1730389977,Faded,Miro Mas,hip hop,0.715,0.27,-15.23,0.164,0.92,0.926,0.13,0.377,146.048,6,Instrumental grooves
+GBKQU2139463,4029422131,Destination Unknown,amies,hip hop,0.631,0.0574,-20.827,0.0288,0.883,0.912,0.0796,0.0787,80.013,4,Quiet & instrumental
+GBLV62112386,3270700821,Sinking Fatigue,Raimu,hip hop,0.514,0.126,-19.799,0.0559,0.885,0.953,0.113,0.0386,80.455,4,Quiet & instrumental
+GBKQU2178886,4029423111,Stargazing,kyu,hip hop,0.46,0.451,-13.747,0.0413,0.833,0.937,0.0863,0.0363,195.113,6,Instrumental grooves
+QMRSZ2500685,3773654522,"Peace, Love, and Cowboys",Lainey Wilson,country,0.462,0.499,-5.825,0.0279,0.181,0.0,0.103,0.265,130.035,0,Loud & fast
+USWB12502899,3500251611,Like It Like That,Dasha,country,0.576,0.813,-5.402,0.0408,0.0515,0.0,0.434,0.83,149.938,0,Loud & fast
+QMRSZ2500911,3805774122,Straight For The Heart,Alexandra Kay,country,0.51,0.779,-3.849,0.0349,0.124,0.0,0.367,0.394,144.099,0,Loud & fast
+USA2P2524104,3504207101,Luck Of The Draw,Laci Kaye Booth,country,0.539,0.659,-6.472,0.0282,0.0787,4.37e-05,0.161,0.552,143.924,0,Loud & fast
+QMRSZ2500740,3805810782,Faded Polaroids,Lanie Gardner,country,0.553,0.521,-6.503,0.026,0.174,0.0,0.083,0.53,76.982,5,Upbeat & happy
+QM6MZ2547404,3283096601,EURO-COUNTRY,Cmat,country,0.49,0.733,-5.613,0.0394,0.0192,0.000124,0.0863,0.331,106.903,0,Loud & fast
+QMRSZ2303020,3772054122,Country's Cool Again,Lainey Wilson,country,0.553,0.89,-4.158,0.0613,0.108,3.13e-06,0.134,0.815,169.934,0,Loud & fast
+USSM12403681,3024074841,weren't for the wind,Ella Langley,country,0.466,0.804,-4.638,0.0457,0.162,0.0,0.155,0.451,151.943,0,Loud & fast
+QMRSZ2402171,3788137192,Buzzkill,Lanie Gardner,country,0.68,0.682,-6.811,0.203,0.104,0.0,0.357,0.47,177.955,2,Danceable & wordy
+USWB12500188,3218450511,Not At This Party,Dasha,country,0.712,0.797,-4.768,0.0574,0.223,0.0,0.138,0.57,120.128,5,Upbeat & happy
+QZRD92406450,3255124541,Gone Fishing,Mackenzie Carpenter,country,0.583,0.756,-4.423,0.0362,0.145,0.0,0.128,0.488,156.003,0,Loud & fast
+USUM72500698,3243763481,Sounds Like Something I'd Say,Kassi Ashton,country,0.529,0.495,-5.449,0.0404,0.379,3.13e-06,0.226,0.159,127.705,0,Loud & fast
+QZRD92506648,3233187381,no rain,Carly Pearce,country,0.37,0.298,-8.697,0.0304,0.78,0.0,0.0929,0.369,171.204,1,Soft & acoustic
+US6XF2400262,3267072331,East Coast,Morgan Wade,country,0.192,0.659,-5.059,0.0382,0.381,0.00282,0.128,0.127,205.086,0,Loud & fast
+USSM10415343,3266824461,I Don't Love Here Anymore,Miranda Lambert,country,0.495,0.489,-6.731,0.0247,0.317,2.53e-05,0.103,0.221,139.947,0,Loud & fast
+QMRSZ2400819,3773654402,Hang Tight Honey,Lainey Wilson,country,0.494,0.956,-4.67,0.0729,0.0266,3.58e-05,0.665,0.772,171.977,3,Live recordings
+USWB12500500,3274250201,Wish You Well,Avery Anna,country,0.368,0.768,-6.08,0.0577,0.0918,0.0,0.173,0.33,175.393,0,Loud & fast
+USWB12500443,3260629151,You Don't Even Know Who I Am,The Castellows,country,0.486,0.343,-7.979,0.0261,0.262,0.000623,0.0804,0.226,102.507,1,Soft & acoustic
+USUYG1572318,2980216431,A Hundred,Reyna Roberts,country,0.607,0.752,-5.222,0.0437,0.00788,0.0,0.0777,0.731,165.985,0,Loud & fast
+QM7282433005,2932846181,Baggage,Kelsea Ballerini,country,0.591,0.792,-5.213,0.0468,0.0568,0.0,0.0876,0.554,88.962,5,Upbeat & happy
+QZEQU2500406,3525802421,Ride It Out,Alli Walker,country,0.528,0.738,-3.235,0.0357,0.00274,0.0,0.208,0.73,107.953,5,Upbeat & happy
+USUYG1594568,3185251901,Muddy Water,Sierra Hull,country,0.643,0.526,-8.169,0.0265,0.358,0.000926,0.108,0.454,124.02,5,Upbeat & happy
+USAT22411028,3115440731,Something We Regret,Willow Avalon,country,0.554,0.94,-3.383,0.0435,0.0445,0.000253,0.268,0.516,120.084,0,Loud & fast
+USUM72409483,3088943541,Swallow My Tears,Gwen Stefani,country,0.586,0.748,-5.824,0.0367,0.0538,3.71e-05,0.159,0.452,138.051,0,Loud & fast
+USR3R2400158,3034708631,Cigarette Sweets,Janet Devlin,country,0.528,0.525,-6.875,0.0371,0.405,0.0,0.118,0.479,82.004,5,Upbeat & happy
+USUG12409347,3187200131,Those Kind Of Women,Lauren Alaina,country,0.627,0.62,-6.485,0.027,0.459,0.000238,0.109,0.382,137.951,0,Loud & fast
+QZNMY2470104,3123249291,Boots On The Ground,Megan Knight,country,0.668,0.758,-3.754,0.0398,0.182,2.37e-06,0.362,0.58,85.022,5,Upbeat & happy
+USUYG1585536,3094269101,Tumbleweed,Sophia Scott,country,0.654,0.575,-3.346,0.0255,0.493,0.0,0.11,0.28,115.988,5,Upbeat & happy
+QZEQU2402226,3067708921,Casual Drinking,Haley Mae Campbell,country,0.708,0.847,-4.192,0.0873,0.0225,0.0,0.0691,0.77,118.025,5,Upbeat & happy
+USWB12404297,3060566371,Ain't Enough Cowboy Songs,Ashley McBryde,country,0.374,0.536,-4.786,0.0277,0.0635,2.94e-06,0.312,0.232,113.585,0,Loud & fast
+QZEQU2500204,3205576181,Woah Man,Twinnie,country,0.711,0.712,-4.555,0.042,0.307,0.0,0.115,0.575,90.008,5,Upbeat & happy
+US6XF1600029,136332524,Vice (Album),Miranda Lambert,country,0.568,0.562,-7.775,0.0418,0.101,6.16e-05,0.363,0.247,133.647,0,Loud & fast
+QZEQU2500497,3271772651,Who Needs You (feat. Tiera Kennedy),Jeannie Seely,country,0.582,0.667,-6.879,0.0345,0.182,0.000808,0.208,0.41,133.931,0,Loud & fast
+US5ED2407647,3138582191,Crystal Methodist,Kasey Tyndall,country,0.531,0.983,-2.413,0.062,0.0077,0.0,0.107,0.707,167.998,0,Loud & fast
+USUG12406581,3168057341,Happy Ever After You,MacKenzie Porter,country,0.476,0.27,-9.185,0.044,0.858,0.0,0.108,0.35,72.304,1,Soft & acoustic
+USUM72410477,3168053441,Bed Of Roses,Caylee Hammack,country,0.465,0.687,-4.829,0.0307,0.0193,8.46e-06,0.188,0.298,151.696,0,Loud & fast
+USAT22403721,2846318392,Ain’t In Kansas Anymore (From Twisters: The Album),Miranda Lambert,country,0.564,0.699,-6.329,0.0316,0.00276,2.23e-05,0.364,0.483,126.034,0,Loud & fast
+USWB12401187,2716396982,Austin (Boots Stop Workin'),Dasha,country,0.764,0.678,-6.161,0.058,0.494,1.91e-06,0.107,0.712,114.939,5,Upbeat & happy
+USUM72122025,1768216157,I Don't Go Back,Kassi Ashton,country,0.634,0.628,-4.318,0.037,0.16,8.82e-05,0.105,0.369,128.028,0,Loud & fast
+USWB12402128,2824438122,vanilla,Avery Anna,country,0.541,0.509,-6.042,0.0324,0.459,0.0,0.153,0.346,156.014,0,Loud & fast
+QZZVQ2400458,3278276701,American Boy,Karley Scott Collins,country,0.507,0.826,-2.896,0.0417,0.169,0.0,0.093,0.405,133.88,0,Loud & fast
+USUM72501444,3278046411,Yard Sale,Priscilla Block,country,0.723,0.868,-5.091,0.0652,0.00783,0.0,0.146,0.855,120.041,5,Upbeat & happy
+QZRD92201195,1667181992,Look At The Mess I'm In,Danielle Bradbery,country,0.333,0.478,-6.903,0.031,0.367,2.28e-06,0.115,0.291,179.448,0,Loud & fast
+USRN12000173,1692861627,Tattoos,Karley Scott Collins,country,0.352,0.604,-5.218,0.0649,0.0864,0.0,0.138,0.296,159.229,0,Loud & fast
+US5ED2407654,3182523401,I Ain't Askin',Kasey Tyndall,country,0.622,0.868,-3.846,0.0378,0.00107,0.0,0.0864,0.42,125.049,0,Loud & fast
+US6XF2100368,1593223351,Run,Morgan Wade,country,0.629,0.484,-6.565,0.0236,0.0152,3.35e-06,0.178,0.576,76.001,5,Upbeat & happy
+USUM72204763,1776705737,Pink Champagne,Carrie Underwood,country,0.422,0.891,-3.473,0.0992,0.00248,0.0,0.154,0.73,110.12,0,Loud & fast
+USUG12103686,1550966562,I Bet You Think About Me (Taylor's Version) (From The Vault),Taylor Swift,country,0.391,0.715,-4.516,0.0495,0.167,0.0,0.183,0.473,149.654,0,Loud & fast
+USUM72200728,1659985682,Independent With You,Kylie Morgan,country,0.602,0.694,-3.152,0.0289,0.269,0.0,0.105,0.453,115.139,5,Upbeat & happy
+AUDPJ2400104,2893966181,Dart n Feather,Kasey Chambers,country,0.535,0.543,-6.702,0.0519,0.259,6.68e-05,0.115,0.555,126.04,5,Upbeat & happy
+USUYG1572320,2980216451,Driveway,Reyna Roberts,country,0.557,0.539,-9.33,0.0335,0.28,0.000441,0.131,0.525,160.009,0,Loud & fast
+USWB12404660,3067944681,Heartbreaker From Tennessee,Dasha,country,0.693,0.691,-5.667,0.0531,0.0781,0.0,0.27,0.776,111.981,5,Upbeat & happy
+USQX92403840,2970506931,Bang Bang (The Ballad Of Amy Fisher),Jessie Murph,country,0.873,0.633,-6.643,0.193,0.0886,0.00106,0.0836,0.454,118.01,2,Danceable & wordy
+US6XF2100112,1705259677,Actin' Up,Miranda Lambert,country,0.683,0.513,-7.869,0.0397,0.431,0.00119,0.154,0.435,139.91,5,Upbeat & happy
+USA2P2158701,1593977111,Run,Dolly Parton,country,0.624,0.858,-4.795,0.0954,0.72,0.0,0.356,0.675,115.048,5,Upbeat & happy
+QMRSZ2200246,3765764432,Right On Time,Lindsay Ell,country,0.632,0.808,-4.759,0.0397,0.0293,2.01e-05,0.0833,0.597,93.982,5,Upbeat & happy
+TCAEB1919657,706190802,I Hope,Gabby Barrett,country,0.466,0.536,-6.227,0.0429,0.0951,0.0,0.114,0.377,75.998,5,Upbeat & happy
+USG4X2100002,1595032341,When's It Gonna Happen,Tenille Townes,country,0.644,0.812,-4.777,0.0288,0.0294,1.86e-05,0.0757,0.587,102.021,5,Upbeat & happy
+USWB12103890,1543325792,Boujee on a Budget,Robyn Ottolini,country,0.612,0.766,-4.946,0.0385,0.0817,0.0,0.193,0.865,115.029,5,Upbeat & happy
+USB762102675,2971384601,Rider In The Rain,Victoria Bailey,country,0.537,0.421,-12.17,0.0247,0.624,0.0659,0.076,0.382,102.398,1,Soft & acoustic
+USUM72116444,1540154472,Stretchy Pants,Carrie Underwood,country,0.932,0.949,-1.418,0.0844,0.0595,0.0,0.326,0.97,119.966,5,Upbeat & happy
+USUM72112116,1463306122,All American,Mickey Guyton,country,0.628,0.675,-3.534,0.0598,0.27,1.46e-06,0.133,0.655,130.159,5,Upbeat & happy
+USUG12102865,1509483212,Does He Love You (Eric Kupper Remix),Reba McEntire,country,0.585,0.857,-5.99,0.0307,0.00127,0.00015,0.475,0.534,123.995,3,Live recordings
+USUM72202234,1667104072,Happyland Trailer Park,Catie Offerman,country,0.532,0.911,-4.996,0.0402,0.000543,0.000266,0.231,0.558,115.99,0,Loud & fast
+USG4X2100006,1688633057,Circles Around This Town,Maren Morris,country,0.591,0.814,-4.986,0.0468,0.015,0.0,0.117,0.815,149.9,0,Loud & fast
+GB5KW2200188,3696165302,Welcome to the Club,Twinnie,country,0.488,0.732,-5.045,0.0428,0.0107,0.0,0.128,0.377,160.074,0,Loud & fast
+GB5KW2103766,3775830802,Wild Hearts,The Shires,country,0.578,0.813,-4.723,0.0321,0.0151,0.000297,0.0644,0.51,124.98,0,Loud & fast
+QMTM62100359,1476760202,Good Ole Boy,Lauren Alaina,country,0.622,0.455,-7.051,0.0286,0.698,0.0,0.0757,0.329,134.882,1,Soft & acoustic
+USLXJ2143123,1457008972,The First Cut Is The Deepest (Live from the Ryman/2019),Sheryl Crow,country,0.346,0.721,-7.501,0.0363,0.437,2.76e-05,0.711,0.488,155.386,3,Live recordings
+USCJY2044183,1065568842,Next Girl,Carly Pearce,country,0.585,0.861,-4.189,0.0649,0.137,0.0,0.0901,0.963,160.076,5,Upbeat & happy
+USMR10200335,2536757221,I'm Gonna Getcha Good! (Red Single Edit),Shania Twain,country,0.697,0.834,-2.886,0.0334,0.0348,0.0,0.287,0.888,123.993,5,Upbeat & happy
+USMCN0300007,883944,She's In Love With The Boy,Trisha Yearwood,country,0.753,0.822,-4.914,0.031,0.518,1.72e-06,0.125,0.765,125.0,5,Upbeat & happy
+USUM72104445,1332089762,My Jesus,Anne Wilson,country,0.51,0.644,-5.567,0.0341,0.0821,0.0,0.191,0.293,76.001,5,Upbeat & happy
+USSM12504190,3602074142,Choosin' Texas,Ella Langley,country,0.683,0.78,-4.74,0.031,0.00939,0.0,0.194,0.486,112.027,5,Upbeat & happy
+US6XF2500288,3838327301,Be By You,Luke Combs,country,0.691,0.561,-7.735,0.0231,0.612,0.00164,0.109,0.713,94.026,5,Upbeat & happy
+USWB12600016,3761742092,Plastic Cigarette,Zach Bryan,country,0.603,0.462,-8.802,0.0609,0.594,0.00735,0.105,0.478,77.473,1,Soft & acoustic
+USMC16946144,2282369,The Thrill Is Gone,B.B. King,blues,0.547,0.46,-8.759,0.0256,0.344,0.442,0.0983,0.543,90.768,6,Instrumental grooves
+GBAYE9702292,3114733,It's a Mean Old Man's World,Dinah Washington,blues,0.412,0.214,-12.057,0.0437,0.762,1.14e-06,0.0564,0.414,185.639,1,Soft & acoustic
+USUM71712516,427259502,Born Under A Bad Sign,Big Mama Thornton,blues,0.345,0.39,-11.969,0.0622,0.561,0.00847,0.15,0.687,183.147,0,Loud & fast
+USQX90900781,4952898,Red House,Jimi Hendrix,blues,0.501,0.454,-8.54,0.0282,0.637,0.0132,0.147,0.557,97.189,1,Soft & acoustic
+USSM17700246,595056,I'm Your Hoochie Coochie Man,Muddy Waters,blues,0.537,0.495,-14.495,0.0617,0.467,0.521,0.17,0.891,113.231,6,Instrumental grooves
+USMC16747871,2513097,Boom Boom,John Lee Hooker,blues,0.691,0.434,-11.728,0.218,0.438,0.000581,0.125,0.87,78.056,2,Danceable & wordy
+US2Y30613343,3705932,I Can't Quit You Baby,Otis Rush,blues,0.361,0.521,-8.694,0.0457,0.859,0.000109,0.329,0.601,185.014,0,Loud & fast
+USDMG1779310,369179021,Eyes Of Man,Chuck Berry,blues,0.669,0.463,-8.754,0.0371,0.644,0.000465,0.123,0.388,107.981,1,Soft & acoustic
+USMC16312115,2299926,Help Me,Sonny Boy Williamson II,blues,0.737,0.406,-10.685,0.0476,0.677,0.0772,0.629,0.772,113.973,3,Live recordings
+USUM71712517,427259512,Hound Dog,Big Mama Thornton,blues,0.587,0.555,-11.068,0.0334,0.638,0.0,0.324,0.947,124.778,5,Upbeat & happy
+GBUM71604635,137203496,Hoo Doo Blues,The Rolling Stones,blues,0.461,0.74,-4.961,0.0387,0.358,0.138,0.301,0.597,70.003,5,Upbeat & happy
+USSM17600224,595034,Mannish Boy,Muddy Waters,blues,0.565,0.85,-5.93,0.0934,0.25,0.000143,0.579,0.585,112.188,3,Live recordings
+USSM12900044,1028321,Nobody Knows You When You're Down And Out (78rpm Version),Bessie Smith,blues,0.599,0.0424,-12.099,0.0572,0.996,0.00176,0.185,0.186,90.001,1,Soft & acoustic
+USRC11501507,103865726,Thick Like Mississippi Mud,Buddy Guy,blues,0.475,0.83,-3.62,0.0408,0.271,0.473,0.0921,0.802,135.428,0,Loud & fast
+USRE10000577,2254909177,Ten Long Years,Eric Clapton,blues,0.674,0.55,-7.333,0.026,0.265,0.00334,0.23,0.777,97.801,5,Upbeat & happy
+USUM70700311,143176894,Evil,Howlin' Wolf,blues,0.594,0.726,-9.779,0.0814,0.371,0.0,0.0471,0.751,98.321,5,Upbeat & happy
+USUM71712888,476675782,It Ain’t Me Babe,Bettye LaVette,blues,0.748,0.403,-8.954,0.0549,0.537,0.00385,0.121,0.658,91.805,5,Upbeat & happy
+GBKTV0403705,79821244,Crossroads Blues,Robert Johnson,blues,0.251,0.0191,-31.657,0.0381,0.817,0.96,0.105,0.0,32.384,4,Quiet & instrumental
+CAN210300901,12020700,Ten Million Slaves,Otis Taylor,blues,0.623,0.752,-3.585,0.0401,0.775,0.0,0.311,0.849,134.266,5,Upbeat & happy
+USARL7470401,71621029,Take Five,Hound Dog Taylor,blues,0.362,0.903,-7.378,0.329,1.46e-05,0.213,0.337,0.84,202.388,2,Danceable & wordy
+QM6DW1800112,460437162,I'm Gonna Move to the Outskirts of Town,Wynton Marsalis Septet,blues,0.414,0.524,-6.759,0.0549,0.841,1.2e-06,0.678,0.512,174.832,3,Live recordings
+USRO21121501,8105157,Floating Bridge,Gregg Allman,blues,0.698,0.604,-8.006,0.0385,0.729,0.0457,0.103,0.867,142.45,5,Upbeat & happy
+USA560864424,2623774,The Things I Used To Do,Little Freddie King,blues,0.519,0.463,-8.015,0.028,0.522,0.0527,0.155,0.255,83.25,1,Soft & acoustic
+USQX91700225,2572392582,Spoonful,Benjamin Booker,blues,0.789,0.404,-11.624,0.0351,0.606,5.18e-05,0.102,0.854,112.793,5,Upbeat & happy
+USDEA1715218,3185430751,Every Day Seem Like Murder Here,Hayes McMullan,blues,0.66,0.24,-11.953,0.0593,0.941,0.000717,0.0616,0.326,132.754,1,Soft & acoustic
+USAT21300918,78621538,You Shook Me (Remaster),Led Zeppelin,blues,0.366,0.56,-10.361,0.0633,0.647,0.00703,0.18,0.361,155.42,1,Soft & acoustic
+USFI86000249,4123572,That's My Baby,Willie Dixon,blues,0.663,0.256,-10.743,0.0338,0.68,0.0,0.105,0.414,78.162,1,Soft & acoustic
+CAS431639102,3256404651,Elegy for a Bluesman,Ronnie Earl & the Broadcasters,blues,0.389,0.483,-10.374,0.029,0.812,0.905,0.115,0.202,122.085,6,Instrumental grooves
+QMFME1330184,68093597,Hey Bartender,Floyd Dixon,blues,0.86,0.351,-9.614,0.051,0.789,0.0,0.0781,0.911,130.435,5,Upbeat & happy
+NLF057290007,1113908,Call Me The Breeze,J.J. Cale,blues,0.607,0.623,-8.799,0.0728,0.687,0.0055,0.142,0.819,183.173,5,Upbeat & happy
+USSM19503880,1013609,Same Old Blues (Album Version),Popa Chubby,blues,0.368,0.594,-6.096,0.118,0.514,0.000119,0.118,0.402,153.884,0,Loud & fast
+USMC16714386,417358252,My Own Blues,John Lee Hooker,blues,0.724,0.376,-15.068,0.231,0.816,0.0104,0.126,0.837,106.571,2,Danceable & wordy
+GB03A1400229,1733911397,Blues Jam,T-bone Walker,blues,0.59,0.613,-9.642,0.0362,0.311,2.75e-05,0.249,0.741,123.173,5,Upbeat & happy
+QZ2EW1600132,860417622,Big Bill's Blues,Charlie Hunter,blues,0.382,0.494,-8.291,0.0547,0.332,0.616,0.127,0.544,74.998,6,Instrumental grooves
+USAT29902162,670903,Come Back Baby,Ray Charles,blues,0.584,0.11,-12.535,0.0376,0.907,2.81e-06,0.113,0.369,129.765,1,Soft & acoustic
+USRN12900001,545976,Frankie and Johnny,Jimmie Rodgers,blues,0.79,0.346,-10.487,0.0413,0.918,5.88e-06,0.111,0.705,83.524,1,Soft & acoustic
+USSM19932782,848860,Little Wing,Stevie Ray Vaughan & Double Trouble,blues,0.479,0.376,-14.512,0.0414,0.397,0.638,0.124,0.521,115.738,6,Instrumental grooves
+USSM19201057,609876,Death Letter Blues,Son House,blues,0.803,0.288,-15.418,0.0629,0.865,0.0593,0.0833,0.865,115.685,1,Soft & acoustic
+USBN21100075,441854102,Here We Go Again (Live),Willie Nelson,blues,0.518,0.329,-10.929,0.04,0.751,0.000411,0.797,0.305,104.165,3,Live recordings
+USVG29008582,3441453,Nashville Blues,Doc Watson,blues,0.62,0.28,-19.028,0.0354,0.81,6.97e-05,0.0983,0.84,122.109,1,Soft & acoustic
+FRZ029700930,2441010,You're The One For Me,Lucky Peterson,blues,0.589,0.724,-8.133,0.057,0.00142,0.0016,0.603,0.829,124.322,3,Live recordings
+US2HK0916705,136370576,Let's Straighten It Out,O.V. Wright,soul,0.689,0.479,-11.237,0.0249,0.494,0.000285,0.0755,0.814,79.421,5,Upbeat & happy
+US2HK0914205,141688205,Love and Happiness,Al Green,soul,0.825,0.43,-10.879,0.146,0.296,0.00513,0.0812,0.738,99.753,5,Upbeat & happy
+FRF431600270,3718501432,Heaven to Me (Single Version),Theo Lawrence & The Hearts,soul,0.403,0.672,-7.733,0.103,0.0433,0.0,0.103,0.535,177.231,0,Loud & fast
+USD8D1634010,511109152,In Your Eyes,Badbadnotgood,soul,0.488,0.528,-5.952,0.0298,0.457,0.000792,0.108,0.438,79.765,1,Soft & acoustic
+USAT20504555,691825,Don't Let the Sun Catch You Crying,Ray Charles,soul,0.184,0.395,-8.728,0.0359,0.518,7.98e-05,0.306,0.249,176.008,0,Loud & fast
+FR7JN1900010,629582702,I wanna know,Thomas Broussard,soul,0.572,0.805,-4.932,0.0375,0.00639,0.0,0.0267,0.574,79.99,5,Upbeat & happy
+GBUM71904248,1217630712,Strange,Celeste,soul,0.286,0.0847,-9.883,0.0397,0.934,6.94e-06,0.121,0.112,70.743,1,Soft & acoustic
+GBBTV1802621,672345342,Blood & Bones,Laville,soul,0.566,0.402,-13.439,0.0549,0.472,0.0,0.1,0.656,165.766,1,Soft & acoustic
+USEP42068011,1398797992,I Won't Let You Down,Curtis Harding,soul,0.586,0.531,-6.738,0.0299,0.627,0.413,0.0968,0.823,180.457,5,Upbeat & happy
+QZPJ32161338,1714116957,Easy On Me,Scary Pockets,soul,0.55,0.495,-8.39,0.15,0.443,0.000133,0.277,0.244,76.873,1,Soft & acoustic
+USATO1900170,698916042,Small Worlds,Rayland Baxter,soul,0.668,0.525,-9.485,0.0859,0.625,0.0227,0.106,0.41,74.412,1,Soft & acoustic
+GBUM72403556,3092837961,Four Long Years,Michael Kiwanuka,soul,0.382,0.308,-7.865,0.0286,0.686,0.149,0.112,0.181,135.737,1,Soft & acoustic
+GBAYE2101231,1483588762,Blame,Gabriels,soul,0.328,0.401,-6.996,0.0309,0.787,0.115,0.469,0.501,185.837,3,Live recordings
+USAT20003625,669120,Come Rain or Come Shine,Ray Charles,soul,0.364,0.191,-12.571,0.0324,0.855,6.75e-05,0.492,0.281,119.238,1,Soft & acoustic
+FRX452199691,1492570602,Ride,HYBS,soul,0.757,0.393,-7.942,0.212,0.788,0.000986,0.0501,0.715,77.985,2,Danceable & wordy
+QZKFQ2200014,1858968717,Hanging on to You,Melissa Carper,soul,0.678,0.41,-9.063,0.0254,0.783,0.0153,0.106,0.641,99.133,1,Soft & acoustic
+QZDMQ1918902,786323702,Falling In Love Again,Dojo Cuts,soul,0.826,0.609,-9.317,0.0368,0.728,0.0102,0.0987,0.641,93.734,5,Upbeat & happy
+GBARL2401858,3198285091,Mathematics (feat. Kano),Joy Crookes,soul,0.606,0.409,-8.979,0.0486,0.477,0.00226,0.105,0.429,139.644,1,Soft & acoustic
+UKMEH2300204,2471145111,Lost Angel,Cleo Sol,soul,0.563,0.398,-8.81,0.0279,0.755,0.0105,0.103,0.296,86.164,1,Soft & acoustic
+USRC11700152,141345649,Shot Down,Khalid,soul,0.767,0.512,-6.777,0.0591,0.893,0.000223,0.103,0.489,123.921,1,Soft & acoustic
+UKKP22200568,1771707687,Smile At The Mention,Ben Harper,soul,0.713,0.394,-6.825,0.0335,0.707,0.00584,0.189,0.445,92.972,1,Soft & acoustic
+USA2P2216008,1723320677,Won't Turn Back,Jacob Banks,soul,0.401,0.432,-6.739,0.0299,0.844,1.81e-05,0.116,0.254,170.467,1,Soft & acoustic
+USRC16202725,13210274,Nothing Can Change This Love,Sam Cooke,soul,0.231,0.419,-9.16,0.035,0.548,0.0,0.144,0.502,200.494,0,Loud & fast
+AUMGB2100028,1332979352,Don't You Know,Raquel Rodriguez,soul,0.815,0.266,-6.831,0.0416,0.832,6.81e-05,0.112,0.424,80.969,1,Soft & acoustic
+DEUM72001453,1065544792,Be Here in Te Morning,Joy Denalane,soul,0.48,0.732,-5.494,0.0433,0.177,6.37e-06,0.799,0.518,135.79,3,Live recordings
+QZES92235617,1705332157,Soul Steppin,Family Company,soul,0.728,0.704,-6.545,0.0958,0.173,0.787,0.0837,0.774,91.691,6,Instrumental grooves
+USDMG2137906,2844059692,Real Contender,The Dip,soul,0.66,0.506,-7.889,0.0256,0.138,0.0,0.0944,0.739,83.019,5,Upbeat & happy
+USJ5G2126301,1221641232,Cruisin' to the Parque,Durand Jones & The Indications,soul,0.65,0.683,-6.92,0.0516,0.535,0.0163,0.0918,0.837,146.532,5,Upbeat & happy
+QZDMQ2250094,1818319817,Waiting For The Storm,Ikebe Shakedown,soul,0.874,0.724,-7.642,0.0466,0.379,0.932,0.147,0.904,113.097,6,Instrumental grooves
+USRC16306962,13205954,Mean Old World,Sam Cooke,soul,0.608,0.323,-9.44,0.0377,0.778,0.0,0.177,0.465,73.196,1,Soft & acoustic
+USMC17852537,396453252,'Cause I Love You,Lenny Williams,soul,0.519,0.358,-10.434,0.0582,0.578,0.0,0.161,0.369,129.629,1,Soft & acoustic
+GB3ZD2100054,1663509202,Reconsider,Mamas Gun,soul,0.374,0.509,-9.448,0.0285,0.636,0.0046,0.12,0.597,153.985,1,Soft & acoustic
+QZHN72025455,3076116501,Soul Serenade (feat. Moorea Masa & the Mood),Family Company,soul,0.752,0.605,-7.776,0.236,0.735,1.12e-05,0.118,0.431,84.279,2,Danceable & wordy
+USDMG2251501,2844135502,Real Contender (Acoustic),The Dip,soul,0.639,0.221,-13.307,0.0351,0.86,1.38e-06,0.12,0.292,73.936,1,Soft & acoustic
+GBKPL2137806,4298158532,Tunnel Vision,Reuben James,soul,0.555,0.362,-10.253,0.0699,0.699,7.59e-05,0.0972,0.359,74.748,1,Soft & acoustic
+USSM11904160,712785632,That Was Yesterday,Leon Bridges,soul,0.382,0.33,-6.182,0.0435,0.926,0.000578,0.0744,0.3,181.455,1,Soft & acoustic
+USA2B2205027,1923245167,Love Is The Way,Thee Sacred Souls,soul,0.666,0.498,-8.468,0.0254,0.457,0.0,0.144,0.765,96.69,5,Upbeat & happy
+USA2P2202361,1630161212,Fighting for Peace,Cory Henry,soul,0.706,0.444,-7.25,0.039,0.0696,2.65e-06,0.112,0.387,81.533,5,Upbeat & happy
+QZDMQ2150097,1924841987,Do You Know The Man,The Harlem Gospel Travelers,soul,0.531,0.736,-6.977,0.039,0.184,0.0,0.509,0.946,150.201,3,Live recordings
+USMC16046320,2171231,If I Can't Have You,Etta James,soul,0.475,0.668,-6.373,0.0426,0.702,1.43e-05,0.326,0.622,71.98,5,Upbeat & happy
+FRD9M2200590,2951019011,Guilty,Nia Wyn,soul,0.676,0.596,-8.225,0.18,0.504,3.59e-05,0.116,0.384,77.571,2,Danceable & wordy
+US23A1512128,1024839532,Bright Skies,Isaac Waddington,soul,0.414,0.425,-8.262,0.035,0.489,0.0,0.114,0.197,138.626,1,Soft & acoustic
+GBBHN0200264,1733822687,The Dark End of the Street,James Carr,soul,0.522,0.397,-8.491,0.027,0.799,0.038,0.11,0.356,75.572,1,Soft & acoustic
+USRC12001265,943556292,Distance,Yebba,soul,0.601,0.511,-7.297,0.038,0.68,0.252,0.0732,0.469,139.955,1,Soft & acoustic
+USSM11100638,10274030,Operation Heartbreak,Aretha Franklin,soul,0.509,0.333,-10.342,0.0292,0.802,0.00292,0.115,0.319,170.251,1,Soft & acoustic
+GBWWP1602194,1893897837,Building a Beginning,Jamie Lidell,soul,0.565,0.47,-8.759,0.0486,0.0842,6.28e-05,0.0975,0.548,137.728,0,Loud & fast
+USUM72121342,1659986972,Stolen Fruit,Tank and The Bangas,soul,0.573,0.464,-8.643,0.0368,0.677,0.00202,0.112,0.153,85.062,1,Soft & acoustic
+GBARL2100647,1394675692,Best Things,Pip Millett,soul,0.783,0.214,-12.182,0.152,0.747,0.000249,0.0912,0.241,118.993,1,Soft & acoustic
+QZ2L62100153,1665534082,The Otherside,Bobby Oroza,soul,0.649,0.645,-7.064,0.0304,0.24,4.67e-06,0.348,0.531,92.735,5,Upbeat & happy
+FRD9M2200780,1833899947,Red To Violet,Adi Oasis,soul,0.681,0.696,-5.121,0.0529,0.224,0.00546,0.0912,0.803,79.028,5,Upbeat & happy
+GBKPL1962806,1875265807,Nothing,Bruno Major,soul,0.555,0.27,-15.892,0.0888,0.931,0.544,0.103,0.271,139.681,1,Soft & acoustic
+TCADH1796242,1793823837,Atlas,The Dip,soul,0.442,0.654,-7.021,0.0296,0.305,2.09e-05,0.577,0.918,162.048,3,Live recordings
+GBUM71807002,649738892,Lately,Celeste,soul,0.672,0.279,-9.237,0.0421,0.402,0.000125,0.0946,0.478,133.625,1,Soft & acoustic
+USJ5G2234104,2011507017,Heart Full of Love (Live From Easy Eye Sound),Aaron Frazer,soul,0.493,0.27,-14.878,0.0273,0.353,0.00199,0.131,0.51,139.487,1,Soft & acoustic
+GBGLW2100262,1339960252,Dreaming About You,Kat Eaton,soul,0.612,0.652,-6.24,0.0292,0.558,0.0,0.142,0.706,82.987,5,Upbeat & happy
+GB5P52200179,1734541037,Equanimity,Jitwam,soul,0.484,0.613,-7.365,0.155,0.451,0.00148,0.0963,0.74,65.329,5,Upbeat & happy
+QZ2L61800099,638267222,Will I Get Off Easy,Lee Fields & The Expressions,soul,0.583,0.575,-4.749,0.0275,0.0577,2.4e-06,0.0681,0.747,141.524,5,Upbeat & happy
+UKMEH2000057,913470022,Rose in the Dark,Cleo Sol,soul,0.612,0.559,-8.504,0.0673,0.383,0.0127,0.219,0.491,79.991,5,Upbeat & happy
+USWB10804918,1190514,Thank You (2008 Remaster),Bonnie Raitt,soul,0.67,0.279,-15.589,0.0289,0.793,0.00879,0.109,0.552,77.82,1,Soft & acoustic
+USMC16046325,2171220,Trust In Me,Etta James,soul,0.486,0.377,-6.777,0.0309,0.776,0.0,0.39,0.5,64.033,1,Soft & acoustic
+QMJMT2305131,2608981132,Champagne,Jeymes Samuel,soul,0.572,0.797,-4.564,0.118,0.0107,9.11e-06,0.0579,0.877,139.004,5,Upbeat & happy
+QZN882236010,2688788352,Risk It All,Yuna,soul,0.614,0.449,-9.111,0.0429,0.733,0.00556,0.0665,0.601,81.874,1,Soft & acoustic
+USBB17101032,1733905067,Save the Children,Gil Scott-Heron,soul,0.647,0.552,-9.489,0.0358,0.588,0.00013,0.151,0.961,153.394,5,Upbeat & happy
+USEM30100544,3291536,Travelin' Man,Ricky Nelson,soul,0.726,0.424,-11.377,0.0328,0.598,0.0,0.111,0.827,123.263,5,Upbeat & happy
+QZDMQ2150048,1667795472,The Shape Of My Teardrops,Monophonics,soul,0.347,0.65,-6.879,0.0373,0.0763,0.0292,0.149,0.343,146.062,0,Loud & fast
+DED622200032,2582753412,Anybody Can Be in Love,Kaina,soul,0.69,0.383,-13.31,0.0364,0.277,0.0765,0.139,0.395,116.986,1,Soft & acoustic
+GBUM71903191,712060422,Feel,Jacob Collier,soul,0.611,0.134,-13.96,0.0537,0.836,0.0184,0.081,0.136,115.909,1,Soft & acoustic
+USP5V1800030,1477630932,Somebody Save Me,Sugaray Rayford,soul,0.553,0.491,-7.099,0.0339,0.55,0.000768,0.201,0.472,105.905,1,Soft & acoustic
+GBARL2000551,1069865292,The Curse (feat. Mac Demarco),Yellow Days,soul,0.605,0.49,-7.148,0.0465,0.128,0.000119,0.38,0.355,140.172,0,Loud & fast
+QZDMQ2150050,1662659802,Love You Better,Monophonics,soul,0.309,0.789,-5.939,0.296,0.142,1.02e-06,0.77,0.794,191.991,3,Live recordings
+QZ2L61800084,1484977072,Piece Of Me,Lady Wray,soul,0.606,0.53,-6.513,0.316,0.64,0.000203,0.121,0.613,85.399,2,Danceable & wordy
+USCJ81501378,2246867407,Take It Easy (Ever After Lasting Love),White Denim,soul,0.591,0.446,-11.878,0.0373,0.709,0.0205,0.136,0.421,98.917,1,Soft & acoustic
+FRDKW2202520,1819056727,A Better Day,Carlton Jumel Smith & The Soul Seeders,soul,0.824,0.715,-6.009,0.0329,0.157,1.11e-05,0.149,0.717,94.014,5,Upbeat & happy
+DEG442291089,2194277327,Small Mercies,Jonathan Jeremiah,soul,0.621,0.636,-8.962,0.0422,0.491,0.155,0.117,0.544,82.339,5,Upbeat & happy
+QZDMQ2150089,1754687277,Help Me To Understand,The Harlem Gospel Travelers,soul,0.64,0.45,-8.087,0.0258,0.516,0.0,0.0907,0.649,76.886,5,Upbeat & happy
+FITI31900001,779473732,Don't Believe You Like That,Emilia Sisco,soul,0.558,0.51,-8.849,0.0313,0.649,4.95e-05,0.117,0.484,79.961,1,Soft & acoustic
+FRS182027968,1103499192,Black Boy,Joel Culpepper,soul,0.618,0.518,-5.122,0.156,0.0498,0.000286,0.131,0.466,169.966,0,Loud & fast
+DESY21400601,426571412,Home,Illa J,soul,0.464,0.488,-8.435,0.162,0.136,0.000186,0.113,0.459,171.481,0,Loud & fast
+TCAGQ2267233,3844005751,Miracle,Vulfpeck,soul,0.629,0.215,-13.048,0.106,0.65,0.0175,0.104,0.823,171.87,1,Soft & acoustic
+USA2B2033442,871848472,Can I Call You Rose?,Thee Sacred Souls,soul,0.302,0.4,-8.212,0.0364,0.719,0.000621,0.172,0.421,180.852,1,Soft & acoustic
+QZPJ32183212,1824682907,Saturday in the Park,Scary Pockets,soul,0.531,0.699,-9.111,0.0691,0.639,0.000113,0.183,0.884,155.538,5,Upbeat & happy
+QZ2L62100094,1484977122,Games People Play,Lady Wray,soul,0.443,0.751,-6.018,0.0472,0.0893,0.000386,0.194,0.69,148.043,0,Loud & fast
+US4GZ2207504,1860474997,Two Jobs,Lee Fields,soul,0.54,0.755,-6.53,0.0548,0.56,0.0,0.0966,0.862,88.029,5,Upbeat & happy
+USA2P2036207,2167049387,At the Hotel,Eunice Collins,soul,0.788,0.368,-11.803,0.0662,0.719,6.18e-06,0.0938,0.31,89.815,1,Soft & acoustic
+USF2M2100945,2852787422,Get What You Want,Sir Woman,soul,0.472,0.517,-6.375,0.0338,0.784,4.45e-05,0.124,0.323,119.919,1,Soft & acoustic
+USSM12602957,4151515662,Light the Way,Leon Bridges,soul,0.647,0.827,-6.802,0.047,0.00471,0.0,0.285,0.663,107.962,5,Upbeat & happy
+US4GZ2307602,2172217337,If You Don't Want My Love,Jalen Ngonda,soul,0.595,0.776,-5.772,0.0386,0.129,0.000602,0.246,0.933,92.881,5,Upbeat & happy
+USAT22100906,1562540632,Leave The Door Open,Bruno Mars,soul,0.586,0.616,-7.964,0.0324,0.182,0.0,0.0927,0.719,148.088,5,Upbeat & happy
+QZ2L62300022,2244780317,Love & Flowers,Les Imprimés,soul,0.661,0.738,-7.722,0.0361,0.269,0.0495,0.0759,0.946,91.016,5,Upbeat & happy
+USA2B2056513,1129860482,Queens Highway,Menahan Street Band,soul,0.781,0.396,-8.975,0.0871,0.0624,0.876,0.103,0.334,137.271,6,Instrumental grooves
+FRD9M2201260,2071647207,Serena,Adi Oasis,soul,0.533,0.766,-6.036,0.045,0.0606,0.2,0.124,0.5,90.437,5,Upbeat & happy
+EESM12000055,918980722,Entertainment,Lexsoul Dancemachine,soul,0.789,0.7,-8.9,0.0736,0.242,0.175,0.156,0.714,101.517,5,Upbeat & happy
+QZ2L62300079,2525488961,Dance With Me,Liam Bailey,soul,0.647,0.65,-3.559,0.0255,0.038,0.0,0.104,0.779,105.618,5,Upbeat & happy
+FRUM71601526,133582026,All The Way,Ben L'oncle Soul,soul,0.694,0.747,-5.223,0.0771,0.0727,0.0409,0.0746,0.782,177.981,0,Loud & fast
+USMRE0850014,12700693,Un Verano en NY,El Gran Combo de Puerto Rico,salsa,0.556,0.782,-6.354,0.0466,0.678,0.0171,0.274,0.955,105.948,5,Upbeat & happy
+USDBB0600871,686095392,La Cartera,Orquesta Harlow,salsa,0.623,0.719,-4.86,0.0541,0.576,0.000192,0.249,0.92,96.845,5,Upbeat & happy
+USDBB0600751,686077162,El Gran Varón,Willie Colón,salsa,0.645,0.665,-5.519,0.0384,0.581,0.0,0.0391,0.369,94.112,5,Upbeat & happy
+USUM70605050,429988262,Lloraras,Oscar D'León,salsa,0.708,0.751,-8.368,0.0452,0.517,0.000717,0.0445,0.962,96.994,5,Upbeat & happy
+COF019401058,112705578,Loquito por Ti,Armando Hernandez,salsa,0.773,0.709,-7.295,0.172,0.302,0.000491,0.0474,0.852,106.623,5,Upbeat & happy
+USUL19900214,6988290,Tú Con Él,Frankie Ruiz,salsa,0.805,0.688,-7.547,0.0461,0.456,0.00342,0.261,0.959,94.903,5,Upbeat & happy
+USR011012016,10826455,Las Caleñas,Pastor López Y Su Combo,salsa,0.547,0.737,-7.125,0.0995,0.341,0.00287,0.0784,0.94,203.772,0,Loud & fast
+COC018416248,1713243,Cali Pachanguero,Grupo Niche,salsa,0.684,0.832,-5.267,0.041,0.583,0.0,0.226,0.715,100.722,5,Upbeat & happy
+USDBB0600366,686147152,Periódico De Ayer,Héctor Lavoe,salsa,0.464,0.635,-8.03,0.03,0.0919,4.05e-05,0.165,0.719,100.222,5,Upbeat & happy
+QM7281475445,90639037,El Ausente,Pastor Lopez,salsa,0.719,0.594,-6.674,0.04,0.358,0.000135,0.358,0.924,137.987,5,Upbeat & happy
+USSD19304013,6237251,Idilio,Willie Colón,salsa,0.772,0.639,-10.718,0.0362,0.595,0.00145,0.0712,0.931,94.001,5,Upbeat & happy
+GBBGU0059008,3783363012,No Me Llores Más,Omara Portuondo,salsa,0.746,0.471,-10.739,0.0331,0.953,0.0781,0.112,0.822,124.409,5,Upbeat & happy
+US3Z40407347,10963411,Tu Cariñito,Puerto Rican Power,salsa,0.667,0.873,-8.751,0.0469,0.337,2.24e-06,0.0338,0.92,187.441,5,Upbeat & happy
+USDBB0600485,686077112,Sin Poderte Hablar,Willie Colón,salsa,0.413,0.691,-5.763,0.0502,0.137,0.0,0.583,0.581,102.063,3,Live recordings
+USSD19905043,6720639,Una Aventura,Grupo Niche,salsa,0.703,0.949,-3.633,0.035,0.241,0.00181,0.167,0.687,92.87,5,Upbeat & happy
+GBNTC0604101,10522667,African Salsa,Pape Fall,salsa,0.911,0.636,-7.255,0.0482,0.762,1.86e-05,0.0746,0.74,100.696,5,Upbeat & happy
+USSD19905041,13211932,Sin Sentimientos,Grupo Niche,salsa,0.607,0.622,-9.433,0.0354,0.414,0.0,0.176,0.66,82.777,5,Upbeat & happy
+COF019401017,112896870,Rebelión,Joe Arroyo,salsa,0.565,0.778,-7.07,0.0586,0.426,0.0135,0.263,0.815,105.807,5,Upbeat & happy
+USUL10300686,2239492,Y Hubo Alguien,Marc Anthony,salsa,0.474,0.879,-3.979,0.115,0.636,0.0,0.16,0.668,91.094,5,Upbeat & happy
+USMRE0803403,12694767,Y No Hago Mas Na',El Gran Combo,salsa,0.812,0.679,-6.008,0.0559,0.68,0.00283,0.314,0.852,90.474,5,Upbeat & happy
+USDBB0600020,686082732,Quimbara,Johnny Pacheco,salsa,0.6,0.633,-7.507,0.0667,0.741,0.0736,0.0478,0.966,120.627,5,Upbeat & happy
+USDBB0992442,687128272,Cachondea,Joe Cuba Sextette,salsa,0.709,0.657,-12.039,0.0396,0.881,3.48e-05,0.112,0.888,114.212,5,Upbeat & happy
+USDBB0600399,42192491,Anacaona (Live),Fania All Stars,salsa,0.566,0.776,-9.119,0.0598,0.67,0.000817,0.926,0.928,107.456,3,Live recordings
+USDBB0601592,686097262,Richie's Jala Jala,"Ricardo ""Richie"" Ray",salsa,0.601,0.829,-5.914,0.0465,0.831,0.000219,0.0523,0.772,108.803,5,Upbeat & happy
+USSD10104961,6720644,Gotas de Lluvia,Grupo Niche,salsa,0.697,0.781,-4.916,0.0349,0.654,1.51e-05,0.0437,0.691,97.303,5,Upbeat & happy
+USSD10105033,6237262,Amores Como el Nuestro,Jerry Rivera,salsa,0.656,0.8,-4.037,0.0434,0.603,0.00362,0.0682,0.6,179.5,0,Loud & fast
+USDBB0600914,686087052,Las Tumbas,Ismael Rivera,salsa,0.438,0.587,-7.843,0.0427,0.565,0.135,0.0769,0.623,155.074,0,Loud & fast
+COC010325732,11108508,Te Va A Doler,Maelo Ruiz,salsa,0.609,0.843,-4.415,0.0459,0.41,0.0,0.233,0.72,177.681,0,Loud & fast
+USSD19905030,13211933,Busca Por Dentro,Grupo Niche,salsa,0.683,0.847,-2.965,0.0317,0.0916,0.00119,0.315,0.804,85.991,5,Upbeat & happy
+USDBB0608078,687128822,Oye Cómo Va,Celia Cruz,salsa,0.69,0.733,-7.008,0.0339,0.749,0.0338,0.0537,0.963,124.051,5,Upbeat & happy
+USEE10184078,4085063,Decisiones,Rubén Blades,salsa,0.661,0.61,-9.824,0.0707,0.777,0.0,0.0475,0.452,96.402,1,Soft & acoustic
+USDBB0600530,686077012,Ché Ché Colé,Willie Colón,salsa,0.772,0.868,-5.183,0.0461,0.535,0.0,0.17,0.917,101.253,5,Upbeat & happy
+USDBB0600072,138841987,Mi Gente,Héctor Lavoe,salsa,0.483,0.874,-3.413,0.108,0.368,1.66e-05,0.132,0.897,110.686,5,Upbeat & happy
+USDBB0600749,1088612172,El Día De Mi Suerte,Willie Colón,salsa,0.56,0.855,-5.232,0.0529,0.605,0.0,0.0532,0.96,97.097,5,Upbeat & happy
+USSD11200342,62351524,Perdóname,Gilberto Santa Rosa,salsa,0.584,0.897,-3.835,0.147,0.304,0.0,0.99,0.733,86.21,3,Live recordings
+USDBB0601001,688749132,Mujer Divina,Joe Cuba Sextette,salsa,0.666,0.256,-18.011,0.0828,0.702,0.000179,0.0725,0.54,99.594,1,Soft & acoustic
+USDBB0600259,686082702,Plástico,Willie Colón,salsa,0.658,0.541,-7.73,0.0585,0.797,1.84e-06,0.456,0.7,103.176,3,Live recordings
+COF010700266,3236481521,La Noche,Joe Arroyo,salsa,0.732,0.683,-5.339,0.0401,0.253,0.0355,0.058,0.83,105.631,5,Upbeat & happy
+USDBB0600390,686082682,El Cantante,Héctor Lavoe,salsa,0.549,0.498,-9.203,0.0371,0.694,3.87e-05,0.109,0.575,95.345,1,Soft & acoustic
+USMRE0829003,12694865,Ojos Chinos,El Gran Combo,salsa,0.772,0.645,-8.32,0.0465,0.66,1.45e-05,0.142,0.968,93.876,5,Upbeat & happy
+USDBB0600418,686097282,Agúzate,"Ricardo ""Richie"" Ray",salsa,0.558,0.64,-9.593,0.0385,0.775,0.00779,0.0837,0.958,110.288,5,Upbeat & happy
+USDBB0600770,686082252,El Ratón,Cheo Feliciano,salsa,0.535,0.341,-15.754,0.0378,0.855,8.26e-05,0.104,0.483,94.767,1,Soft & acoustic
+USDBB0600261,129403840,Pedro Navaja,Willie Colón,salsa,0.552,0.555,-9.333,0.144,0.573,1.99e-05,0.257,0.82,91.235,5,Upbeat & happy
+USDBB0601020,686167682,No Soy Para Ti,Ismael Rivera,salsa,0.717,0.179,-23.029,0.0736,0.545,1.18e-05,0.0446,0.959,163.022,1,Soft & acoustic
+USSD11300112,68771815,Vivir Mi Vida,Marc Anthony,salsa,0.654,0.867,-3.604,0.0348,0.332,0.0,0.38,0.89,105.02,5,Upbeat & happy
+USSD19004005,5196655,Perdóname,Gilberto Santa Rosa,salsa,0.646,0.616,-10.198,0.0334,0.638,0.0434,0.28,0.834,157.635,5,Upbeat & happy
+USDBB0600595,686079632,Ausencia,Héctor Lavoe,salsa,0.627,0.395,-9.766,0.0487,0.247,3.07e-06,0.0742,0.674,87.99,5,Upbeat & happy
+USUL19900510,429989492,Que Locura Enamorarme De Ti,Eddie Santiago,salsa,0.761,0.736,-8.341,0.0445,0.713,0.0,0.0746,0.942,93.436,5,Upbeat & happy
+USUL19900219,429987872,Desnúdate Mujer,Frankie Ruiz,salsa,0.729,0.708,-7.492,0.0433,0.114,0.0023,0.104,0.912,100.69,5,Upbeat & happy
+USDBB0600815,688277692,Gitana,Willie Colón,salsa,0.479,0.593,-6.629,0.0502,0.635,2.61e-06,0.216,0.805,86.092,5,Upbeat & happy
+COFC11332191,2683333262,"Oiga, Mire, Vea",Guayacan Orquesta,salsa,0.742,0.822,-5.034,0.0436,0.443,1.33e-06,0.0828,0.845,90.038,5,Upbeat & happy
+US2BR9700001,861158972,Detalles,Oscar D'León,salsa,0.724,0.77,-4.024,0.0533,0.184,3.7e-05,0.243,0.935,176.243,5,Upbeat & happy
+USGR10200276,2496967,Samba de Orfeu,Cal Tjader,salsa,0.621,0.372,-17.241,0.0605,0.839,0.88,0.108,0.953,111.364,6,Instrumental grooves
+FR6F31901960,740968992,Aggua,Roberto Fonseca,salsa,0.619,0.565,-11.919,0.0353,0.621,0.625,0.0878,0.616,134.964,6,Instrumental grooves
+USSD19402153,6237254,Si Te Contara,Willie Colón,salsa,0.75,0.431,-8.31,0.0277,0.0629,0.000692,0.159,0.899,104.959,5,Upbeat & happy
+QZLD62000003,940491432,Cuadra 11,Afro-Peruvian Jazz Orchestra,salsa,0.627,0.625,-9.29,0.041,0.649,0.707,0.0965,0.85,174.106,6,Instrumental grooves
+GBBGU9905501,3750613862,Bruca Maniguá,Ibrahím Ferrer,salsa,0.499,0.371,-11.624,0.0449,0.836,0.00557,0.131,0.684,110.274,1,Soft & acoustic
+USBN28800438,3124603,My One And Only Love,Chick Corea,salsa,0.414,0.336,-16.054,0.0352,0.873,0.921,0.114,0.418,78.922,4,Quiet & instrumental
+USPR36600045,2122771,Fried Neck Bones And Some Home Fries,Willie Bobo,salsa,0.776,0.452,-13.225,0.0339,0.766,0.582,0.07,0.761,111.468,6,Instrumental grooves
+FR8Z21900054,925160952,Si Tu Supieras,Joel Hierrezuelo,salsa,0.397,0.379,-14.53,0.032,0.934,0.859,0.0892,0.306,92.711,4,Quiet & instrumental
+ARC571400095,1409399362,Milonga gris,Carlos Aguirre,salsa,0.242,0.254,-20.005,0.0413,0.995,0.938,0.0778,0.447,111.377,4,Quiet & instrumental
+FR9W12001958,1070834662,Suave,Adrien Brandeis,salsa,0.481,0.361,-16.263,0.0451,0.795,0.889,0.101,0.37,113.523,6,Instrumental grooves
+US4GZ2106401,1433108732,Mi Conga Es De Akokán,Orquesta Akokán,salsa,0.463,0.891,-4.866,0.207,0.611,6.08e-06,0.293,0.571,143.618,0,Loud & fast
+TCAEQ2047541,939158632,El Suelo Mio,Jorge Roeder,salsa,0.699,0.0318,-19.699,0.158,0.927,0.932,0.0936,0.275,121.808,4,Quiet & instrumental
+QZNJV2043488,1097127572,Te Escucho,Sofia Ribeiro,salsa,0.604,0.206,-16.313,0.0422,0.891,0.00445,0.117,0.308,119.835,1,Soft & acoustic
+USAM16974769,2154007,Scarborough Fair,Sergio Mendes & Brasil '66,salsa,0.677,0.313,-20.482,0.0262,0.439,0.0433,0.0832,0.893,110.764,1,Soft & acoustic
+FR6F31901990,740969062,No soy de esos,Roberto Fonseca,salsa,0.697,0.303,-15.618,0.0381,0.899,0.942,0.0903,0.149,118.02,6,Instrumental grooves
+ES5010600253,3588900,Mi niña Lola,Buika,salsa,0.591,0.275,-8.051,0.0356,0.85,0.0,0.0903,0.191,109.333,1,Soft & acoustic
+USAM16874740,2239313,So Many Stars,Sergio Mendes & Brasil '66,salsa,0.425,0.284,-11.809,0.0282,0.578,2.08e-05,0.113,0.273,98.82,1,Soft & acoustic
+ES40G1400144,3233310211,Descarga Valdés,Bebo Valdés,salsa,0.405,0.246,-14.352,0.0462,0.932,0.872,0.0981,0.639,80.242,6,Instrumental grooves
+USMAR2319401,3632312052,Coral Way,Alfredo Rodriguez,salsa,0.782,0.524,-10.377,0.0824,0.561,0.84,0.107,0.763,104.949,6,Instrumental grooves
+USUM71804066,499998672,Solo Esta Soledad,Arturo Sandoval,salsa,0.229,0.311,-9.677,0.0343,0.941,0.00292,0.0812,0.12,137.527,1,Soft & acoustic
+QM4TX2380652,2208020197,Se Te Olvida (La Mentira) / Sabor A Mi,Vanessa Perea,salsa,0.476,0.177,-12.971,0.0466,0.863,0.0,0.0717,0.368,77.536,1,Soft & acoustic
+USA220610247,11827690,Home Cookin',Hilton Ruiz,salsa,0.654,0.638,-8.999,0.0465,0.775,0.92,0.108,0.79,146.388,6,Instrumental grooves
+FRX452053501,917028962,Noche de Amor,Ondatrópica,salsa,0.485,0.788,-7.799,0.0395,0.605,0.667,0.116,0.552,88.497,6,Instrumental grooves
+USPR36770136,1164140,Evil Ways,Willie Bobo,salsa,0.811,0.476,-9.468,0.0409,0.583,1.31e-06,0.058,0.955,111.429,5,Upbeat & happy
+GBDCR1300043,67442908,Onda Quebrando,Neyde Fraga,salsa,0.639,0.744,-5.517,0.121,0.57,0.000532,0.106,0.689,160.217,5,Upbeat & happy
+ES40G1400145,3233310221,Tres Palabras,Bebo Valdés,salsa,0.454,0.21,-13.513,0.0466,0.954,0.915,0.099,0.378,117.625,4,Quiet & instrumental
+USPR36509111,2496963,Reza,Cal Tjader,salsa,0.542,0.305,-19.796,0.0584,0.915,0.893,0.104,0.13,156.15,4,Quiet & instrumental
+DEA892300140,2174814577,Madiba,Matthieu Saglio,salsa,0.465,0.427,-13.259,0.0382,0.632,0.000349,0.15,0.575,143.949,1,Soft & acoustic
+DEKF30800148,986746542,Mango,The Bahama Soul Club,salsa,0.803,0.65,-6.47,0.033,0.0569,0.0969,0.154,0.734,132.986,5,Upbeat & happy
+USME32001402,1180702342,Cómo Fue,Miguel Zenón,salsa,0.522,0.132,-14.498,0.0603,0.993,0.574,0.111,0.464,130.954,1,Soft & acoustic
+IL6842000012,948264892,"Dreams in Transition (feat. Itamar Doari, Yonnie Dror & Gal Maestro)",Idan Balas,salsa,0.568,0.36,-11.077,0.0317,0.949,0.887,0.103,0.487,89.972,6,Instrumental grooves
+QMEU32012565,3071163391,Pare Cochero,Kemuel Roig,salsa,0.737,0.567,-11.102,0.0741,0.586,0.613,0.256,0.574,87.042,6,Instrumental grooves
+GBBGU9700249,3756688972,Cumbanchero,Rubén González,salsa,0.483,0.577,-10.274,0.0379,0.609,0.359,0.222,0.563,132.1,1,Soft & acoustic
+USDBB0609750,686150052,Either You Have It Or You Don’t,Charlie Palmieri,salsa,0.627,0.55,-11.349,0.0527,0.828,0.733,0.0445,0.855,104.067,6,Instrumental grooves
+ES5150901003,4382204,Soledad (con la colaboración de Chucho Valdés),Buika,salsa,0.717,0.264,-14.927,0.0381,0.776,4.52e-05,0.118,0.373,108.853,1,Soft & acoustic
+USDBB0600641,686077022,Calle Luna Calle Sol,Willie Colón,salsa,0.484,0.894,-6.142,0.0756,0.416,1.28e-05,0.0783,0.804,178.729,0,Loud & fast
+USSLR0414702,11686990,El Shing-A-Ling,Poncho Sanchez,salsa,0.551,0.572,-13.535,0.0747,0.379,0.0463,0.639,0.853,136.83,3,Live recordings
+ES5029000235,1010166,Pedro el Morato (Taranto en Tono de Rondeña),Enrique Morente,flamenco,0.349,0.296,-10.156,0.0445,0.895,0.000112,0.114,0.194,76.842,1,Soft & acoustic
+ES5700400457,930351,Rosa Maria (Tangos),Camarón de la Isla,flamenco,0.507,0.462,-9.633,0.0481,0.688,0.0,0.255,0.726,153.375,1,Soft & acoustic
+ES5120800245,78161617,Al Tío Juan Habichuela,Tomatito,flamenco,0.589,0.285,-13.003,0.0397,0.913,0.404,0.0714,0.533,160.608,1,Soft & acoustic
+ES5080500736,3455302,Volver,Estrella Morente,flamenco,0.674,0.37,-10.511,0.141,0.902,1.21e-05,0.0802,0.639,103.959,1,Soft & acoustic
+ES5030100192,134948268,Bulerías por soleá,Estrella Morente,flamenco,0.586,0.439,-8.054,0.0683,0.771,1.31e-05,0.108,0.181,73.514,1,Soft & acoustic
+ES5079700095,4100390,Bulerías a Joselito,Pansequito,flamenco,0.688,0.687,-12.515,0.221,0.689,0.00181,0.321,0.764,130.927,2,Danceable & wordy
+ES5120200570,78161711,Lo Bueno y Lo Malo,Duquende,flamenco,0.675,0.256,-17.606,0.0348,0.786,1.92e-05,0.112,0.536,130.951,1,Soft & acoustic
+ES7739904151,14567689,Volver,Paco de Amparo,flamenco,0.724,0.483,-8.837,0.0641,0.877,4.17e-06,0.0567,0.736,107.934,5,Upbeat & happy
+ES5110002523,20218471,Soleares de la Candela,El Agujetas,flamenco,0.552,0.546,-8.461,0.0508,0.855,0.000121,0.23,0.502,118.043,1,Soft & acoustic
+ES5161001536,2600689772,Y una letra... que sabe nadie,Manuel Lombo,flamenco,0.626,0.414,-8.54,0.241,0.789,0.0,0.245,0.555,108.325,2,Danceable & wordy
+ES72A1000040,10202074,Orate,Diego del Morao,flamenco,0.715,0.544,-9.218,0.0374,0.83,0.0545,0.24,0.613,127.428,5,Upbeat & happy
+ES5700400515,2229394,Una Gitana Morena (Bulerías),Camarón de la Isla,flamenco,0.569,0.796,-6.254,0.0547,0.645,0.000415,0.0878,0.463,113.625,5,Upbeat & happy
+QZ8251806303,457605542,El Niño Del Mentidero (Alegrías),David Palomar,flamenco,0.656,0.536,-7.921,0.0921,0.921,0.000304,0.0909,0.835,156.069,5,Upbeat & happy
+ES7581110312,3544008571,Esta Es Mi Cadiz (Bulerías),El Sevillano,flamenco,0.612,0.661,-14.264,0.0557,0.505,1.05e-05,0.0539,0.898,131.559,5,Upbeat & happy
+ES5110203998,4091676,Tu Mira (Edit),Lole y Manuel,flamenco,0.497,0.45,-8.224,0.0425,0.314,0.00737,0.267,0.136,99.924,1,Soft & acoustic
+ES5009600053,887726,Banderas Republicanas,Carmen Linares,flamenco,0.581,0.485,-11.473,0.0588,0.759,0.0,0.216,0.732,89.12,1,Soft & acoustic
+ES5709902744,884962,Sé Que Encontraré (Bulerías),José Mercé,flamenco,0.698,0.673,-11.405,0.0954,0.645,1.85e-06,0.588,0.868,116.697,3,Live recordings
+ES5701601338,141822207,Nos Quedamos Solitos,ROSALÍA,flamenco,0.309,0.315,-12.039,0.0378,0.977,0.00531,0.25,0.191,88.124,1,Soft & acoustic
+ES5028700243,13020349,Yo He Comprao Tres Puñales (Polo y Solea Apola) [Remasterizado],"Juan Peña ""El Lebrijano""",flamenco,0.481,0.333,-12.696,0.0417,0.925,0.00146,0.0972,0.313,117.261,1,Soft & acoustic
+ES5301030519,11106429,Inspiracion Gitana,Nina De Los Peines,flamenco,0.59,0.504,-6.725,0.074,0.961,0.22,0.107,0.67,100.693,1,Soft & acoustic
+ES7580500893,3540664211,A Pesar de Tu Maldad,Fosforito,flamenco,0.453,0.275,-11.878,0.0429,0.822,0.0,0.344,0.396,123.007,1,Soft & acoustic
+ES5079700134,3913272,Romance de la reina Juana (Bulerías-canción),Fernanda y Bernarda de Utrera,flamenco,0.497,0.596,-9.71,0.0513,0.773,0.00093,0.143,0.642,119.577,1,Soft & acoustic
+ES5270106010,66584454,Te Despierta un Sudor Frío: Cantiña Gaditana,Pericon de Cadiz,flamenco,0.55,0.333,-12.083,0.176,0.95,0.0804,0.129,0.716,81.537,1,Soft & acoustic
+ES5630701460,1354864,Una Juerga Se Compone - Tanguillos,Nino Ricardo,flamenco,0.678,0.325,-14.874,0.145,0.991,0.919,0.124,0.785,126.186,6,Instrumental grooves
+ES7580501492,3540748551,Tangos del Dinero,La Perla De Cadiz,flamenco,0.553,0.236,-13.303,0.206,0.911,0.000105,0.151,0.644,64.521,1,Soft & acoustic
+ES64A0832420,4370471,La Niña De Fuego,Lola Flores,flamenco,0.435,0.153,-12.973,0.0698,0.987,0.0179,0.131,0.403,95.543,1,Soft & acoustic
+ES5087305757,3192709,El mes de los caracoles (Tango canastero),Antonio Mairena,flamenco,0.645,0.265,-13.612,0.0437,0.837,0.000133,0.107,0.715,98.951,1,Soft & acoustic
+US6R21389214,66556856,Fandangos de Acero,Paco Toronjo,flamenco,0.521,0.337,-10.391,0.0358,0.819,0.000109,0.0918,0.323,133.909,1,Soft & acoustic
+ES5150900317,6626426,Esta noche mando yo. Alboreá,Joselero de Moron,flamenco,0.717,0.262,-12.261,0.0622,0.354,1.15e-05,0.0795,0.59,107.558,1,Soft & acoustic
+ES5709903500,918387,Flores En El Campo,Porrinas De Badajoz,flamenco,0.426,0.0677,-18.083,0.0374,0.983,0.0852,0.156,0.349,91.168,1,Soft & acoustic
+ES5709903447,918488,Soy Mas Duro Que El Acero,Chiquito De Camas,flamenco,0.494,0.388,-12.299,0.0352,0.85,2.52e-05,0.139,0.194,114.027,1,Soft & acoustic
+ES5301028122,11089362,Moreno de Piel Canela,La Marelu,flamenco,0.575,0.313,-16.971,0.0502,0.93,0.673,0.119,0.655,116.396,6,Instrumental grooves
+ES7580700113,3543941981,¡Torero! (Bulerías),El Turronero,flamenco,0.737,0.751,-7.727,0.179,0.612,0.000291,0.11,0.465,124.989,2,Danceable & wordy
+ES5271102201,66956030,La Mejor Cueva Que Hubiere (Zambra),Zambra Gitana de Manolo Amaya,flamenco,0.641,0.66,-11.928,0.35,0.817,0.024,0.24,0.909,92.927,2,Danceable & wordy
+ES5087990684,3412783,Alegrías de Cádiz,Chano Lobato,flamenco,0.424,0.788,-7.506,0.0981,0.782,1.14e-05,0.153,0.779,164.959,0,Loud & fast
+USV291450891,86032603,Que Bonita Es Mi Niña,Perlita de Huelva,flamenco,0.507,0.645,-4.989,0.0472,0.84,0.0,0.38,0.738,103.467,5,Upbeat & happy
+ES5151700360,144393046,No te quiero por bonita (feat. Peret) (Garrotín),La Camboria y su Troupe Gitana,flamenco,0.54,0.573,-8.948,0.093,0.243,5.95e-05,0.0852,0.397,157.136,0,Loud & fast
+ES04D1600388,2563558482,La Niña Bonita,La Hungara,flamenco,0.754,0.892,-3.789,0.118,0.471,7.09e-06,0.169,0.812,149.86,5,Upbeat & happy
+ES5039400002,3536543,Sueño marinero,Lole y Manuel,flamenco,0.479,0.505,-9.924,0.0955,0.852,6.82e-05,0.0388,0.632,162.693,1,Soft & acoustic
+ES5700400220,884968,En Casa Del Herrero (Bulerías),Tomatito,flamenco,0.577,0.684,-4.853,0.0546,0.763,3.84e-06,0.0827,0.732,124.643,5,Upbeat & happy
+ES5030100191,403823312,Tabanco,Estrella Morente,flamenco,0.591,0.813,-5.869,0.0516,0.75,0.000459,0.104,0.746,103.254,5,Upbeat & happy
+ES5129900297,78243499,Extremo Puro,Potito,flamenco,0.795,0.445,-14.478,0.104,0.37,2.28e-05,0.122,0.883,111.993,5,Upbeat & happy
+ES5020200383,1006606,Estirpe,Nino Josele,flamenco,0.535,0.654,-7.836,0.0565,0.898,0.723,0.0438,0.828,129.995,6,Instrumental grooves
+ES5709904794,8081701,Tus Ojillos Negros,Camarón de la Isla,flamenco,0.51,0.585,-7.692,0.499,0.663,0.0,0.964,0.654,81.608,2,Danceable & wordy
+ES5008100001,887725,Solo Quiero Caminar,Paco de Lucía,flamenco,0.484,0.486,-13.753,0.0782,0.842,0.299,0.102,0.438,163.1,1,Soft & acoustic
+USSM12504044,3640141012,La Rumba Del Perdón,ROSALÍA,flamenco,0.512,0.376,-7.487,0.0863,0.707,2.36e-06,0.0833,0.415,94.972,1,Soft & acoustic
+ES5022401849,3208061801,Bien de Amores,Maria José Llergo,flamenco,0.357,0.651,-5.558,0.0615,0.416,0.000211,0.124,0.335,168.135,0,Loud & fast
+ES5022401974,3125674771,Hartita de Llorar,Lachispa,flamenco,0.445,0.592,-5.795,0.397,0.58,0.0002,0.0808,0.315,170.625,2,Danceable & wordy
+ES5022500142,3240992621,Renacer,Lía Kali,flamenco,0.543,0.651,-3.806,0.127,0.158,0.000251,0.0996,0.49,85.138,5,Upbeat & happy
+ESUM72401553,3196656431,"Miraíta (Rumba, Libertad)",María Terremoto,flamenco,0.654,0.772,-4.231,0.0467,0.504,0.000737,0.103,0.706,146.95,5,Upbeat & happy
+ES5022401718,3226806221,A mi padre (Bulería),José del Tomate,flamenco,0.716,0.382,-10.688,0.0647,0.883,0.798,0.103,0.563,117.925,6,Instrumental grooves
+MXA4B2500013,3198553651,Amor Clandestino,Natalia Lafourcade,flamenco,0.502,0.121,-11.781,0.07,0.984,0.000809,0.148,0.208,81.31,1,Soft & acoustic
+ESUM72402029,3139914021,Haciéndome ilusiones,El Bobo de las 3000,flamenco,0.754,0.871,-4.116,0.0726,0.279,0.0,0.197,0.555,98.066,5,Upbeat & happy
+ES5022401989,3141364921,LA PLAZA ARGEL (feat. La Tana & El Remache),Yerai Cortés,flamenco,0.555,0.847,-5.738,0.227,0.594,9.22e-06,0.704,0.784,108.237,3,Live recordings
+ESUM72401038,2999618251,"MAMA, TENÍAS RAZÓN (Jaleos)",Angeles Toledano,flamenco,0.756,0.512,-7.18,0.0758,0.0888,0.0,0.134,0.665,113.035,5,Upbeat & happy
+ES71G2430153,3266294671,Un plat més a taula,Habla de Mí en Presente,flamenco,0.753,0.582,-10.312,0.0769,0.207,0.00755,0.15,0.572,116.988,5,Upbeat & happy
+UYB282476733,3118049311,Te Regalo,Rels B,flamenco,0.613,0.522,-5.501,0.117,0.394,0.0,0.163,0.511,119.262,5,Upbeat & happy
+ESUM72400944,3105191491,"Tangos - Me Saben A Caramelo (En Directo en Oviedo, 13 de Septiembre de 1991)",Camarón de la Isla,flamenco,0.533,0.633,-4.067,0.0332,0.741,0.000281,0.42,0.38,88.007,3,Live recordings
+ES5022401673,3055414201,"RUEDA, RUEDA (Live at NPR's Tiny Desk)",Maria José Llergo,flamenco,0.549,0.264,-15.348,0.324,0.686,0.131,0.0644,0.421,158.732,2,Danceable & wordy
+ES5022400525,3023193441,SIEMPRE PURA,Lachispa,flamenco,0.66,0.832,-4.882,0.102,0.327,0.0,0.31,0.869,160.031,5,Upbeat & happy
+QMFME2433116,3111182821,La Venda,Lorena Santos,flamenco,0.623,0.651,-7.644,0.288,0.36,3.49e-06,0.345,0.744,199.929,2,Danceable & wordy
+ES5152401184,3086381361,Si tu Quisieras,Demarco Flamenco,flamenco,0.654,0.885,-4.986,0.163,0.209,6.75e-06,0.0975,0.729,99.914,5,Upbeat & happy
+DEXC82400044,2835405782,Sonar por Bulerías - A COLORS ENCORE,Yerai Cortés,flamenco,0.515,0.618,-8.817,0.0644,0.694,0.618,0.11,0.677,150.393,6,Instrumental grooves
+ES04D2400025,3046555891,Mi León,La Hungara,flamenco,0.685,0.88,-3.195,0.0868,0.546,0.0,0.219,0.843,141.972,5,Upbeat & happy
+ES6102425004,3023439611,YUEB3 (La Pausa),Astola y Ratón,flamenco,0.615,0.531,-8.459,0.0346,0.638,0.000145,0.092,0.439,140.005,1,Soft & acoustic
+ESUM72401484,2988905771,Yo Me Asomé A La Muralla (Seguiriyas),Israel Fernández,flamenco,0.544,0.349,-8.45,0.0407,0.934,0.000754,0.682,0.369,111.642,3,Live recordings
+ES71G2421255,3265096681,De tanto rezarle al santo,Lela Soto,flamenco,0.745,0.509,-7.95,0.185,0.79,2.05e-06,0.132,0.593,86.891,2,Danceable & wordy
+QZTB92400478,2962021051,Avenida de los Cisnes (Alegría),David de Arahal,flamenco,0.643,0.52,-8.609,0.0426,0.798,0.914,0.114,0.661,170.143,6,Instrumental grooves
+ES64E2484973,2824071382,Besos de Colores,Fran El Niño,flamenco,0.811,0.662,-8.976,0.0749,0.46,5.32e-05,0.427,0.423,148.062,3,Live recordings
+GBUM71200588,33255521,God Save The Queen (Remastered 2012),Sex Pistols,punk,0.293,0.905,-7.665,0.057,0.000957,0.00157,0.139,0.642,149.321,0,Loud & fast
+GBARL1200706,69984812,London's Burning (Remastered),The Clash,punk,0.556,0.822,-6.082,0.123,0.0458,0.00134,0.101,0.792,147.282,0,Loud & fast
+GBAJE7800065,5740879,If The Kids Are United,Sham 69,punk,0.206,0.926,-7.076,0.0773,0.00374,4.81e-06,0.698,0.297,133.637,3,Live recordings
+GB5KW1602872,3750638322,New Rose (2017 Remastered),The Damned,punk,0.189,0.973,-6.036,0.118,0.00548,9.51e-06,0.0975,0.316,173.501,0,Loud & fast
+GBAJE7800192,3786091892,Teenage Kicks,The Undertones,punk,0.413,0.784,-6.529,0.0431,0.000908,0.0,0.127,0.565,134.985,0,Loud & fast
+GBAKW7701001,907840,In The City,The Jam,punk,0.343,0.895,-7.022,0.0468,0.000479,2.71e-05,0.295,0.894,177.844,0,Loud & fast
+GBAYK0200100,1787667517,Ready Steady Go (2002 Remaster),Generation X,punk,0.43,0.957,-3.38,0.17,0.11,1.11e-06,0.141,0.411,92.822,0,Loud & fast
+GBAYE9600425,376010561,What Do I Get? (1996 Remastered Version),Buzzcocks,punk,0.249,0.922,-7.929,0.118,0.00176,0.0,0.408,0.199,176.509,0,Loud & fast
+GBBBM8700024,869488,All Day and All of the Night,The Stranglers,punk,0.612,0.889,-3.914,0.0961,0.0156,0.000688,0.0433,0.711,136.917,5,Upbeat & happy
+GB01A0700157,3099966,Alternative Ulster,Stiff Little Fingers,punk,0.6,0.925,-9.148,0.0828,0.00882,0.000168,0.0691,0.382,118.181,0,Loud & fast
+GBARL1200702,69505568,White Riot (Remastered),The Clash,punk,0.472,0.921,-8.151,0.0941,0.00239,0.0104,0.183,0.63,101.333,0,Loud & fast
+GBUM71200591,33255551,Anarchy In The UK,Sex Pistols,punk,0.358,0.949,-7.649,0.0981,0.0571,0.000354,0.269,0.226,134.111,0,Loud & fast
+USRH11601901,131744724,Blitzkrieg Bop (2016 Remaster),Ramones,punk,0.382,0.783,-2.533,0.233,0.000266,0.469,0.108,0.902,176.735,0,Loud & fast
+GBCST1210401,63061924,Born to Lose (L.A.M.F. - the Track LP restored),Johnny Thunders,punk,0.314,0.861,-8.432,0.0618,0.00452,0.0,0.492,0.616,148.004,3,Live recordings
+USIR20200576,5677465,Cherry Bomb,The Runaways,punk,0.501,0.813,-8.192,0.0639,0.0455,4.75e-05,0.131,0.495,136.59,0,Loud & fast
+USWB19903971,3875552,Sonic Reducer,Dead Boys,punk,0.403,0.891,-8.907,0.139,0.00525,0.00379,0.0519,0.427,88.936,0,Loud & fast
+USAT20106384,768138,Kick Out the Jams,MC5,punk,0.349,0.919,-5.308,0.11,0.00338,0.0,0.328,0.568,144.552,0,Loud & fast
+USSM17200128,1027923,Search and Destroy [2023 Remaster] (Iggy Mix),Iggy & the Stooges,punk,0.265,0.845,-8.397,0.0851,0.0627,0.0794,0.173,0.307,152.888,0,Loud & fast
+USA6P0407513,17150617,We Got the Neutron Bomb,The Weirdos,punk,0.151,0.866,-7.401,0.0481,0.00489,0.000184,0.118,0.601,172.657,0,Loud & fast
+USRH11703067,426704712,Sheena Is a Punk Rocker (2017 Remaster),Ramones,punk,0.42,0.965,-1.986,0.0403,0.0981,0.000335,0.0784,0.846,176.243,0,Loud & fast
+CAW111800574,576921672,Picture My Face,Teenage Head,punk,0.482,0.831,-5.596,0.0275,0.448,0.442,0.141,0.784,135.444,5,Upbeat & happy
+USRH11702643,459670662,Blank Generation (2017 Remaster Audio; Remastered),Richard Hell & The Voidoids,punk,0.381,0.91,-3.752,0.2,0.383,3.58e-06,0.0869,0.602,138.04,0,Loud & fast
+USEE10181884,718312,Marquee Moon,Television,punk,0.49,0.536,-10.83,0.0382,0.0391,0.371,0.116,0.732,118.008,5,Upbeat & happy
+USPR37300026,1162717,Personality Crisis,New York Dolls,punk,0.429,0.913,-9.594,0.0505,0.0321,9.27e-05,0.426,0.685,155.588,0,Loud & fast
+USRH11703063,426704672,Rockaway Beach (2017 Remaster),Ramones,punk,0.426,0.921,-2.469,0.0529,0.000793,1.38e-06,0.169,0.895,187.415,0,Loud & fast
+USRH10802179,6641161,Lexicon Devil,The Germs,punk,0.504,0.877,-7.469,0.053,0.000242,2.66e-06,0.293,0.821,106.272,5,Upbeat & happy
+USKKF1200004,59778511,When the Shit Hits the Fan,The Circle Jerks,punk,0.408,0.94,-8.437,0.0567,0.0426,0.0,0.14,0.295,154.565,0,Loud & fast
+USCA28400201,3105740,New Kind Of Kick,The Cramps,punk,0.588,0.91,-5.593,0.104,0.0302,0.0143,0.293,0.591,130.907,0,Loud & fast
+USCN38000003,3092988,Skulls,Misfits,punk,0.466,0.953,-7.26,0.0565,0.0177,0.0,0.371,0.3,113.295,0,Loud & fast
+AUEM00400004,3080630131,(I'm) Stranded,The Saints,punk,0.415,0.948,-4.534,0.0405,0.00653,0.0,0.347,0.376,87.04,0,Loud & fast
+GHDHS1603115,130790590,Years Away,Chelsea,punk,0.258,0.939,-7.172,0.0826,0.00208,0.407,0.399,0.617,175.339,0,Loud & fast
+GBAAA7900142,3144068,Babylon's Burning,The Ruts,punk,0.334,0.925,-8.521,0.0663,0.0219,0.0,0.186,0.577,168.393,0,Loud & fast
+GBARL1201017,69505564,I Fought the Law,The Clash,punk,0.526,0.9,-6.815,0.0545,0.00539,4.12e-05,0.14,0.883,151.279,0,Loud & fast
+GBAAA0700206,3110837,Shot By Both Sides (Remastered 2007),Magazine,punk,0.324,0.967,-5.655,0.0774,0.0278,0.000269,0.0566,0.392,165.92,0,Loud & fast
+GBAYE8000101,13459848,Bad Man,Cockney Rejects,punk,0.208,0.914,-7.07,0.0513,8.74e-05,0.000104,0.797,0.521,155.198,3,Live recordings
+GBPYM0730212,1230334362,Runnin' Riot,Cock Sparrer,punk,0.196,0.874,-6.442,0.0833,0.00341,0.0,0.33,0.447,167.684,0,Loud & fast
+QM6XS2101596,1739554707,You (Restored/Remixed),Eater,punk,0.197,0.937,-4.96,0.126,0.000494,0.000345,0.083,0.637,97.902,0,Loud & fast
+GBPYM1050016,1622507062,Outlaw,Chron Gen,punk,0.413,0.942,-5.133,0.0652,0.000148,1.78e-06,0.249,0.288,91.587,0,Loud & fast
+GBCST8230201,10627549,Viva La Revolution,The Adicts,punk,0.501,0.737,-7.183,0.0328,0.00835,2.38e-06,0.0713,0.965,103.386,5,Upbeat & happy
+GBCKK0200290,2121554197,Gary Gilmore's Eyes,The Adverts,punk,0.417,0.598,-6.08,0.0476,0.035,4.8e-06,0.416,0.782,157.935,0,Loud & fast
+GB01A7900020,3466896,Damaged Goods,Gang of Four,punk,0.745,0.721,-7.008,0.09,0.025,0.0466,0.155,0.965,157.197,5,Upbeat & happy
+USA2P1502916,105958214,Is This Real?,Wipers,punk,0.456,0.695,-5.51,0.0324,0.0033,0.714,0.131,0.858,162.911,0,Loud & fast
+USWB10301385,6635689,Top of the Pops,The Rezillos,punk,0.417,0.586,-12.217,0.0399,0.000358,0.0443,0.0957,0.965,183.706,0,Loud & fast
+GBAAA7800248,3133222,Future Daze,Penetration,punk,0.34,0.728,-10.609,0.0616,0.0504,0.00018,0.227,0.484,139.697,0,Loud & fast
+GBAAP0100716,3877566,Los Angeles,X,punk,0.614,0.755,-5.829,0.0276,0.0162,1.9e-06,0.0831,0.645,92.622,5,Upbeat & happy
+USA370996441,5321268,Bloodstains,Agent Orange,punk,0.493,0.938,-6.866,0.135,0.000703,9.07e-06,0.0458,0.443,105.062,0,Loud & fast
+GBAHW0500267,479436442,Test Tube Babies,Plasmatics,punk,0.576,0.885,-10.81,0.0655,0.00553,8.13e-06,0.112,0.516,125.793,0,Loud & fast
+GBAAN7900026,1140837,Typical Girls,The Slits,punk,0.488,0.676,-11.194,0.0449,2.26e-05,0.461,0.0659,0.7,157.646,0,Loud & fast
+GBBTF1800064,2629561902,Punk Is Dead,Crass,punk,0.622,0.962,-7.735,0.0878,0.0225,0.0,0.183,0.446,112.493,0,Loud & fast
+USIR20110114,1125083,In Too Deep,Sum 41,punk,0.569,0.841,-5.563,0.0565,0.000199,0.0,0.0655,0.736,116.057,5,Upbeat & happy
+USDW10110256,389059151,The Middle,Jimmy Eat World,punk,0.644,0.848,-5.385,0.0529,0.0358,0.0,0.0676,0.928,162.151,5,Upbeat & happy
+USRE10400888,773367,American Idiot,Green Day,punk,0.38,0.988,-2.042,0.0639,2.64e-05,7.86e-05,0.368,0.769,186.113,0,Loud & fast
+USRE10602912,676590,Teenagers,My Chemical Romance,punk,0.459,0.858,-3.063,0.0626,0.0506,0.0,0.184,0.855,111.682,5,Upbeat & happy
+USIR20110124,1125079,Fat Lip,Sum 41,punk,0.403,0.914,-5.215,0.142,0.000579,0.0,0.065,0.626,196.482,0,Loud & fast
+USAR10200229,15587466,Sk8er Boi,Avril Lavigne,punk,0.485,0.895,-4.256,0.0779,0.000284,0.0,0.496,0.4,150.114,3,Live recordings
+USRC19808159,967040,My Own Worst Enemy,Lit,punk,0.494,0.946,-2.757,0.0637,0.00129,0.0,0.398,0.741,103.408,0,Loud & fast
+USIR20500201,1138247,"Sugar, We're Goin Down",Fall Out Boy,punk,0.5,0.887,-3.74,0.0726,0.00467,0.0,0.114,0.631,162.003,0,Loud & fast
+USMC19959007,127354205,What's My Age Again?,blink-182,punk,0.391,0.951,-7.419,0.0688,0.012,0.000446,0.0878,0.468,157.663,0,Loud & fast
+USRE19900151,678044,Basket Case,Green Day,punk,0.441,0.943,-3.205,0.0602,0.00293,8.27e-06,0.091,0.781,85.05,5,Upbeat & happy
+USSM10209827,7675611,The Anthem,Good Charlotte,punk,0.562,0.938,-3.078,0.106,0.00749,0.0,0.297,0.918,88.872,5,Upbeat & happy
+USMC10110874,4255566,First Date,blink-182,punk,0.575,0.932,-4.376,0.0457,0.000769,0.0,0.358,0.835,95.594,5,Upbeat & happy
+USAT20111234,477008492,I'm Just a Kid,Simple Plan,punk,0.527,0.834,-5.531,0.0447,0.00107,0.000102,0.0993,0.422,110.065,0,Loud & fast
+USSM10210275,7675610,Lifestyles of the Rich & Famous,Good Charlotte,punk,0.62,0.921,-3.814,0.0374,0.000376,0.0,0.0673,0.607,106.198,5,Upbeat & happy
+USMC10200363,980198,My Friends Over You,New Found Glory,punk,0.404,0.98,-4.021,0.107,0.000186,0.0,0.0723,0.433,177.797,0,Loud & fast
+USDW10500128,2261575,Dirty Little Secret,The All-American Rejects,punk,0.459,0.955,-4.26,0.0448,0.000311,4.29e-06,0.421,0.485,143.865,0,Loud & fast
+GBUM71400377,79517864,She Looks So Perfect,5 Seconds Of Summer,punk,0.472,0.95,-3.412,0.149,0.000594,0.0,0.216,0.467,160.088,0,Loud & fast
+USEP41118004,378343191,I'm Not A Vampire,Falling In Reverse,punk,0.235,0.965,-2.882,0.28,0.00887,0.0,0.0448,0.322,185.278,0,Loud & fast
+USAT20702617,3829140,Misery Business,Paramore,punk,0.513,0.906,-3.673,0.0737,0.00272,8.42e-06,0.113,0.73,173.0,0,Loud & fast
+USIR20000691,623721592,Flavor Of The Weak,American Hi-Fi,punk,0.388,0.952,-3.018,0.0598,0.000628,1.95e-05,0.33,0.504,151.288,0,Loud & fast
+USVI20600108,3119156,Face Down,The Red Jumpsuit Apparatus,punk,0.428,0.934,-2.181,0.0491,0.000673,0.0,0.0622,0.452,185.859,0,Loud & fast
+USHR20747017,6249577,"Dear Maria, Count Me In",All Time Low,punk,0.459,0.895,-3.126,0.0805,0.00725,0.0,0.206,0.572,181.04,0,Loud & fast
+USBAL0700016,2606031412,"Heroes Get Remembered, Legends Never Die",Four Year Strong,punk,0.432,0.966,-4.063,0.159,0.000882,0.0,0.258,0.596,163.006,0,Loud & fast
+USAT21503476,109832086,Emperor's New Clothes,Panic! At the Disco,punk,0.562,0.904,-4.947,0.0807,0.00302,0.0,0.0433,0.651,94.481,5,Upbeat & happy
+USKFE0700003,3814347422,"Check Yes, Juliet",We The Kings,punk,0.352,0.912,-4.253,0.0725,0.00197,0.0,0.193,0.351,166.795,0,Loud & fast
+TCAAY1185342,118855732,Stay Young,Save Your Breath,punk,0.49,0.964,-5.567,0.056,0.000142,0.0,0.098,0.58,95.282,0,Loud & fast
+USDTR0300108,1517088202,Radio Player,Allister,punk,0.457,0.948,-4.974,0.116,0.00238,4.09e-06,0.138,0.555,158.024,0,Loud & fast
+USVIC1060307,1286025092,All Signs Point to Lauderdale,A Day to Remember,punk,0.425,0.983,-3.437,0.114,0.000263,0.0,0.114,0.513,149.95,0,Loud & fast
+CAW111600067,123933188,Afraid of Heights,Billy Talent,punk,0.543,0.991,-2.78,0.0668,0.000168,1.31e-05,0.374,0.766,150.031,0,Loud & fast
+USJI10400613,35940,1985,Bowling for Soup,punk,0.575,0.87,-4.38,0.0691,0.000249,0.0,0.339,0.82,119.962,5,Upbeat & happy
+USCA20300233,3224886,Ocean Avenue,Yellowcard,punk,0.486,0.904,-3.751,0.0638,3.43e-05,2.83e-05,0.0947,0.786,173.734,0,Loud & fast
+QMCE71300069,856051622,Your Graduation,Modern Baseball,punk,0.395,0.902,-5.808,0.177,0.001,0.0,0.327,0.632,184.737,0,Loud & fast
+USAR50412170,69830356,Memory,Sugarcult,punk,0.449,0.864,-3.892,0.0352,2.04e-05,0.0,0.108,0.713,167.154,0,Loud & fast
+USSM19804370,137234016,Americana,The Offspring,punk,0.377,0.824,-4.67,0.0947,0.00756,0.000446,0.408,0.81,147.138,0,Loud & fast
+USWB10301489,378374951,Fall Back Down,Rancid,punk,0.525,0.989,-1.438,0.0527,0.00244,0.0,0.123,0.504,104.069,0,Loud & fast
+USAT21100980,12253921,Parkview,The Swellers,punk,0.257,0.978,-3.823,0.0533,0.000537,2.58e-06,0.299,0.572,191.929,0,Loud & fast
+USFW41695301,3471302681,Six Years on Dope,NOFX,punk,0.431,0.95,-4.979,0.147,0.000184,0.0402,0.175,0.651,184.615,0,Loud & fast
+USEP41208003,378362871,Revolution,Pennywise,punk,0.534,0.962,-4.129,0.0568,0.0006,0.0263,0.113,0.737,106.48,5,Upbeat & happy
+USSTT1300033,3272739351,Elevated,State Champs,punk,0.267,0.981,-2.04,0.136,0.00548,0.0,0.0346,0.456,188.181,0,Loud & fast
+USSM10214995,850986,In This Diary,The Ataris,punk,0.566,0.832,-4.644,0.0603,0.00505,0.0,0.127,0.86,175.028,0,Loud & fast
+US3X50405403,16002304,Shoulder to the Wheel,Saves the Day,punk,0.35,0.958,-4.597,0.0949,0.000436,0.0,0.314,0.555,190.501,0,Loud & fast
+US5260709901,121591974,Jamie All Over,Mayday Parade,punk,0.426,0.868,-3.702,0.047,6.54e-05,0.0,0.0723,0.402,149.042,0,Loud & fast
+GBAAA1100242,16127275,Bite My Tongue,You Me At Six,punk,0.418,0.824,-4.089,0.0469,0.00119,6.48e-05,0.2,0.382,143.983,0,Loud & fast
+USSM10603072,538953,On Top of the World (Album Version),Boys Like Girls,punk,0.472,0.934,-3.806,0.0627,8.85e-05,1.3e-05,0.388,0.601,154.993,0,Loud & fast
+USEP40912004,378319151,summer jam,Set Your Goals,punk,0.398,0.986,-3.113,0.334,0.000112,1.75e-06,0.925,0.44,198.105,3,Live recordings
+USSTT1500001,3272702961,Fucked up Kids,Hit The Lights,punk,0.475,0.956,-3.823,0.123,0.000205,0.0,0.319,0.664,91.413,0,Loud & fast
+USVR90234002,3957206751,Action & Action,The Get Up Kids,punk,0.386,0.919,-4.836,0.093,0.000173,0.0215,0.266,0.36,152.311,0,Loud & fast
+USWB19900178,664450,Dreams,Fleetwood Mac,disco,0.649,0.676,-6.184,0.0326,0.146,0.0,0.169,0.218,117.971,0,Loud & fast
+USFI87000066,883644,Have You Ever Seen The Rain,Creedence Clearwater Revival,disco,0.779,0.662,-5.826,0.0284,0.141,1.16e-05,0.119,0.811,116.115,5,Upbeat & happy
+USEE11300353,68097787,Hotel California (2013 Remaster),Eagles,disco,0.579,0.508,-9.484,0.027,0.00574,0.000494,0.0575,0.609,147.125,0,Loud & fast
+SEAYD7601020,884025,Dancing Queen,ABBA,disco,0.509,0.892,-6.244,0.0483,0.184,0.000726,0.596,0.7,100.554,3,Live recordings
+GBF089601041,2263033,Sultans Of Swing,Dire Straits,disco,0.733,0.794,-10.023,0.0307,0.0614,0.0367,0.33,0.931,148.174,5,Upbeat & happy
+USWB10400053,63480992,The Chain (2004 Remaster),Fleetwood Mac,disco,0.522,0.755,-6.95,0.0524,0.0517,6.63e-05,0.0781,0.637,151.796,0,Loud & fast
+USUM71211840,78369155,I Was Made For Lovin' You,KISS,disco,0.712,0.855,-5.603,0.0548,0.0488,0.000239,0.0824,0.885,128.53,5,Upbeat & happy
+USSM10000372,2206153,Ain't No Sunshine,Bill Withers,disco,0.521,0.411,-11.444,0.11,0.493,1.74e-05,0.109,0.501,78.414,1,Soft & acoustic
+USSM17200399,541393,Mr. Blue Sky,Electric Light Orchestra,disco,0.571,0.346,-9.591,0.0277,0.672,5.44e-06,0.193,0.468,89.362,1,Soft & acoustic
+GBF087500001,906646,I'm Not In Love,10cc,disco,0.413,0.552,-12.008,0.044,0.695,0.000368,0.168,0.222,133.62,1,Soft & acoustic
+NLF057790012,350027751,How Deep Is Your Love,Bee Gees,disco,0.594,0.5,-5.586,0.0255,0.076,9.86e-05,0.184,0.537,104.996,5,Upbeat & happy
+USAT21300959,88003859,Stairway to Heaven (Remaster),Led Zeppelin,disco,0.338,0.34,-12.049,0.0339,0.58,0.0032,0.116,0.197,82.433,1,Soft & acoustic
+GBAMB9500072,880181,Your Song,Elton John,disco,0.552,0.315,-11.028,0.0299,0.828,5.52e-06,0.101,0.324,128.187,1,Soft & acoustic
+USSM17800444,554195,Hold the Line,Toto,disco,0.482,0.835,-7.68,0.0539,0.0191,0.0143,0.162,0.776,96.444,5,Upbeat & happy
+USIR20200274,3070997,Let The Music Play (Single Version),Barry White,disco,0.517,0.802,-7.555,0.0418,0.0117,0.0,0.224,0.782,99.273,5,Upbeat & happy
+USSM17500791,15347259,Hurricane,Bob Dylan,disco,0.518,0.822,-7.915,0.0713,0.0437,0.0,0.107,0.767,133.729,0,Loud & fast
+GBAMB7200006,1144863,"Rocket Man (I Think It's Going To Be A Long, Long Time)",Elton John,disco,0.601,0.532,-9.119,0.0286,0.433,5.95e-06,0.0925,0.342,136.576,1,Soft & acoustic
+DEC767700023,555752,"Yes Sir, I Can Boogie",Baccara,disco,0.469,0.76,-7.105,0.0747,0.0398,2e-06,0.0947,0.535,122.886,0,Loud & fast
+USCA28600270,1445506742,Old Time Rock & Roll,Bob Seger & The Silver Bullet Band,disco,0.714,0.937,-2.947,0.0399,0.206,0.0,0.0731,0.964,124.13,5,Upbeat & happy
+USALS0100032,3100130,Year of the Cat (2001 Remaster),Al Stewart,disco,0.531,0.607,-9.602,0.0328,0.0114,0.00511,0.121,0.534,116.652,0,Loud & fast
+NLF057790033,139138647,"More Than A Woman (From ""Saturday Night Fever"" Soundtrack)",Bee Gees,disco,0.601,0.703,-6.24,0.0379,0.175,8.4e-05,0.571,0.673,106.164,3,Live recordings
+GBBLG7400071,12164497,Pick up the Pieces,Average White Band,disco,0.77,0.858,-7.086,0.0492,0.0106,0.685,0.0298,0.76,109.883,5,Upbeat & happy
+AUAP07600012,92720006,T.N.T.,AC/DC,disco,0.749,0.756,-5.246,0.3,0.159,0.000177,0.106,0.488,126.324,2,Danceable & wordy
+GBUM71029618,3449122011,We Will Rock You (Remastered 2011),Queen,disco,0.7,0.495,-7.213,0.0849,0.662,0.0,0.242,0.506,81.083,5,Upbeat & happy
+DEC737600002,364951,Daddy Cool,Boney M.,disco,0.765,0.757,-7.516,0.0368,0.246,0.731,0.133,0.928,124.444,6,Instrumental grooves
+GBAJE7200130,4191979,Changes,Black Sabbath,disco,0.304,0.301,-9.792,0.0305,0.376,2.83e-05,0.121,0.151,81.439,1,Soft & acoustic
+USAM17000373,74790480,(They Long To Be) Close To You,Carpenters,disco,0.531,0.316,-10.246,0.0291,0.761,0.000227,0.117,0.251,88.804,1,Soft & acoustic
+USSM10015584,5404469,It Never Rains in Southern California,Albert Hammond,disco,0.616,0.463,-13.231,0.0278,0.1,0.0,0.0939,0.926,116.355,5,Upbeat & happy
+USWB19901792,727720,A Horse with No Name,America,disco,0.654,0.506,-17.18,0.0535,0.686,0.0155,0.155,0.831,123.179,1,Soft & acoustic
+USSM17500295,563391,Lowdown,Boz Scaggs,disco,0.691,0.551,-12.15,0.0503,0.0747,0.104,0.034,0.938,116.519,5,Upbeat & happy
+SEAYD7901120,884041,Gimme! Gimme! Gimme! (A Man After Midnight),ABBA,disco,0.736,0.463,-10.995,0.0407,0.0112,0.117,0.118,0.557,119.392,5,Upbeat & happy
+USMO17700548,1101952,Brick House,Commodores,disco,0.832,0.782,-10.48,0.0597,0.0743,0.0179,0.032,0.63,107.878,5,Upbeat & happy
+USRC17400164,541377,Mandy,Barry Manilow,disco,0.299,0.5,-5.755,0.0283,0.53,1.67e-05,0.189,0.332,103.408,1,Soft & acoustic
+USSM19803732,855863,Dust in the Wind,Kansas,disco,0.498,0.251,-13.734,0.0299,0.212,1.59e-05,0.107,0.419,93.546,1,Soft & acoustic
+USFI87000060,883655,Who'll Stop The Rain,Creedence Clearwater Revival,disco,0.627,0.873,-5.415,0.0311,0.00804,0.000583,0.0555,0.628,123.113,5,Upbeat & happy
+USAT20901935,3821908,Our House,"Crosby, Stills, Nash & Young",disco,0.592,0.205,-14.601,0.048,0.896,5.46e-05,0.119,0.378,140.282,1,Soft & acoustic
+USWB19901801,719631,Sister Golden Hair,America,disco,0.402,0.759,-5.332,0.0344,0.148,0.000232,0.128,0.713,135.948,0,Loud & fast
+USRH10285535,3616306,If You Leave Me Now,Chicago,disco,0.429,0.564,-6.784,0.0268,0.0193,0.000828,0.128,0.276,104.212,0,Loud & fast
+SEAMA7343050,3399877,Hooked On A Feeling,Blue Swede,disco,0.548,0.788,-7.713,0.0853,0.27,0.0,0.312,0.913,118.238,5,Upbeat & happy
+USSM17200281,7634916,Use Me,Bill Withers,disco,0.748,0.638,-12.028,0.0537,0.0474,0.0014,0.0751,0.961,154.709,5,Upbeat & happy
+USPR39401742,906650,You Ain't Seen Nothing Yet,Bachman-Turner Overdrive,disco,0.441,0.735,-5.409,0.0366,9.04e-05,0.000149,0.22,0.766,118.38,0,Loud & fast
+US2HK1341204,140302333,Tired of Being Alone,Al Green,disco,0.749,0.39,-9.16,0.0447,0.506,0.322,0.126,0.595,98.112,6,Instrumental grooves
+USMR17387011,346232531,Takin' Care Of Business,Bachman-Turner Overdrive,disco,0.724,0.703,-14.007,0.0498,0.0488,2.69e-06,0.146,0.965,129.985,5,Upbeat & happy
+USSM17600477,537528,(Don't Fear) The Reaper,Blue Öyster Cult,disco,0.369,0.947,-6.96,0.0624,0.00108,0.000892,0.304,0.513,141.186,0,Loud & fast
+USSM11304547,71154320,Knockin' On Heaven's Door,Bob Dylan,disco,0.511,0.392,-12.957,0.0298,0.254,0.216,0.106,0.254,139.415,1,Soft & acoustic
+USCH38500014,3104498,One Way Or Another,Blondie,disco,0.472,0.796,-12.055,0.0516,0.0815,6.94e-05,0.292,0.909,161.407,0,Loud & fast
+USAM17200071,6048746,Top Of The World,Carpenters,disco,0.379,0.343,-12.993,0.0385,0.806,0.0,0.0991,0.694,184.301,1,Soft & acoustic
+USAM16700010,883847,Bim-Bom,Sergio Mendes & Brasil '66,bossa nova,0.718,0.497,-15.499,0.0607,0.762,0.0274,0.122,0.894,89.119,5,Upbeat & happy
+BXLL22300002,3374310331,Borboleta Efeito,Leo Middea,bossa nova,0.873,0.53,-8.87,0.048,0.704,0.00962,0.0843,0.963,129.957,5,Upbeat & happy
+ITO0P2400053,3074159381,Deixa Passar,Gerardo Frisina,bossa nova,0.704,0.87,-10.802,0.0465,0.17,0.848,0.17,0.546,110.034,6,Instrumental grooves
+USGR10000403,548589432,Tide (Alternate Take),Antônio Carlos Jobim,bossa nova,0.653,0.226,-21.185,0.0517,0.837,0.909,0.107,0.765,133.78,6,Instrumental grooves
+ITO172240674,1791538607,Point Break (Radio Edit),Maria Olivera,bossa nova,0.695,0.37,-14.731,0.0513,0.744,0.852,0.0902,0.631,89.994,6,Instrumental grooves
+DEA290109500,61978528,Assalto Cultural,Uri Caine,bossa nova,0.592,0.661,-14.936,0.0603,0.489,0.00426,0.595,0.542,117.451,3,Live recordings
+USPR36780246,540194272,Crickets Sing For Ana Maria,Walter Wanderley,bossa nova,0.668,0.573,-14.463,0.0364,0.906,0.742,0.112,0.898,108.854,6,Instrumental grooves
+GBDCR2200039,1718807357,Quero Dizer,Bruno Berle,bossa nova,0.869,0.381,-11.81,0.148,0.696,0.36,0.104,0.522,100.029,6,Instrumental grooves
+GBDCR2400038,2865217682,Palavras Tão Gentis,Marcos Valle,bossa nova,0.448,0.59,-10.774,0.109,0.764,0.0185,0.0908,0.508,100.079,1,Soft & acoustic
+USPR36305146,1168134,The Girl From Ipanema,Stan Getz,bossa nova,0.57,0.107,-19.78,0.0389,0.896,5.91e-05,0.686,0.366,119.844,3,Live recordings
+BMX142300001,3262166381,Menino,Mateus Carrilho,bossa nova,0.686,0.533,-8.378,0.124,0.573,3.92e-05,0.0819,0.849,169.908,5,Upbeat & happy
+USVG29707603,3128634,Ain't No Sunshine,Sivuca,bossa nova,0.623,0.567,-14.682,0.0299,0.305,0.246,0.0639,0.905,95.462,5,Upbeat & happy
+ITC002200686,4204891942,"Duello nel mondo (From ""Duello Nel Mondo"" Soundtrack / Bossa Nova)",Piero Umiliani,bossa nova,0.704,0.404,-12.995,0.0474,0.364,0.0,0.145,0.947,112.263,5,Upbeat & happy
+US66W2202203,2067594967,Agujas en el pecho,Cheo,bossa nova,0.772,0.885,-8.533,0.0409,0.437,0.379,0.0831,0.774,120.047,5,Upbeat & happy
+USPM19301024,1047508,Samba de Orfeu,Luiz Bonfá,bossa nova,0.715,0.406,-17.926,0.0573,0.735,0.649,0.11,0.65,104.756,6,Instrumental grooves
+BRPGD6300024,4703135,Chove Chuva,Jorge Ben Jor,bossa nova,0.737,0.372,-10.153,0.0443,0.692,0.0,0.0833,0.561,134.756,1,Soft & acoustic
+BRD1E2000145,1160607282,Ninguém,Fran,bossa nova,0.51,0.185,-9.43,0.0707,0.913,1.29e-06,0.138,0.207,182.068,1,Soft & acoustic
+BRSGL7000032,2597273,"Carolina, Carol Bela",Toquinho,bossa nova,0.491,0.459,-12.864,0.042,0.871,0.018,0.126,0.961,85.398,1,Soft & acoustic
+BRMCA9300002,1835518947,Desde Que O Samba É Samba,Caetano Veloso,bossa nova,0.602,0.25,-12.832,0.0358,0.914,0.00802,0.13,0.305,136.545,1,Soft & acoustic
+USMG16490004,1168145,Desafinado,Stan Getz,bossa nova,0.599,0.376,-17.002,0.0774,0.682,0.0413,0.114,0.768,88.642,1,Soft & acoustic
+USWWW0130138,883816,One Note Samba / Spanish Flea,Sergio Mendes & Brasil '66,bossa nova,0.797,0.29,-17.358,0.0956,0.814,0.0,0.0673,0.765,97.712,1,Soft & acoustic
+USMG16490006,13652946,Só Danço Samba,Stan Getz,bossa nova,0.616,0.284,-13.564,0.0621,0.823,0.225,0.0996,0.553,81.852,1,Soft & acoustic
+USAM16600001,883811,Mas Que Nada,Sergio Mendes & Brasil '66,bossa nova,0.644,0.483,-14.561,0.0443,0.566,5.33e-05,0.244,0.841,88.622,5,Upbeat & happy
+BRLUM9800084,15425364,Samba De Verão,Caetano Veloso,bossa nova,0.735,0.313,-16.679,0.0493,0.843,0.0468,0.11,0.445,119.764,1,Soft & acoustic
+USF096500580,129694974,How Insensitive,Astrud Gilberto,bossa nova,0.376,0.181,-16.499,0.0359,0.863,4.73e-05,0.24,0.262,122.932,1,Soft & acoustic
+BRPGD8000004,4675901,Escravo Da Alegria,Toquinho,bossa nova,0.549,0.716,-9.402,0.0587,0.645,0.0,0.309,0.72,91.446,5,Upbeat & happy
+BRPUI0400121,10968733,Samba da Bênção,Maria Bethânia,bossa nova,0.597,0.549,-11.817,0.0543,0.372,0.000923,0.0992,0.866,159.381,5,Upbeat & happy
+BRMCA7500054,4675916,Carta Ao Tom 74,Vinicius de Moraes,bossa nova,0.611,0.366,-10.89,0.291,0.874,0.000515,0.0838,0.593,146.052,2,Danceable & wordy
+BRMCA7400017,4230977,Só Tinha De Ser Com Voce (Com Tom),Elis Regina,bossa nova,0.796,0.385,-15.073,0.0452,0.708,0.444,0.165,0.506,119.932,6,Instrumental grooves
+BREMI6700074,3220313,Nem Vem Que Não Tem (Ao Vivo),Wilson Simonal,bossa nova,0.727,0.738,-5.676,0.0562,0.153,0.0,0.724,0.849,121.343,3,Live recordings
+BRPGD7000006,2283173,Essa Moca Ta Diferente,Chico Buarque,bossa nova,0.712,0.545,-10.902,0.0542,0.174,2.29e-05,0.0837,0.831,79.6,5,Upbeat & happy
+BRMCA6700003,877120,Samba Da Benção,Vinicius de Moraes,bossa nova,0.648,0.505,-9.527,0.073,0.605,0.0,0.161,0.478,123.436,1,Soft & acoustic
+BRPGD7100013,3040764,Este Seu Olhar,Nara Leão,bossa nova,0.476,0.206,-16.716,0.0521,0.838,0.0488,0.107,0.374,107.503,1,Soft & acoustic
+BRBMG7300113,381418021,Falador Passa Mal,Os Originais Do Samba,bossa nova,0.801,0.764,-8.199,0.122,0.132,2.33e-06,0.0556,0.776,88.7,5,Upbeat & happy
+BRMCA0500697,4682869,Samba De Orly (Samba De Fiumicino),Toquinho,bossa nova,0.498,0.187,-12.447,0.0302,0.969,2.74e-05,0.106,0.101,141.137,1,Soft & acoustic
+USWWW0128914,548585982,Wave,Antônio Carlos Jobim,bossa nova,0.551,0.314,-20.679,0.0337,0.83,0.831,0.0861,0.873,144.926,6,Instrumental grooves
+BRMCA7900048,4675909,A Tonga Da Mironga Do Kabuletê,Toquinho,bossa nova,0.735,0.245,-15.095,0.0693,0.971,0.565,0.099,0.675,141.673,6,Instrumental grooves
+JPPO00400070,2319448,Pra Que Discutir Com Madame? (Live),João Gilberto,bossa nova,0.572,0.0939,-23.918,0.417,0.963,0.304,0.7,0.686,166.497,2,Danceable & wordy
+BRGPG1400001,4364981221,Aos Pés da Cruz,Gilberto Gil,bossa nova,0.725,0.299,-15.108,0.113,0.9,0.107,0.118,0.527,170.164,1,Soft & acoustic
+GBURZ1000590,35398741,Rosa Morena,João Gilberto,bossa nova,0.584,0.166,-15.187,0.0512,0.816,5.97e-06,0.145,0.528,155.299,1,Soft & acoustic
+USSM19927525,857241,Children's Games,Antônio Carlos Jobim,bossa nova,0.328,0.334,-18.008,0.0426,0.378,0.823,0.0947,0.755,168.999,6,Instrumental grooves
+BRPGD6700006,877033,Coração Vagabundo,Gal Costa,bossa nova,0.515,0.26,-14.48,0.0426,0.827,0.0267,0.118,0.314,80.127,1,Soft & acoustic
+BREMI7900457,3327383,Clube Da Esquina 2,Nana Caymmi,bossa nova,0.563,0.582,-8.857,0.0264,0.316,1.07e-05,0.101,0.708,137.632,5,Upbeat & happy
+USWWW0128438,2293097,Sorriu Para Mim,João Gilberto,bossa nova,0.522,0.234,-18.992,0.0456,0.731,0.127,0.163,0.543,90.71,1,Soft & acoustic
+BRMCA6600102,2949886,Tim-Tim-Por-Tim-Tim,Os Cariocas,bossa nova,0.614,0.318,-13.359,0.0343,0.79,0.0,0.0998,0.57,89.056,1,Soft & acoustic
+BRGPG1400007,4364981281,Milagre,Gilberto Gil,bossa nova,0.741,0.32,-14.674,0.0532,0.861,0.000674,0.112,0.595,87.086,1,Soft & acoustic
+BRPGD7100014,3040772,Outra Vez,Nara Leão,bossa nova,0.365,0.214,-12.85,0.0321,0.904,0.0284,0.103,0.379,80.642,1,Soft & acoustic
+USWWW0127443,887798,Samba Do Aviao (Live),Gal Costa,bossa nova,0.476,0.296,-16.647,0.0384,0.728,0.0,0.964,0.411,81.081,3,Live recordings
+USPR37400060,540133462,Triste,Antônio Carlos Jobim,bossa nova,0.655,0.172,-24.828,0.195,0.325,0.00102,0.0718,0.387,135.688,1,Soft & acoustic
+DEBL60679126,64470023,Sambalamento (Plays and Sings Bossa Nova),Luiz Bonfá,bossa nova,0.646,0.244,-17.422,0.0359,0.799,0.00315,0.11,0.661,99.637,1,Soft & acoustic
+BRMVP0300159,1596242662,Insensatez,Paulinho Nogueira,bossa nova,0.485,0.234,-14.917,0.044,0.925,0.883,0.112,0.203,150.218,4,Quiet & instrumental
+USWWW0128446,2293088,Palpite Infeliz,João Gilberto,bossa nova,0.643,0.33,-17.977,0.0661,0.552,0.115,0.165,0.738,90.364,1,Soft & acoustic
+BRSME1600423,130850436,"Escuta, Cavaquinho!",Martinho da Vila,bossa nova,0.787,0.452,-10.38,0.0436,0.877,0.0132,0.076,0.834,149.901,5,Upbeat & happy
+BRPUI1700118,384704411,Tua Cantiga,Chico Buarque,bossa nova,0.63,0.38,-10.568,0.0328,0.646,1.27e-05,0.114,0.315,82.033,1,Soft & acoustic
+USRH10800983,71244732,How Insensitive (Insensatez),Frank Sinatra,bossa nova,0.419,0.216,-18.034,0.0301,0.51,0.0959,0.121,0.237,106.217,1,Soft & acoustic
+USPR36312116,560838692,Corcovado (Quiet Nights Of Quiet Stars),Stan Getz,bossa nova,0.531,0.198,-15.811,0.039,0.952,0.00267,0.119,0.437,128.043,1,Soft & acoustic
+QM4TX1767892,349499801,A Felicidade (Vocal Version),Antônio Carlos Jobim,bossa nova,0.467,0.12,-14.258,0.0379,0.949,0.0,0.101,0.509,45.025,1,Soft & acoustic
+USPR36307074,1168140,Corcovado (Quiet Nights Of Quiet Stars),Stan Getz,bossa nova,0.519,0.132,-17.856,0.0478,0.916,0.00106,0.246,0.376,127.214,1,Soft & acoustic
+USRH10723028,71483066,The Girl From Ipanema (2008 Remastered),Frank Sinatra,bossa nova,0.529,0.261,-14.493,0.0347,0.854,6.04e-06,0.13,0.451,133.647,1,Soft & acoustic
+USWB10104369,6920205,Wave,João Gilberto,bossa nova,0.463,0.338,-16.857,0.034,0.393,0.028,0.086,0.429,140.724,1,Soft & acoustic
+BRMCA8500069,2519367,O Barquinho,Nara Leão,bossa nova,0.675,0.234,-15.378,0.0556,0.866,0.199,0.0975,0.52,144.509,1,Soft & acoustic
+BRGPG1400074,4364981801,Desafinado (Ao Vivo),Gilberto Gil,bossa nova,0.465,0.178,-21.046,0.0531,0.915,0.0163,0.749,0.163,132.08,3,Live recordings
+USPJT2300015,2215128797,"Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",Elevation Worship,gospel,0.595,0.862,-6.721,0.0655,0.0139,1.23e-06,0.948,0.444,127.017,3,Live recordings
+QZJ842403434,3050432491,YOUR WAY'S BETTER,Forrest Frank,gospel,0.695,0.641,-7.014,0.0742,0.292,0.0,0.0561,0.533,146.008,5,Upbeat & happy
+USWFE2090731,3492089151,Gratitude,Brandon Lake,gospel,0.237,0.224,-10.002,0.0329,0.635,0.0,0.0999,0.164,155.628,1,Soft & acoustic
+USPJT2500005,3227348131,One More Day,Sons of Sunday,gospel,0.498,0.263,-9.378,0.0288,0.739,0.0,0.13,0.193,101.279,1,Soft & acoustic
+USA5W2400412,3067492501,Hard Fought Hallelujah,Brandon Lake,gospel,0.505,0.509,-6.634,0.0331,0.225,1.44e-06,0.0998,0.303,143.694,0,Loud & fast
+USPJT2500094,3619510632,God I'm Just Grateful,Elevation Worship,gospel,0.445,0.624,-7.157,0.0333,0.142,0.0,0.685,0.265,144.091,3,Live recordings
+USA5W1900239,728330542,There Was Jesus,Zach Williams,gospel,0.495,0.695,-6.331,0.0374,0.4,0.0,0.088,0.473,153.882,0,Loud & fast
+AUHS01608453,131820326,What A Beautiful Name (Live),Hillsong Worship,gospel,0.396,0.5,-7.746,0.032,0.0128,0.0,0.535,0.099,135.857,3,Live recordings
+AUHS01205284,1566901212,Oceans (Where Feet May Fail),Hillsong UNITED,gospel,0.266,0.351,-10.679,0.0339,0.499,0.00243,0.109,0.0602,123.732,1,Soft & acoustic
+USPJT2400006,2747490381,GOODBYE YESTERDAY,ELEVATION RHYTHM,gospel,0.414,0.905,-4.457,0.118,0.000269,0.0,0.446,0.329,75.142,3,Live recordings
+QZVR22500618,3763875642,demons,Josiah Queen,gospel,0.62,0.546,-5.492,0.031,0.467,0.0,0.234,0.242,126.928,0,Loud & fast
+USUM72502579,3476765761,Left It In The River,Jamie Macdonald,gospel,0.409,0.718,-5.279,0.0359,0.021,0.0,0.12,0.741,195.958,0,Loud & fast
+USA5W2300566,2607132782,Running Back To You,Seph Schlueter,gospel,0.565,0.856,-4.857,0.0438,0.00269,1.76e-06,0.102,0.328,114.977,0,Loud & fast
+USPJT2500092,3590950902,Jesus Be The Name (feat. Tiffany Hudson),Elevation Worship,gospel,0.427,0.608,-8.142,0.0408,0.181,0.0,0.122,0.141,127.914,0,Loud & fast
+USM2C2400102,2621424442,That's My King,CeCe Winans,gospel,0.607,0.895,-5.395,0.0373,0.0077,0.0,0.878,0.208,95.082,3,Live recordings
+QZVR22500063,3412450941,Dusty Bibles,Josiah Queen,gospel,0.632,0.73,-5.59,0.0248,0.279,1.4e-06,0.0745,0.473,103.023,5,Upbeat & happy
+US8392300189,2585249692,My God Can,Katy Nichole,gospel,0.498,0.709,-3.718,0.0391,0.0157,0.0,0.107,0.288,146.109,0,Loud & fast
+USWFE2491201,3001964611,The Church (Live),Bethel Music,gospel,0.346,0.504,-8.582,0.0328,0.283,2.41e-06,0.0984,0.218,137.677,0,Loud & fast
+USPJT2100004,1263601052,Jireh (feat. Chandler Moore & Naomi Raine),Elevation Worship,gospel,0.335,0.639,-6.598,0.0369,0.265,0.0,0.107,0.381,139.912,0,Loud & fast
+USUG12408902,3168052881,God Did It,tobyMac,gospel,0.663,0.729,-7.185,0.0635,0.231,0.0,0.203,0.553,81.006,5,Upbeat & happy
+USSP30013640,3313620,You Are My King (Amazing Love) (Live),Passion,gospel,0.345,0.414,-10.798,0.0345,0.104,0.0,0.403,0.303,131.445,0,Loud & fast
+USUG12205528,1939604057,Burdens Down (Live),Tasha Cobbs Leonard,gospel,0.531,0.727,-5.663,0.0998,0.0719,8.29e-06,0.222,0.324,155.723,0,Loud & fast
+USA5W2400055,2949326451,Real Love,Ryan Ellis,gospel,0.573,0.606,-4.89,0.0418,0.233,0.0,0.0965,0.344,146.081,0,Loud & fast
+QM6N22408057,2768444841,One Hallelujah,Tasha Cobbs Leonard,gospel,0.355,0.921,-3.739,0.0726,0.0105,2.75e-05,0.134,0.228,137.033,0,Loud & fast
+QZJ842500191,3188977801,DROP!,Forrest Frank,gospel,0.417,0.663,-5.876,0.129,0.00522,1.26e-06,0.108,0.402,160.068,0,Loud & fast
+USM2C2500301,3183562821,Oh Death,MercyMe,gospel,0.657,0.763,-5.192,0.0383,0.107,0.0,0.0764,0.632,99.055,5,Upbeat & happy
+QMPDP1900190,3324741481,I See Miracles,Jekalyn Carr,gospel,0.264,0.795,-4.413,0.0705,0.0901,0.000217,0.243,0.357,153.044,0,Loud & fast
+QMDA72409692,3068452031,Constant (feat. Chandler Moore),Maverick City Music,gospel,0.364,0.524,-4.049,0.0339,0.527,0.0,0.104,0.202,127.124,0,Loud & fast
+USUG12000976,904695312,The Blessing (Live),Kari Jobe Carnes,gospel,0.409,0.562,-8.152,0.0362,0.0414,0.0,0.222,0.197,140.015,0,Loud & fast
+USRC11601155,126849457,Father Jesus Spirit (Live),Fred Hammond,gospel,0.661,0.948,-5.189,0.0639,0.0391,1.03e-06,0.344,0.626,127.989,5,Upbeat & happy
+QZPLR2338744,2402613025,The Prodigal,Josiah Queen,gospel,0.654,0.639,-5.659,0.0489,0.218,8.96e-06,0.197,0.25,132.109,0,Loud & fast
+QZFZ22423696,2654814022,GOOD DAY,Forrest Frank,gospel,0.712,0.682,-6.968,0.144,0.061,0.0,0.145,0.716,76.033,5,Upbeat & happy
+USM2C2400304,2712501531,HOMETOWN,Phil Wickham,gospel,0.285,0.438,-9.464,0.0338,0.219,0.0,0.0985,0.157,77.256,1,Soft & acoustic
+USPJT2400035,2833666602,When Wind Meets Fire (feat. Chris Brown & Tiffany Hudson),Elevation Worship,gospel,0.277,0.442,-8.397,0.0337,0.105,0.0,0.0769,0.133,167.816,0,Loud & fast
+USUG12308003,2655207872,Gonna Be Good,TAYA,gospel,0.583,0.553,-4.997,0.0525,0.374,0.0,0.391,0.482,184.058,0,Loud & fast
+QM6P42462450,2863626632,Omemma (Live),Chandler Moore,gospel,0.523,0.842,-5.366,0.0783,0.0359,9.59e-06,0.321,0.572,117.404,0,Loud & fast
+US8391800158,613420952,You Say,Lauren Daigle,gospel,0.494,0.632,-6.89,0.0342,0.682,0.0,0.0869,0.0797,147.873,1,Soft & acoustic
+USWFE1990526,3491793241,Goodness of God (Live),Bethel Music,gospel,0.466,0.669,-4.701,0.0297,0.156,0.0,0.145,0.396,126.143,0,Loud & fast
+AUHS01708944,3788190022,So Will I (100 Billion X),Hillsong UNITED,gospel,0.418,0.402,-10.659,0.0299,0.0454,4.77e-06,0.151,0.199,127.773,0,Loud & fast
+USM2C2109060,1484949272,Believe For It,CeCe Winans,gospel,0.275,0.643,-6.231,0.0379,0.0623,0.0,0.103,0.172,157.167,0,Loud & fast
+USUM71515415,108648268,Good Good Father,Chris Tomlin,gospel,0.421,0.61,-4.433,0.0279,0.258,0.0,0.106,0.183,145.003,0,Loud & fast
+USWFE1790445,3491791291,Reckless Love,Cory Asbury,gospel,0.572,0.685,-7.29,0.0356,0.0291,0.0,0.0963,0.232,110.699,0,Loud & fast
+US25L1900253,3189428221,Way Maker (Live),Leeland,gospel,0.432,0.524,-8.721,0.0321,0.0289,0.0,0.682,0.184,135.956,3,Live recordings
+AUHS01809738,460194782,Who You Say I Am (Live),Hillsong Worship,gospel,0.39,0.67,-6.046,0.0318,0.000289,0.0,0.612,0.208,85.992,3,Live recordings
+USPJT1600004,118586266,O Come to the Altar (Live),Elevation Worship,gospel,0.256,0.564,-6.496,0.0366,0.00274,0.0,0.743,0.152,139.914,3,Live recordings
+USA5W2400410,2891891652,That's Who I Praise,Brandon Lake,gospel,0.652,0.655,-6.469,0.0324,0.00162,2.72e-06,0.211,0.405,111.97,5,Upbeat & happy
+QZJ842401721,2891803322,MIRACLE WORKER,Forrest Frank,gospel,0.693,0.371,-6.761,0.0331,0.719,4.84e-05,0.0947,0.359,93.944,1,Soft & acoustic
+US8391800166,613420922,Rescue,Lauren Daigle,gospel,0.293,0.237,-8.17,0.0284,0.78,0.0,0.11,0.108,92.935,1,Soft & acoustic
+USA5W1800322,607724832,Love Theory,Kirk Franklin,gospel,0.745,0.677,-5.355,0.215,0.181,0.0,0.0895,0.72,97.092,2,Danceable & wordy
+TCAET2042835,1401975392,Promises,Maverick City Music,gospel,0.362,0.421,-11.699,0.0372,0.281,6.2e-05,0.0943,0.233,114.669,1,Soft & acoustic
+USSP31100090,77418171,"10,000 Reasons (Bless The Lord) (Live)",Matt Redman,gospel,0.43,0.484,-8.083,0.0274,0.455,0.0,0.544,0.358,145.226,3,Live recordings
+USWFE1890529,1009175432,Raise a Hallelujah (Live),Bethel Music,gospel,0.453,0.866,-4.431,0.0396,0.00409,0.0,0.134,0.304,81.973,0,Loud & fast
+QZTB82282358,2654814382,NO LONGER BOUND,Forrest Frank,gospel,0.61,0.726,-7.205,0.0634,0.0602,0.0,0.13,0.506,77.457,5,Upbeat & happy
+USWFE2190883,3491685231,Too Good To Not Believe (Live),Bethel Music,gospel,0.356,0.733,-8.22,0.0493,0.00174,0.0,0.0964,0.255,143.93,0,Loud & fast
+USSP31320058,75945986,Forever (Live),Kari Jobe Carnes,gospel,0.257,0.697,-5.886,0.0421,0.0209,4.39e-06,0.38,0.111,143.935,0,Loud & fast
+QZES72407803,2674893382,UP!,Forrest Frank,gospel,0.79,0.782,-6.293,0.139,0.0345,0.0,0.0656,0.644,120.083,5,Upbeat & happy
+USGCR1000010,9437118,I Smile,Kirk Franklin,gospel,0.765,0.768,-2.036,0.152,0.187,0.0,0.107,0.597,143.98,5,Upbeat & happy
+USPJT2300008,2161812297,More Than Able (feat. Chandler Moore & Tiffany Hudson),Elevation Worship,gospel,0.24,0.396,-8.769,0.0325,0.464,0.0,0.132,0.221,146.012,1,Soft & acoustic
+USUG12300487,2106745377,Joy In The Morning,Tauren Wells,gospel,0.329,0.502,-6.791,0.0336,0.149,0.0,0.104,0.12,133.657,0,Loud & fast
+USM1C2000000,939840832,TOGETHER,for King & Country,gospel,0.388,0.785,-4.397,0.137,0.209,9.23e-06,0.205,0.494,178.111,0,Loud & fast
+USPJT2200016,1618182292,LION (feat. Chris Brown & Brandon Lake),Elevation Worship,gospel,0.436,0.547,-8.527,0.034,0.0465,0.0,0.685,0.0613,134.035,3,Live recordings
+QZ2J21505890,1993098597,Suelto,Sarai Rivera,gospel,0.509,0.59,-5.216,0.0314,0.15,0.0,0.111,0.26,139.803,0,Loud & fast
+BX95O2400033,3150989961,Terminada,Gabriel Brito,gospel,0.601,0.576,-7.337,0.0438,0.226,0.0,0.104,0.265,96.04,5,Upbeat & happy
+USATJ0501512,1610543962,Tu Estás Aquí,Jesús Adrián Romero,gospel,0.503,0.422,-8.613,0.0327,0.604,0.0,0.986,0.107,120.894,3,Live recordings
+TCACA1408921,86654673,Todo Se Lo Debo a El (Pista),Marcos Yaroide,gospel,0.557,0.683,-4.867,0.0283,0.321,0.0,0.0588,0.666,129.977,5,Upbeat & happy
+USATJ1908412,1617254842,Una Casa Vacía,Jesús Adrián Romero,gospel,0.605,0.575,-8.969,0.0268,0.623,0.000125,0.104,0.492,88.985,1,Soft & acoustic
+USSD11200171,61142227,La Gloria de Dios (feat. Evaluna Montaner),Ricardo Montaner,gospel,0.497,0.438,-6.7,0.0265,0.169,0.0,0.0762,0.162,136.561,0,Loud & fast
+USDHM2017880,4122428931,Respirar Tu Aire,Guillermo Manzanares,gospel,0.493,0.468,-8.22,0.027,0.0808,0.0,0.23,0.253,131.753,0,Loud & fast
+USCG60750846,66361161,Precioso Jesús,Esperanza de Vida,gospel,0.477,0.428,-6.906,0.027,0.328,0.0,0.688,0.214,140.119,3,Live recordings
+USATJ1908408,1614095792,Mundo Interior,Jesús Adrián Romero,gospel,0.232,0.339,-8.958,0.0307,0.453,7.16e-06,0.109,0.239,73.987,1,Soft & acoustic
+USDHM2017878,4122428881,Cerca + Cerca,Guillermo Manzanares,gospel,0.679,0.357,-7.923,0.0287,0.425,0.0,0.6,0.328,120.021,3,Live recordings
+USATJ1908404,1614095802,el Anhelo de Mi Voz,Jesús Adrián Romero,gospel,0.486,0.435,-8.567,0.0319,0.605,1.28e-06,0.127,0.412,145.944,1,Soft & acoustic
+QM6N22019445,1727863347,Yo Se,"Hector Acosta ""El Torito""",gospel,0.504,0.382,-6.468,0.0331,0.649,0.0,0.0925,0.357,124.99,1,Soft & acoustic
+USCG60310056,83061824,Con Tu sangre,Marcos Witt,gospel,0.375,0.489,-5.916,0.0275,0.194,6.25e-05,0.1,0.187,115.927,0,Loud & fast
+USDHM2000434,4122326511,Me Rindo a Ti,Celeste & Wilber,gospel,0.297,0.391,-8.074,0.0331,0.847,0.0,0.0724,0.158,125.85,1,Soft & acoustic
+USATJ1908409,1617254882,Olvidé Cuidar Mi Huerto,Jesús Adrián Romero,gospel,0.441,0.443,-8.628,0.0269,0.552,0.0,0.105,0.379,152.113,1,Soft & acoustic
+USDHM2017879,4122428941,Así Es Tu Gracia,Guillermo Manzanares,gospel,0.318,0.354,-8.991,0.0309,0.207,2.53e-06,0.102,0.142,120.175,1,Soft & acoustic
+TCABU1487487,3048596301,Alaba A Dios,Danny Berrios,gospel,0.537,0.65,-6.942,0.0296,0.397,0.0,0.166,0.248,140.033,0,Loud & fast
+USDHM1907627,4128382081,Su Amor Me Sigue,Arling Ruiz,gospel,0.334,0.531,-8.299,0.0294,0.245,0.0,0.128,0.393,159.858,0,Loud & fast
+USCG60310068,108625502,Thank You,Marcos Witt,gospel,0.319,0.369,-11.407,0.0296,0.486,0.0,0.116,0.206,99.48,1,Soft & acoustic
+SE5751842674,4122428921,Hoy Te Conozco,Guillermo Manzanares,gospel,0.531,0.615,-7.594,0.0379,0.637,0.0,0.158,0.252,119.99,1,Soft & acoustic
+USATJ0602705,99471386,Dame Tus Ojos,Marcela Gandara,gospel,0.701,0.494,-6.811,0.027,0.56,0.0,0.224,0.206,119.998,1,Soft & acoustic
+USDHM1909468,693378822,Aleluya,Versatil Band,gospel,0.426,0.629,-7.836,0.044,0.232,0.000256,0.102,0.146,125.068,0,Loud & fast
+TCAEO1938725,4323313472,Mi Casa Y Yo,Tercer Cielo,gospel,0.591,0.516,-7.958,0.0325,0.738,0.0,0.0788,0.529,76.005,1,Soft & acoustic
+USDHM1907628,4128382091,Mi Oración,Arling Ruiz,gospel,0.496,0.554,-8.447,0.0291,0.12,0.0,0.303,0.188,140.033,0,Loud & fast
+USCG60310066,108625498,Tu Mirada,Marcos Witt,gospel,0.529,0.308,-15.462,0.0382,0.67,0.0,0.735,0.311,95.951,3,Live recordings
+USDHM1916717,4128379771,Muestra Tu Gloria,Arling Ruiz,gospel,0.291,0.643,-6.556,0.0296,0.601,0.0,0.12,0.385,90.012,1,Soft & acoustic
+SEVVX1400101,96049540,With The Ink Of A Ghost,José González,folk,0.646,0.302,-12.635,0.0441,0.939,0.643,0.115,0.35,138.048,6,Instrumental grooves
+QMB621900801,815033032,Bonny Light Horseman,Bonny Light Horseman,folk,0.361,0.296,-6.253,0.0351,0.788,1.6e-05,0.0926,0.219,79.148,1,Soft & acoustic
+GBCEJ1700168,3652626442,BAD DESIRE,Noah Gundersen,folk,0.58,0.274,-9.239,0.0293,0.897,0.00242,0.103,0.195,60.962,1,Soft & acoustic
+GBUM71801195,505509432,Towing the Line,Ben Howard,folk,0.429,0.289,-14.15,0.0403,0.917,0.234,0.311,0.181,122.929,1,Soft & acoustic
+AUWB00900002,6402666,London Still (Acoustic),The Waifs,folk,0.383,0.284,-13.043,0.0591,0.733,9.49e-05,0.65,0.34,100.264,3,Live recordings
+GBENL1601619,127973745,Fall,Lisa Hannigan,folk,0.458,0.218,-12.646,0.0328,0.818,0.00828,0.11,0.342,120.279,1,Soft & acoustic
+NLFF71600323,536296652,Geest,I am Oak,folk,0.391,0.073,-18.968,0.0395,0.949,0.025,0.0902,0.0852,79.844,1,Soft & acoustic
+USNO11700014,145262372,Juma Mountain,Sam Amidon,folk,0.48,0.471,-12.448,0.0358,0.775,0.602,0.286,0.245,162.1,6,Instrumental grooves
+US3DF1717477,373866251,Do You Rise (Single Version),Ian Randall Thornton,folk,0.384,0.23,-19.244,0.0365,0.858,0.82,0.0781,0.0383,100.07,4,Quiet & instrumental
+USEP42062005,1075897152,Featherweight,Fleet Foxes,folk,0.335,0.486,-12.999,0.0423,0.831,0.0649,0.24,0.443,152.02,1,Soft & acoustic
+CAN112000353,1634267802,You Want Love,Freyr,folk,0.421,0.297,-16.783,0.0329,0.766,0.863,0.14,0.203,150.301,4,Quiet & instrumental
+US78L1715903,410125362,Falling Water,Peter Oren,folk,0.538,0.216,-13.12,0.059,0.803,7.71e-05,0.106,0.256,80.093,1,Soft & acoustic
+USQE92000113,3875689001,"Fall, Fall, Fall",Caamp,folk,0.477,0.148,-12.568,0.0509,0.907,0.00791,0.108,0.208,80.359,1,Soft & acoustic
+US64G1813807,556430532,Time,Angelo De Augustine,folk,0.488,0.253,-12.675,0.0387,0.906,0.0107,0.106,0.626,81.674,1,Soft & acoustic
+US2U62031205,1038601612,Natural Light,Tomberlin,folk,0.59,0.256,-11.395,0.0284,0.93,0.000703,0.104,0.19,79.189,1,Soft & acoustic
+GBAAN6900035,886569,Who Knows Where The Time Goes?,Fairport Convention,folk,0.522,0.0913,-21.164,0.0325,0.679,0.367,0.0791,0.385,143.9,1,Soft & acoustic
+UKGNH1600101,1620084612,Preservation,Nadia Reid,folk,0.313,0.219,-13.59,0.0341,0.843,0.096,0.0978,0.0682,119.425,1,Soft & acoustic
+NLFF72000478,1116099692,Horizon,I am Oak,folk,0.646,0.0942,-18.365,0.0334,0.98,0.369,0.0916,0.402,104.374,1,Soft & acoustic
+CAN112000595,1672348187,No Memories of Tomorrow,Graeme James,folk,0.577,0.307,-14.266,0.0302,0.744,0.0574,0.135,0.489,129.872,1,Soft & acoustic
+US64G1509903,96861534,All of Me Wants All of You,Sufjan Stevens,folk,0.437,0.282,-17.437,0.0481,0.971,0.00105,0.115,0.156,143.927,1,Soft & acoustic
+TCAFG2056883,,Answers (Acoustic),Brooke Annibale,folk,0.499,0.182,-11.547,0.0278,0.953,0.000126,0.107,0.198,98.432,1,Soft & acoustic
+USEE10608241,,The Pearl (Remastered Version),Judee Sill,folk,0.465,0.118,-18.823,0.056,0.88,0.0,0.128,0.776,95.191,1,Soft & acoustic
+SE22E1700401,,Paper Plane Pilot,Sean Christopher,folk,0.727,0.467,-13.25,0.0527,0.595,0.00109,0.116,0.625,131.894,1,Soft & acoustic
+USEP42025005,,Inland Empire,Ben Harper,folk,0.391,0.103,-22.446,0.0426,0.971,0.901,0.0847,0.518,157.702,4,Quiet & instrumental
+QM6N21709537,389832001,Sunlit Juice,Henry Jamison,folk,0.584,0.523,-7.397,0.102,0.337,0.000112,0.127,0.279,174.181,0,Loud & fast
+GBVEN1700400,392629912,Carry Your Kin (Acoustic),The Breath,folk,0.544,0.185,-16.917,0.036,0.929,0.0279,0.104,0.349,83.246,1,Soft & acoustic
+GBCVZ1700038,375846701,Moonshine Freeze,This Is The Kit,folk,0.672,0.59,-8.589,0.0763,0.432,5.41e-05,0.11,0.732,98.424,5,Upbeat & happy
+GB6TW2400220,3249153151,Willow,Tamino,folk,0.323,0.218,-15.243,0.0379,0.769,0.0571,0.0852,0.176,78.357,1,Soft & acoustic
+QZBRF1824642,2226843007,Q&A,Kina Grannis,folk,0.682,0.248,-12.477,0.0356,0.853,0.0,0.17,0.572,85.975,1,Soft & acoustic
+GBPVV2003209,1020306492,Return,Katy J Pearson,folk,0.562,0.208,-10.716,0.0313,0.901,0.000157,0.118,0.156,116.653,1,Soft & acoustic
+GBAHS1700696,401781542,Roadless,Frightened Rabbit,folk,0.225,0.425,-7.592,0.0323,0.244,0.0167,0.386,0.168,170.926,0,Loud & fast
+GBCVZ1700217,471699592,Bathed in Light,Josienne Clarke and Ben Walker,folk,0.376,0.084,-18.061,0.0589,0.948,0.00164,0.102,0.234,155.832,1,Soft & acoustic
+QZAZS1805301,915561032,Angel,Yowler,folk,0.666,0.241,-14.741,0.0286,0.905,0.258,0.115,0.218,76.464,1,Soft & acoustic
+QMDN21700013,1182018692,One Of These Days,Bedouine,folk,0.725,0.421,-12.567,0.0333,0.604,0.0885,0.108,0.742,82.061,5,Upbeat & happy
+USTCE1028967,1614036322,"A Girl, a Boy, and a Graveyard",Jeremy Messersmith,folk,0.509,0.139,-13.46,0.031,0.789,4.99e-05,0.116,0.427,89.283,1,Soft & acoustic
+QM4TX1772853,353377351,Your Moon,Rosie Carney,folk,0.479,0.211,-10.91,0.0322,0.949,0.347,0.114,0.081,115.757,1,Soft & acoustic
+USNO11900151,751077692,Is This Nice?,Devendra Banhart,folk,0.621,0.198,-12.66,0.0465,0.662,0.162,0.0803,0.342,79.912,1,Soft & acoustic
+GBTLY1500006,115280144,Lights in Houses,Amy Duncan,folk,0.169,0.142,-12.574,0.0333,0.982,0.00621,0.113,0.2,180.658,1,Soft & acoustic
+USSUB1717006,1137144582,Call It Dreaming,Iron & Wine,folk,0.512,0.501,-9.971,0.0325,0.609,6.25e-05,0.0973,0.726,79.989,5,Upbeat & happy
+GB6TW2400216,3278048961,Every Dawn's a Mountain,Tamino,folk,0.381,0.138,-15.27,0.0375,0.922,0.0512,0.113,0.14,120.269,1,Soft & acoustic
+GBPVV1601388,132015872,Polyhymnia,Keaton Henson,folk,0.368,0.118,-13.363,0.0395,0.895,0.000318,0.201,0.15,80.959,1,Soft & acoustic
+GBDCG0900020,2100017107,24-25,Kings of Convenience,folk,0.597,0.175,-17.509,0.0396,0.952,0.0948,0.114,0.215,122.934,1,Soft & acoustic
+US58L0951101,10911104,I Wish I Knew,Sharon Van Etten,folk,0.412,0.0333,-15.608,0.032,0.99,0.565,0.117,0.176,56.425,4,Quiet & instrumental
+QMDA62407074,3067527441,Who Wants,Jade Bird,folk,0.501,0.408,-7.969,0.0327,0.863,0.0,0.102,0.284,116.603,1,Soft & acoustic
+TCADT1803985,531830671,Soul Mourning,Howard,folk,0.498,0.423,-8.888,0.0253,0.227,0.622,0.313,0.14,144.072,6,Instrumental grooves
+QZAZS2410508,3090004811,"Moon, Sea, Devil",Florist,folk,0.408,0.363,-12.002,0.0392,0.876,0.00052,0.19,0.404,137.597,1,Soft & acoustic
+US38Y2447705,3057002891,Wonder Now,Camp Saint Helene,folk,0.423,0.343,-12.582,0.0271,0.253,0.16,0.102,0.181,130.768,1,Soft & acoustic
+GBUM71702208,404182982,Blackness of the Night,Yusuf / Cat Stevens,folk,0.649,0.358,-9.602,0.0536,0.631,0.0529,0.119,0.384,87.072,1,Soft & acoustic
+GBAFL2000257,1043215952,zombie girl,Adrianne Lenker,folk,0.538,0.103,-19.38,0.0462,0.914,5.3e-05,0.137,0.383,128.424,1,Soft & acoustic
+UKEMS2000013,1135013832,Adelaide,Maria BC,folk,0.29,0.032,-20.012,0.0389,0.989,0.218,0.116,0.0816,71.692,4,Quiet & instrumental
+USWB11600773,128544797,Library Magic,The Head And The Heart,folk,0.367,0.615,-7.585,0.0484,0.247,0.0,0.0978,0.532,181.141,0,Loud & fast
+USJ5G1611104,121171456,Drunk and On a Star,Kevin Morby,folk,0.433,0.37,-11.912,0.0324,0.142,0.332,0.0587,0.344,79.923,1,Soft & acoustic
+USATO1600189,130684802,Honest,Joseph,folk,0.41,0.44,-8.616,0.0307,0.662,0.0014,0.0663,0.304,98.097,1,Soft & acoustic
+FR2W81600011,143983976,By the River,Pi Ja Ma,folk,0.442,0.442,-8.02,0.035,0.551,0.0452,0.119,0.197,153.246,1,Soft & acoustic
+GBDNH1100104,30784231,New Year's Eve,First Aid Kit,folk,0.544,0.169,-9.993,0.0329,0.815,0.0,0.132,0.218,93.853,1,Soft & acoustic
+QMV8L1622807,3058911071,Seven Words,Weyes Blood,folk,0.298,0.306,-10.339,0.0326,0.816,0.113,0.13,0.0795,133.409,1,Soft & acoustic
+USDMG1570303,1993262107,Selfish Art,Noah Gundersen,folk,0.526,0.0681,-13.345,0.0461,0.773,3.73e-06,0.303,0.27,114.91,1,Soft & acoustic
+GB8MX2401126,3114709351,Carried Away,Quiet Houses,folk,0.468,0.759,-7.236,0.037,0.527,0.032,0.123,0.578,82.016,5,Upbeat & happy
+IEBWM1100007,2640611992,Little Bird,Lisa Hannigan,folk,0.263,0.283,-10.101,0.0318,0.957,0.000576,0.11,0.319,167.11,1,Soft & acoustic
+CAN111000670,1761916407,Beautiful Girl,William Fitzsimmons,folk,0.439,0.171,-17.422,0.0464,0.873,0.389,0.112,0.336,81.997,4,Quiet & instrumental
+USEP41606002,2310037345,If I Ever Was a Child,Wilco,folk,0.683,0.547,-11.816,0.0399,0.491,0.612,0.109,0.777,133.572,6,Instrumental grooves
+USSUB1823501,1137082722,Spring,Luluc,folk,0.629,0.451,-10.049,0.0239,0.216,0.0853,0.0948,0.32,102.971,1,Soft & acoustic
+FRPZ92440760,3092819981,sunflower ‘24,November Ultra,folk,0.399,0.123,-15.015,0.0334,0.972,5.45e-05,0.0862,0.386,139.676,1,Soft & acoustic
+QM7281860709,603335522,Aiir (acoustic),Henry Green,folk,0.62,0.171,-16.166,0.0492,0.904,0.025,0.102,0.0394,114.056,1,Soft & acoustic
+AUEL01600008,126320535,Give Me Tonight,Dustin Tebbutt,folk,0.648,0.368,-10.636,0.0373,0.739,0.0109,0.179,0.257,88.057,1,Soft & acoustic
+USRC17403085,75820201,This Old Guitar,John Denver,folk,0.479,0.103,-15.244,0.0375,0.943,0.000474,0.111,0.52,134.286,1,Soft & acoustic
+US38Y0811505,73916144,Blindsided,Bon Iver,folk,0.671,0.147,-18.626,0.0367,0.958,0.0755,0.144,0.0555,115.289,1,Soft & acoustic
+GBBRP0611908,2637914882,Snowy Atlas Mountains,Fionn Regan,folk,0.407,0.299,-13.889,0.0283,0.628,0.16,0.116,0.406,91.075,1,Soft & acoustic
+USRE19901438,780663,Both Sides Now,Joni Mitchell,folk,0.185,0.137,-13.527,0.0357,0.867,0.00137,0.1,0.128,77.315,1,Soft & acoustic
+GBYG51531002,3908361781,Applewood Road,Applewood Road,folk,0.463,0.0181,-20.122,0.0306,0.953,0.0328,0.109,0.14,65.125,1,Soft & acoustic
+GBARL1600791,132628194,Live,Billie Marten,folk,0.332,0.319,-11.599,0.0434,0.832,0.00027,0.107,0.273,174.861,1,Soft & acoustic
+GBAAN7200019,1379123062,Which Will,Nick Drake,folk,0.629,0.362,-9.571,0.0257,0.909,0.0462,0.0956,0.348,95.274,1,Soft & acoustic
+GBUM71406558,96448732,How Can I,Laura Marling,folk,0.567,0.267,-15.507,0.0436,0.703,2.02e-05,0.136,0.484,95.715,1,Soft & acoustic
+CAA501638103,3434892801,Flash in the Pan,Aliocha Schneider,folk,0.598,0.15,-14.378,0.0347,0.683,8.05e-05,0.11,0.585,97.339,1,Soft & acoustic
+US38W1225003,16502003,Maraqopa,Damien Jurado,folk,0.354,0.157,-17.029,0.0312,0.806,0.0122,0.387,0.269,89.835,1,Soft & acoustic
+GBARL1202014,65723659,Heal,Tom Odell,folk,0.444,0.179,-12.938,0.0396,0.952,0.00056,0.107,0.119,72.255,1,Soft & acoustic
+QMHBS1700005,144229226,If We Were Vampires,Jason Isbell and the 400 Unit,folk,0.629,0.208,-16.225,0.0324,0.824,3.7e-06,0.107,0.685,96.609,1,Soft & acoustic
+USRHR0720107,611248012,Light Under The Door,The Pines,folk,0.454,0.299,-15.944,0.0273,0.729,0.0167,0.0824,0.356,106.353,1,Soft & acoustic
+USSUB2038601,1137130232,Clay Pigeons,Shannon Lay,folk,0.504,0.148,-18.197,0.0355,0.927,0.449,0.107,0.274,141.101,4,Quiet & instrumental
+DEU241503582,102926666,Your Face,The Lake Poets,folk,0.587,0.37,-9.917,0.0552,0.667,0.0,0.141,0.671,133.62,1,Soft & acoustic
+GBCVZ1403637,100656668,Wait,Soak,folk,0.301,0.329,-9.226,0.0285,0.933,0.000254,0.113,0.0654,92.681,1,Soft & acoustic
+US3CR1501076,98579504,Like Sisters,The Weather Station,folk,0.525,0.222,-17.999,0.0296,0.906,0.369,0.114,0.115,109.401,1,Soft & acoustic
+USWB10002962,727544,Early Mornin' Rain,"Peter, Paul And Mary",folk,0.527,0.25,-19.277,0.0288,0.907,0.325,0.141,0.622,95.7,1,Soft & acoustic
+GBEEJ1700498,1699134927,Blues Run the Game (Radio Edit),Martin Simpson,folk,0.422,0.67,-8.837,0.0272,0.18,0.000374,0.142,0.65,96.98,5,Upbeat & happy
+USEP41613004,378403391,Opposite House,Cass McCombs,folk,0.485,0.574,-10.537,0.0295,0.632,0.255,0.0989,0.611,153.078,1,Soft & acoustic
+USJ5G1612105,128855460,I Will Ask You Twice,Ryley Walker,folk,0.628,0.401,-10.776,0.0277,0.701,0.00748,0.12,0.524,140.64,1,Soft & acoustic
+GBWZD1507401,2268257537,20:17,Ólafur Arnalds & Nils Frahm,folk,0.364,0.0225,-29.095,0.0395,0.986,0.902,0.319,0.178,109.114,4,Quiet & instrumental
+CAP431601354,133985106,Cavern's Dark,Mappe Of,folk,0.106,0.0639,-23.183,0.0524,0.251,0.801,0.102,0.0744,74.069,4,Quiet & instrumental
+USSM10026442,110090252,Scarborough Fair / Canticle,Simon & Garfunkel,folk,0.356,0.261,-14.963,0.0315,0.689,0.0,0.112,0.279,128.551,1,Soft & acoustic
+GBQ3Q1700003,1865559337,The Man Who,Beatie Wolfe,folk,0.33,0.381,-7.844,0.0424,0.412,0.0,0.0709,0.24,208.764,0,Loud & fast
+CAN111500069,134862722,The Great Bear,Great Lake Swimmers,folk,0.269,0.154,-15.362,0.0357,0.796,1.05e-06,0.106,0.0782,85.555,1,Soft & acoustic
+USSM19902989,555639,Thriller,Michael Jackson,hot100,0.776,0.857,-4.943,0.0704,0.0913,0.000164,0.918,0.799,118.418,3,Live recordings
+USQX92600464,3818963601,Dracula,Tame Impala & JENNIE,hot100,0.662,0.786,-3.254,0.0665,0.0247,0.0,0.875,0.761,114.972,3,Live recordings
+USUG12607376,4167204822,Been By Now,Morgan Wallen,hot100,0.804,0.748,-5.251,0.0285,0.273,0.0,0.0943,0.871,115.984,5,Upbeat & happy
+USUM72601821,4045817471,Hate That I Made You Love Me,Ariana Grande,hot100,0.628,0.472,-7.917,0.0321,0.73,2.14e-06,0.0798,0.47,96.031,1,Soft & acoustic
+USAR18400117,969252,Ghostbusters,Ray Parker Jr.,hot100,0.778,0.719,-9.698,0.0345,0.0123,0.0262,0.297,0.729,115.4,5,Upbeat & happy
+GBBBA7360050,7378740,Monster Mash,"Bobby ""Boris"" Pickett And The Crypt-Kickers",hot100,0.541,0.504,-14.191,0.457,0.375,0.0,0.421,0.707,68.482,2,Danceable & wordy
+USMO18400484,6816891,Somebody's Watching Me,Rockwell,hot100,0.812,0.595,-6.762,0.0345,0.0423,0.000191,0.0473,0.815,123.986,5,Upbeat & happy
+USQX91802457,564326662,Babydoll,Dominic Fike,hot100,0.762,0.604,-5.296,0.11,0.114,0.0,0.0271,0.847,168.007,5,Upbeat & happy
+USAT22509144,3763842212,I Just Might,Bruno Mars,hot100,0.786,0.712,-6.194,0.0328,0.054,0.0,0.136,0.871,102.989,5,Upbeat & happy
+USSM12600143,3904211281,Loving Life Again,Ella Langley,hot100,0.594,0.555,-6.353,0.0259,0.158,0.000364,0.167,0.361,100.11,5,Upbeat & happy
+USWD10422982,,This Is Halloween,The Citizens of Halloween,hot100,0.569,0.508,-12.823,0.0502,0.768,0.0,0.145,0.647,167.624,1,Soft & acoustic
+USSM12600141,,Be Her,Ella Langley,hot100,0.726,0.733,-5.218,0.0291,0.095,0.0,0.369,0.743,110.981,5,Upbeat & happy
+USSM12502221,3401554271,Midnight Sun,Zara Larsson,hot100,0.693,0.855,-4.834,0.115,0.0283,2.41e-06,0.0884,0.496,150.909,0,Loud & fast
+USWB12601324,3931143901,Mr. Know It All,Teddy Swims,hot100,0.718,0.786,-3.925,0.0469,0.0739,0.00018,0.0713,0.523,126.036,5,Upbeat & happy
+USSM12402225,2732302771,Earrings,Malcolm Todd,hot100,0.498,0.505,-8.644,0.0524,0.233,2.8e-05,0.365,0.547,79.877,5,Upbeat & happy
+USUG12604763,4022917771,Janice STFU,Drake,hot100,0.789,0.483,-7.959,0.0486,0.0808,0.0,0.172,0.194,125.952,5,Upbeat & happy
+USUM72602757,4159582602,Animal,KATSEYE,hot100,0.777,0.839,-4.119,0.0539,0.42,0.0,0.24,0.962,149.973,5,Upbeat & happy
+US6XF2500097,3899622791,Rethink Some Things,Luke Combs,hot100,0.572,0.853,-6.833,0.0474,0.315,2.57e-06,0.494,0.654,87.989,3,Live recordings
+USC4R1902694,774799712,"Spooky, Scary Skeletons (Undead Tombstone Remix)",Andrew Gold,hot100,0.772,0.788,-5.414,0.0619,0.0027,0.000502,0.353,0.574,127.91,5,Upbeat & happy
+USQX92504224,3537337561,Loser,Tame Impala,hot100,0.605,0.757,-3.847,0.0326,0.0194,0.000248,0.0801,0.821,82.957,5,Upbeat & happy
+GBBBM8400019,1036586,Last Christmas,Wham!,hot100,0.735,0.583,-8.648,0.0277,0.193,5.15e-06,0.183,0.941,107.741,5,Upbeat & happy
+USSM19400325,62710442,All I Want For Christmas Is You,Mariah Carey,hot100,0.52,0.649,-6.363,0.033,0.161,0.0,0.085,0.341,150.266,0,Loud & fast
+SEWEE1500509,144389048,Lush Life,Zara Larsson,hot100,0.694,0.712,-3.923,0.046,0.132,0.0,0.211,0.799,98.023,5,Upbeat & happy
+USUG12600011,4158680742,Dead Fresh,Lil Baby,hot100,0.78,0.485,-6.088,0.211,0.0149,0.0,0.074,0.445,85.03,2,Danceable & wordy
+USWB12602270,4092422631,My Body Isn't Ready,sombr,hot100,0.42,0.708,-2.7,0.029,0.0661,0.0,0.337,0.334,89.997,0,Loud & fast
+USUG12603505,4115963331,Great Expectation,Sienna Spiro,hot100,0.455,0.569,-4.589,0.0373,0.407,0.0,0.208,0.275,78.833,1,Soft & acoustic
+USRC12601059,4151325372,Oh Yeah?,Steve Lacy,hot100,0.52,0.89,-4.984,0.0535,0.0192,0.00478,0.101,0.236,143.999,0,Loud & fast
+QZZVQ2500344,3842044081,Empty Words,Corey Kent,hot100,0.69,0.543,-5.639,0.026,0.435,0.0,0.113,0.499,86.965,5,Upbeat & happy
+USSM12600103,3881984701,Coming Up Roses,Harry Styles,hot100,0.315,0.236,-11.066,0.0353,0.557,9.41e-06,0.0948,0.311,176.396,1,Soft & acoustic
+USUG12601719,3880025181,Freakin' Out,Dexter And The Moonrocks,hot100,0.55,0.829,-4.811,0.0422,0.173,1.32e-06,0.195,0.118,124.026,0,Loud & fast
+USRC12601064,4151325432,Nothing,Steve Lacy,hot100,0.47,0.286,-10.595,0.0353,0.827,0.00928,0.0863,0.318,186.678,1,Soft & acoustic
+USUG12601877,3911920921,Country And She Knows It,Luke Bryan,hot100,0.6,0.852,-4.878,0.0507,0.0335,0.0,0.147,0.614,149.042,0,Loud & fast
+USWB12600726,3924206181,Say So,Dan + Shay,hot100,0.574,0.738,-6.195,0.045,0.0279,0.0,0.0959,0.296,75.053,5,Upbeat & happy
+USRC12600928,4057589031,The Feeling,Steve Lacy,hot100,0.577,0.655,-8.013,0.0335,0.125,0.0245,0.0823,0.459,85.986,5,Upbeat & happy
+USWB12501544,3371384741,Painted You Pretty,Hudson Westbrook,hot100,0.592,0.598,-6.8,0.0331,0.0474,0.0,0.0819,0.256,133.912,0,Loud & fast
+QMRSZ2402141,3697436932,Kid Myself,John Morgan,hot100,0.461,0.727,-5.355,0.0376,0.14,1.01e-06,0.143,0.413,151.99,0,Loud & fast
+USCGJ0659337,1557745322,Duvet,boa,hot100,0.583,0.888,-9.414,0.0349,0.191,4.58e-05,0.0936,0.706,93.206,5,Upbeat & happy
+USWB12601043,3961505671,Bet On That,Blake Whiten,hot100,0.534,0.763,-4.194,0.0264,0.125,1.3e-06,0.259,0.445,156.0,0,Loud & fast
+QZWH32500409,3406102021,South Of Sanity,Zach Top,hot100,0.599,0.403,-8.955,0.0272,0.456,0.0,0.196,0.279,135.791,1,Soft & acoustic
+USSM12603838,4131547751,Morning Dew (Donk),Beyonce,hot100,0.472,0.537,-7.234,0.106,0.412,9.08e-05,0.0995,0.275,153.542,0,Loud & fast
+USWB12501510,3473545611,Chevy Silverado,Bailey Zimmerman,hot100,0.57,0.661,-5.987,0.0285,0.221,1.61e-05,0.117,0.396,136.039,0,Loud & fast
+USQX92506276,3850104061,Medicine,Megan Moroney,hot100,0.481,0.838,-4.649,0.0396,0.00426,2.29e-06,0.244,0.938,168.003,0,Loud & fast
+QMRSZ2501942,4029205591,Anytime Soon,Jason Aldean,hot100,0.603,0.815,-4.058,0.0382,0.153,0.0,0.11,0.471,106.058,5,Upbeat & happy
+GBARL2400873,2892817641,Angel Of My Dreams,JADE,hot100,0.532,0.723,-5.776,0.0452,0.104,0.000227,0.27,0.379,127.906,0,Loud & fast
+QZRD92507314,3447363691,Water At A Wedding,Greylan James,hot100,0.707,0.531,-7.673,0.0405,0.622,0.0,0.11,0.386,123.963,1,Soft & acoustic
+USAT22601563,3906722231,Kingdom Of Fear,Cameron Whitcomb,hot100,0.627,0.738,-6.3,0.0387,0.083,0.0,0.104,0.773,133.017,5,Upbeat & happy
+USQX92503154,3398156871,Worth Your Wild,Russell Dickerson,hot100,0.491,0.901,-3.057,0.0575,0.0027,0.0,0.32,0.73,93.856,5,Upbeat & happy

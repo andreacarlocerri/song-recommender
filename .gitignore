@@ -1,0 +1,7 @@
+# local secrets and system files
+.env
+.streamlit/secrets.toml
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.cache
