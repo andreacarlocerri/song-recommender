@@ -7,6 +7,8 @@ A song recommender for **Gnod** (gnoosic.com), which today recommends bands only
 
 *Ironhack Data Analytics bootcamp, Week 10 project (web scraping, APIs, unsupervised learning, Streamlit). Andrea Carlo Cerri, November 2026.*
 
+**Try the app:** [gnod-song-recommender.streamlit.app](https://gnod-song-recommender.streamlit.app) · **Slides:** [presentation](https://docs.google.com/presentation/d/1VHsD9G1R6L50gKlNEP64UVT7xrKRtZXXa_JsjUNkZGs/edit?usp=sharing)
+
 ## Results
 
 - **1,207 songs** from 15 genres plus the Billboard Hot 100, with 9 audio features each, and **200 chart songs** (Deezer worldwide top 100 + Billboard Hot 100).
